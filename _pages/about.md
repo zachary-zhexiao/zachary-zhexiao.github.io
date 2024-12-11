@@ -74,22 +74,22 @@ A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classific
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- 2024/2025 The Hong Kong Polytechnic University Scholarship
-- 2023/2024 Dean’s Honours List
-- 2022/2023 Dean’s Honours List
-- 2023/2024 HKSAR Government Scholarship Fund - Talent Development Scholarship
-- 2023/2024 HKSAR Government Scholarship Fund - Reaching Out Award
-- 2023/2024 Undergraduate Research and Innovation Scheme Scholarship
-- 2023/2024 Dunn Wing Tim Memorial Hall Scholarship
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024/2025* The Hong Kong Polytechnic University Scholarship
+- *2023/2024* Dean’s Honours List
+- *2022/2023* Dean’s Honours List
+- *2023/2024* HKSAR Government Scholarship Fund - Talent Development Scholarship
+- *2023/2024* HKSAR Government Scholarship Fund - Reaching Out Award
+- *2023/2024* Undergraduate Research and Innovation Scheme Scholarship
+- *2023/2024* Dunn Wing Tim Memorial Hall Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06 - present*, The Hong Kong Polytechnic University 
 
+
+<!-- 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
