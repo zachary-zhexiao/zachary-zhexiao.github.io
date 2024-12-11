@@ -39,8 +39,6 @@ My research interest includes image processing and neural rendering.
 
 - *2024.08*: &nbsp;🎉🎉 3rd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/19222'>AIM 2024 Challenge on Sparse Neural Rendering</a> **in ECCV 2024** and our method **ESNeRF** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.15045'>paper</a>.
 
-
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_video.png' alt="sym" width="80%"></div></div>
@@ -83,14 +81,16 @@ My research interest includes image processing and neural rendering.
 
 
 # 🎖 Honors and Awards
+- *2024.08* 2nd place in ECCV AIM Workshop 2024 on Efficient Video Super-Resolution for AV1 Compressed Content
+- *2024.08* 3rd place in ECCV AIM Workshop 2024 on Sparse Neural Rendering
+- *2023.12* 3rd place in Huawei ICT Competition Hong Kong SAR 2023-2024 Final [Computing Track]
 - *2024/2025* The Hong Kong Polytechnic University Scholarship
 - *2023/2024* Dean’s Honours List
-- *2022/2023* Dean’s Honours List
 - *2023/2024* HKSAR Government Scholarship Fund - Talent Development Scholarship
 - *2023/2024* HKSAR Government Scholarship Fund - Reaching Out Award
 - *2023/2024* Undergraduate Research and Innovation Scheme Scholarship
 - *2023/2024* Dunn Wing Tim Memorial Hall Scholarship
-
+- *2022/2023* Dean’s Honours List
 # 📖 Educations
 - *2021.06 - present*, The Hong Kong Polytechnic University 
 
