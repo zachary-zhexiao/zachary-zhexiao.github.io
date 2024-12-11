@@ -30,7 +30,7 @@ Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ
 
 - *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> **in ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.17256'>paper</a>.
 
-- *2024.08*: &nbsp;🎉🎉 3rd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/19222'>ECCV AIM Workshop 2024 on Sparse Neural Rendering</a> **in ECCV 2024** and our method **ESNeRF** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.15045'>paper</a>.
+- *2024.08*: &nbsp;🎉🎉 3rd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/19222'>AIM 2024 Challenge on Sparse Neural Rendering</a> **in ECCV 2024** and our method **ESNeRF** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.15045'>paper</a>.
 
 
 # 📝 Publications 
