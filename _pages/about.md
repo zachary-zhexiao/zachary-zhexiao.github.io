@@ -50,7 +50,13 @@ Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2024/2025 The Hong Kong Polytechnic University Scholarship
+- 2023/2024 Dean’s Honours List
+- 2022/2023 Dean’s Honours List
+- 2023/2024 HKSAR Government Scholarship Fund - Talent Development Scholarship
+- 2023/2024 HKSAR Government Scholarship Fund - Reaching Out Award
+- 2023/2024 Undergraduate Research and Innovation Scheme Scholarship
+- 2023/2024 Dunn Wing Tim Memorial Hall Scholarship
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
