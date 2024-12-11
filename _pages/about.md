@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate year 4 student at The Hong Kong Polytechnic University (PolyU), under the guidance of Prof. Kenneth K. M. Lam and in close collaboration with Jun Xiao.
+I am an undergraduate year 4 student at The Hong Kong Polytechnic University (PolyU), under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Jun Xiao</a>.
 
 My research interest includes image processing and neural rendering.
 
