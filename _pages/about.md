@@ -83,7 +83,8 @@ My research interest includes image processing and neural rendering.
 
 
 # 🎖 Honors and Awards
-- *2024.12* **The Hong Kong Polytechnic University Scholarship** (Around 20 awardees university wise for outstanding achievements)
+- *2024.12* **The Hong Kong Polytechnic University Scholarship**
+  *Around 20 awardees university wise for outstanding achievements*
 - *2024.08* **2nd** place in ECCV AIM Workshop 2024 on Efficient Video Super-Resolution for AV1 Compressed Content
 - *2024.08* **3rd** place in ECCV AIM Workshop 2024 on Sparse Neural Rendering for Track 1 and Track 2
 - *2023.12* **3rd** place in Huawei ICT Competition Hong Kong SAR 2023-2024 Final [Computing Track]
