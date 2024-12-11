@@ -93,6 +93,8 @@ My research interest includes image processing and neural rendering.
 - *2023/2024* Undergraduate Research and Innovation Scheme Scholarship
 - *2023/2024* Dunn Wing Tim Memorial Hall Scholarship
 - *2022/2023* Dean’s Honours List
+
+
 # 📖 Educations
 - *2021.06 - present*, The Hong Kong Polytechnic University 
 
