@@ -35,21 +35,21 @@ Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_video.png' alt="sym" width="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_video.png' alt="sym" height="250px"></div></div>
 <div class='paper-box-text' markdown="1">
 [AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content](https://arxiv.org/pdf/2409.17256)
 **Zhe Xiao** et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_3D.png' alt="sym" width="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_3D.png' alt="sym" height="250px"></div></div>
 <div class='paper-box-text' markdown="1">
 [AIM 2024 Sparse Neural Rendering Challenge: Methods and Results](https://arxiv.org/pdf/2409.15045)
 **Zhe Xiao** et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSIPA 2024</div><img src='images/APSIPA2024.png' alt="sym" width="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSIPA 2024</div><img src='images/APSIPA2024.png' alt="sym" height="250px"></div></div>
 <div class='paper-box-text' markdown="1">
 A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification](http://www.apsipa2024.org/files/papers/496.pdf)
 **Zhe Xiao**, Zongqi He, Zhuoning Xu, Wenjing Jia, Kin-Man Lam et al.
