@@ -37,7 +37,7 @@ My research interest includes image processing and neural rendering.
 
 - *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> **in ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.17256'>paper</a>.
 
-- *2024.08*: &nbsp;🎉🎉 3rd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/19222'>AIM 2024 Challenge on Sparse Neural Rendering</a> **in ECCV 2024** and our method **ESNeRF** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.15045'>paper</a>.
+- *2024.08*: &nbsp;🎉🎉 3rd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/19222'>AIM 2024 Challenge on Sparse Neural Rendering for Track 1 and Track 2</a> **in ECCV 2024** and our method **ESNeRF** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.15045'>paper</a>.
 
 # 📝 Publications 
 
@@ -81,10 +81,10 @@ My research interest includes image processing and neural rendering.
 
 
 # 🎖 Honors and Awards
-- *2024.08* 2nd place in ECCV AIM Workshop 2024 on Efficient Video Super-Resolution for AV1 Compressed Content
-- *2024.08* 3rd place in ECCV AIM Workshop 2024 on Sparse Neural Rendering
-- *2023.12* 3rd place in Huawei ICT Competition Hong Kong SAR 2023-2024 Final [Computing Track]
-- *2024/2025* The Hong Kong Polytechnic University Scholarship
+- *2024.12* **The Hong Kong Polytechnic University Scholarship** (Around 20 awardees university wise for outstanding achievements)
+- *2024.08* **2nd** place in ECCV AIM Workshop 2024 on Efficient Video Super-Resolution for AV1 Compressed Content
+- *2024.08* **3rd** place in ECCV AIM Workshop 2024 on Sparse Neural Rendering for Track 1 and Track 2
+- *2023.12* **3rd** place in Huawei ICT Competition Hong Kong SAR 2023-2024 Final [Computing Track]
 - *2023/2024* Dean’s Honours List
 - *2023/2024* HKSAR Government Scholarship Fund - Talent Development Scholarship
 - *2023/2024* HKSAR Government Scholarship Fund - Reaching Out Award
