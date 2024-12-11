@@ -46,24 +46,32 @@ My research interest includes image processing and neural rendering.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_video.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content](https://arxiv.org/pdf/2409.17256)
+  
 **Zhe Xiao** et al.
 </div>
 </div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_3D.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AIM 2024 Sparse Neural Rendering Challenge: Methods and Results](https://arxiv.org/pdf/2409.15045)
+  
 **Zhe Xiao** et al.
 </div>
 </div>
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSIPA 2024</div><img src='images/APSIPA2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification](http://www.apsipa2024.org/files/papers/496.pdf)
+[A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification](http://www.apsipa2024.org/files/papers/496.pdf)
+  
 **Zhe Xiao**, Zongqi He, Zhuoning Xu, Wenjing Jia, Kin-Man Lam et al.
 </div>
 </div>
 
+<!-- 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -71,6 +79,8 @@ A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classific
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
+
 
 # 🎖 Honors and Awards
 - *2024/2025* The Hong Kong Polytechnic University Scholarship
