@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhe Xiao"
-description              : "Zhe Xiao's homepage"
+description              : "Undergraduate at The Hong Kong Polytechnic University (PolyU)"
 repository               : "Zachary-XIAO/zhexiao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Zhe Xiao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "The Hong Kong Polytechnic University (PolyU)"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kH0sdkwAAAAJ"
