@@ -21,7 +21,9 @@ I am an undergraduate year 4 student at The Hong Kong Polytechnic University (Po
 
 My research interest includes image processing and neural rendering.
 
-Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+<!--Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
+
 
 
 
@@ -90,3 +92,5 @@ A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classific
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
+
+<!-- -->
