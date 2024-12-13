@@ -31,15 +31,19 @@ My research interest includes image processing and neural rendering.
 
 # 🔥 News
 
+- *2024.12*: &nbsp;🎉🎉 Proud to announce that I have been awarded **The Hong Kong Polytechnic University Scholarship** among a group of 20 awardees!
+- 
 - *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> **in ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.17256'>paper</a>.
 
 - *2024.08*: &nbsp;🎉🎉 3rd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/19222'>AIM 2024 Challenge on Sparse Neural Rendering for Track 1 and Track 2</a> **in ECCV 2024** and our method **ESNeRF** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.15045'>paper</a>.
 
-- *2024.10*: &nbsp;🎉🎉 Our paper for OCT image super-resolution is accepted by **IWAIT 2025**. 
-
 - *2024.09*: &nbsp;🎉🎉 Our paper for enhancing 3D Gaussian splatting for novel view synthesis under sparse view is submitted to **ICASSP 2025**. 
 
-- *2024.09*: &nbsp;🎉🎉 Our paper for OCT image denoising and classification is accepted by **APSIPA 2024**. 
+- *2024.09*: &nbsp;🎉🎉 Our paper for medical OCT image denoising and classification is accepted by **APSIPA 2024** as an oral presentation.
+
+- *2024.10*: &nbsp;🎉🎉 Our paper for medical OCT image super-resolution is accepted by **IWAIT 2025** as a best paper candidate.
+
+
 
 # 📝 Publications 
 
