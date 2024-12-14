@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am an undergraduate year 4 student at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Dr. Jun Xiao</a>.
+I am a final-year undergraduate majoring in Electronic and Information Engineering at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth K. M. Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Dr. Jun Xiao</a>.
 
 My research interest includes image processing and neural rendering.
 
@@ -90,19 +90,22 @@ My research interest includes image processing and neural rendering.
 - *2024.12* **The Hong Kong Polytechnic University Scholarship**
 
   *~ Around 20 awardees university wise for outstanding achievements*
-- *2024.08* **2nd** place in ECCV AIM Workshop 2024 on Efficient Video Super-Resolution for AV1 Compressed Content
-- *2024.08* **3rd** place in ECCV AIM Workshop 2024 on Sparse Neural Rendering for Track 1 and Track 2
-- *2023.12* **3rd** place in Huawei ICT Competition Hong Kong SAR 2023-2024 Final [Computing Track]
-- *2023/2024* Dean’s Honours List
-- *2023/2024* HKSAR Government Scholarship Fund - Talent Development Scholarship
-- *2023/2024* HKSAR Government Scholarship Fund - Reaching Out Award
-- *2023/2024* Undergraduate Research and Innovation Scheme Scholarship
-- *2023/2024* Dunn Wing Tim Memorial Hall Scholarship
-- *2022/2023* Dean’s Honours List
+- *2024.08*: **2nd** place in ECCV AIM Workshop 2024 on Efficient Video Super-Resolution for AV1 Compressed Content
+- *2024.08*: **3rd** place in ECCV AIM Workshop 2024 on Sparse Neural Rendering for Track 1 and Track 2
+- *2023.12*: **3rd** place in Huawei ICT Competition Hong Kong SAR 2023-2024 Final [Computing Track]
+- *2024.10*: Dean’s Honours List
+- *2024.04*: HKSAR Government Scholarship Fund - Talent Development Scholarship
+- *2024.04*: HKSAR Government Scholarship Fund - Reaching Out Award
+- *2024.09*: Undergraduate Research and Innovation Scheme Scholarship
+- *2024.06*: Dunn Wing Tim Memorial Hall Scholarship
+- *2023.10*: Dean’s Honours List
+
+
 
 
 # 📖 Educations
-- *2021.06 - present*, The Hong Kong Polytechnic University
+- *2021.06 - present*, Electronic and Information Engineering, The Hong Kong Polytechnic University
+
 
 
 <!-- 
@@ -110,6 +113,9 @@ My research interest includes image processing and neural rendering.
 -->
 
 <!-- 
+# 💻 Experience
+- *2024.07 - 2024.08*, Engineering Summer Programme, Girton College, University of Cambridge
+- *2023.09 – 2024.09*, Undergraduate Research and Innovation Scheme (URIS)
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
