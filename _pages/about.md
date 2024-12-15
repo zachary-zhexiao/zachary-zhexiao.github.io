@@ -49,7 +49,7 @@ My research interest includes image processing and neural rendering.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_video.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-[AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content](https://arxiv.org/pdf/2409.17256)
+[AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content](https://arxiv.org/abs/2409.17256)
   
 **Zhe Xiao** et al.
 </div>
@@ -59,7 +59,7 @@ My research interest includes image processing and neural rendering.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_3D.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-[AIM 2024 Sparse Neural Rendering Challenge: Methods and Results](https://arxiv.org/pdf/2409.15045)
+[AIM 2024 Sparse Neural Rendering Challenge: Methods and Results](https://arxiv.org/abs/2409.15045)
   
 **Zhe Xiao** et al.
 </div>
