@@ -31,7 +31,7 @@ My research interest includes image processing and neural rendering.
 
 # 🔥 News
 
-- *2024.12*: &nbsp;🎉🎉 Proud to announce that I have been awarded **The Hong Kong Polytechnic University Scholarship** among a group of ~20 awardees!
+- *2024.12*: &nbsp;🎉🎉 I am awarded **The Hong Kong Polytechnic University Scholarship** among a group of ~20 awardees!
 
 - *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> **in ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.17256'>paper</a>.
 
