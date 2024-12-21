@@ -31,7 +31,7 @@ I am also a photography lover—check out my selected photos [here](photowall/ph
 
 # 🔥 News
 
-- *2024.09*: &nbsp;🎉🎉 Our paper on enhancing 3D Gaussian splatting for novel view synthesis under sparse views is accepted by **ICASSP 2025**. 
+- *2024.12*: &nbsp;🎉🎉 Our paper on enhancing 3D Gaussian splatting for novel view synthesis under sparse views is accepted by **ICASSP 2025**. 
 
 - *2024.12*: &nbsp;🎉🎉 Awarded **The Hong Kong Polytechnic University Scholarship** among a group of ~20 awardees!
 
