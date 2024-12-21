@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vision Gallery - Zachary</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: space-between;
+            /* Split screen into left and right sections */
+        }
+
+        /* Left section for vertical images */
+        .left {
+            width: 50%;
+            /* Take half of the screen */
+            margin-left: 5%;
+            padding: 10px;
+            column-count: 4;
+            /* 3 columns for vertical images */
+            column-gap: 10px;
+            /* Space between columns */
+        }
+
+        /* Right section for horizontal images */
+        .right {
+            width: 50%;
+            margin-right: 5%;
+            /* Take half of the screen */
+            padding: 10px;
+            column-count: 2;
+            /* 2 columns for horizontal images */
+            column-gap: 10px;
+            /* Space between columns */
+        }
+
+        .photo-wall img {
+            width: 100%;
+            /* Make the image fill the column width */
+            height: auto;
+            /* Maintain aspect ratio */
+            margin-bottom: 10px;
+            /* Space between images */
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+
+        .photo-wall img:hover {
+            transform: scale(1.05);
+            /* Slight zoom effect on hover */
+        }
+
+        .rotate {
+            transform: rotate(90deg);
+            /* Rotate by 90 degrees */
+            width: 100%;
+            /* Ensure the width fills the container */
+            height: auto;
+            /* Maintain aspect ratio */
+        }
+
+        @media (max-width: 768px) {
+
+            /* For medium screens, stack the sections into one column */
+            body {
+                flex-direction: column;
+            }
+
+            .left,
+            .right {
+                width: 100%;
+                /* Each section takes up full width on smaller screens */
+                column-count: 1;
+                /* Stack images in one column */
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="left">
+        <div class="photo-wall">
+            <img src="vertical/IMG_20230508_183828.jpg" alt="Photo">
+            <img src="vertical/IMG_20230512_001826.jpg" alt="Photo">
+            <img src="vertical/IMG_20230512_001915.jpg" alt="Photo">
+            <img src="vertical/IMG_20230512_121413.jpg" alt="Photo">
+            <img src="vertical/IMG_20230512_122453.jpg" alt="Photo">
+            <img src="vertical/IMG_20230520_212522.jpg" alt="Photo">
+            <img src="vertical/IMG_20230603_000822.jpg" alt="Photo">
+            <img src="vertical/IMG_20230603_011201.jpg" alt="Photo">
+            <img src="vertical/IMG_20230603_113235.jpg" alt="Photo">
+            <img src="vertical/IMG_20230603_113352.jpg" alt="Photo">
+            <img src="vertical/IMG_20230603_113602.jpg" alt="Photo">
+            <img src="vertical/IMG_20230603_120300.jpg" alt="Photo">
+            <img src="vertical/IMG_20230607_011525.jpg" alt="Photo">
+            <img src="vertical/IMG_20230610_103914.jpg" alt="Photo">
+            <img src="vertical/IMG_20230614_202529.jpg" alt="Photo">
+            <img src="vertical/IMG_20230623_211453.jpg" alt="Photo">
+            <img src="vertical/IMG_20230623_212405.jpg" alt="Photo">
+            <img src="vertical/IMG_20230624_151029.jpg" alt="Photo">
+            <img src="vertical/IMG_20230624_151108.jpg" alt="Photo">
+            <img src="vertical/IMG_20230624_151207.jpg" alt="Photo">
+            <img src="vertical/IMG_20230624_151629.jpg" alt="Photo">
+            <img src="vertical/IMG_20230701_213857.jpg" alt="Photo">
+            <img src="vertical/IMG_20230701_222547.jpg" alt="Photo">
+            <img src="vertical/IMG_20230708_134754.jpg" alt="Photo">
+            <img src="vertical/IMG_20230708_135121.jpg" alt="Photo">
+            <img src="vertical/IMG_20230727_181744.jpg" alt="Photo">
+            <img src="vertical/IMG_20230729_084043.jpg" alt="Photo">
+            <img src="vertical/IMG_20230729_084158.jpg" alt="Photo">
+            <img src="vertical/IMG_20230729_084632.jpg" alt="Photo">
+            <img src="vertical/IMG_20230729_084710.jpg" alt="Photo">
+            <img src="vertical/IMG_20230809_013521.jpg" alt="Photo">
+            <img src="vertical/IMG_20230813_203223.jpg" alt="Photo">
+            <img src="vertical/IMG_20230825_002221.jpg" alt="Photo">
+            <img src="vertical/IMG_20230826_002933.jpg" alt="Photo">
+            <img src="vertical/IMG_20230827_221152.jpg" alt="Photo">
+            <img src="vertical/IMG_20231002_224514.jpg" alt="Photo">
+            <img src="vertical/IMG_20231002_224704.jpg" alt="Photo">
+            <img src="vertical/IMG_20231002_224851.jpg" alt="Photo">
+            <img src="vertical/IMG_20231002_224939.jpg" alt="Photo">
+            <img src="vertical/IMG_20231102_012504.jpg" alt="Photo">
+            <img src="vertical/IMG_20231102_012527.jpg" alt="Photo">
+            <img src="vertical/IMG_20231102_012725.jpg" alt="Photo">
+            <img src="vertical/IMG_20240719_092934.jpg" alt="Photo">
+            <img src="vertical/IMG_20240719_093038.jpg" alt="Photo">
+            <img src="vertical/IMG_20240731_003845.jpg" alt="Photo">
+            <img src="vertical/IMG_20240731_011435.jpg" alt="Photo">
+            <img src="vertical/IMG_20240801_183104.jpg" alt="Photo">
+            <img src="vertical/IMG_20240801_183242.jpg" alt="Photo">
+            <img src="vertical/IMG_20240804_133248.jpg" alt="Photo">
+            <img src="vertical/IMG_20240817_032559.jpg" alt="Photo">
+            <img src="vertical/IMG_20240817_032803.jpg" alt="Photo">
+            <img src="vertical/IMG_20240817_032946.jpg" alt="Photo">
+            <img src="vertical/IMG_20240817_033042.jpg" alt="Photo">
+            <img src="vertical/IMG_20240817_033517.jpg" alt="Photo">
+            <img src="vertical/IMG_20240915_234627.jpg" alt="Photo">
+            <img src="vertical/IMG_20240918_014711.jpg" alt="Photo">
+            <img src="vertical/IMG_20240925_235130.jpg" alt="Photo">
+            <img src="vertical/IMG_20240925_235315.jpg" alt="Photo">
+            <img src="vertical/IMG_20240930_221717.jpg" alt="Photo">
+            <img src="vertical/IMG_20240930_221845.jpg" alt="Photo">
+            <img src="vertical/IMG_20240930_223456.jpg" alt="Photo">
+            <img src="vertical/IMG_20241204_194359.jpg" alt="Photo">
+            <img src="vertical/MEITU_20241103_003658732.jpg" alt="Photo">
+            <img src="vertical/MEITU_20241103_003900343.jpg" alt="Photo">
+            <img src="vertical/MTXX_MH20240324_234306614.jpg" alt="Photo">
+            <img src="vertical/MTXX_MH20240324_235056522.jpg" alt="Photo">
+            <img src="vertical/MTXX_MH20240324_235826975.jpg" alt="Photo">
+            <img src="vertical/MTXX_MH20240324_235914899.jpg" alt="Photo">
+
+        </div>
+
+    </div>
+    <div class="right">
+        <div class="photo-wall">
+            <img src="horizontal/IMG_20230512_002006.jpg" alt="Photo">
+            <img src="horizontal/IMG_20230512_122342.jpg" alt="Photo">
+            <img src="horizontal/IMG_20230603_115139.jpg" alt="Photo">
+            <img src="horizontal/IMG_20230612_225818.jpg" alt="Photo">
+            <img src="horizontal/IMG_20230613_224014.jpg" alt="Photo">
+            <img src="horizontal/IMG_20230615_204028.jpg" alt="Photo">
+            <img src="horizontal/IMG_20230623_214453.jpg" alt="Photo">
+            <img src="horizontal/IMG_20230624_150937.jpg" alt="Photo">
+            <img src="horizontal/IMG_20230701_224715.jpg" alt="Photo">
+            <img src="horizontal/IMG_20230727_181725.jpg" alt="Photo">
+            <img src="horizontal/IMG_20230819_172551.jpg" alt="Photo">
+            <img src="horizontal/IMG_20230824_235733.jpg" alt="Photo">
+            <img src="horizontal/IMG_20230825_000028.jpg" alt="Photo">
+            <img src="horizontal/IMG_20230924_142921.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240709_215024.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240731_005436.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240731_011821.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240817_031711.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240817_031816.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240817_033141.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240817_033343.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240913_202404.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240915_015216.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240925_235546.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240925_235603.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240925_235619.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240925_235830.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240926_000004.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240926_000301.jpg" alt="Photo">
+            <img src="horizontal/IMG_20240927_223829.jpg" alt="Photo">
+            <img src="horizontal/MTXX_MH20230930_004608883.jpg" alt="Photo">
+
+        </div>
+    </div>
+
+</body>
+
+</html>
