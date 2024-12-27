@@ -55,13 +55,16 @@ I am also a photography lover—check out my selected photos [here](photowall/ph
 </div>
 </div>
 
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWAIT 2025</div><img src='' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-[MFGAN:OCTImageSuper‑resolution and Enhancement with Blind Degradation and Multi‑frame Fusion]()
-  
+MFGAN: OCT Image Super‑resolution and Enhancement with Blind Degradation and Multi‑frame Fusion
+
 Zongqi He, **Zhe Xiao**, Wenjing Jia, Kin‑Man Lam et al.
 </div>
 </div>
+-->
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_video.png' alt="sym" width="80%"></div></div>
