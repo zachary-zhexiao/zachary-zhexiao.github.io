@@ -31,9 +31,12 @@ I am also a photography lover—check out my selected photos [here](photowall/ph
 
 # 🔥 News
 
+- *2025.01*: &nbsp;🎉🎉 Our paper on enhancing 3D Gaussian splatting for novel view synthesis is submitted to **IEEE Transactions on Visualization and Computer Graphics (TVCG)**.
+
 - *2025.01*: &nbsp;🎉🎉 Our paper on medical OCT image super-resolution has been awarded the **Best Paper Award** at **IWAIT 2025**.
 
-- *2024.12*: &nbsp;🎉🎉 Our paper on enhancing 3D Gaussian splatting for novel view synthesis under sparse views is accepted by **ICASSP 2025**. 
+- *2024.12*: &nbsp;🎉🎉 Our paper **See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization** is accepted by **ICASSP 2025**. 
+<!--on enhancing 3D Gaussian splatting for novel view synthesis under sparse views-->
 
 - *2024.12*: &nbsp;🎉🎉 Awarded **The Hong Kong Polytechnic University Scholarship** among a group of ~20 awardees!
 
@@ -45,6 +48,16 @@ I am also a photography lover—check out my selected photos [here](photowall/ph
 
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ICASSP_2025.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+[See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization](https://arxiv.org/abs/2501.11508)
+  
+Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun Xiao, Kin-Man Lam
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSIPA 2024</div><img src='images/APSIPA2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
