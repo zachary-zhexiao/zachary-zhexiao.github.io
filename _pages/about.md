@@ -55,6 +55,8 @@ I am also a photography lover—check out my selected photos [here](photowall/ph
 [See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization](https://arxiv.org/abs/2501.11508)
   
 Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun Xiao, Kin-Man Lam
+
+<sup>*</sup>Equal Contribution
 </div>
 </div>
 
