@@ -59,18 +59,13 @@ main {
 }
 
 @media (max-width: 768px) {
-
-    /* For medium screens, stack the sections into one column */
     body {
         flex-direction: column;
     }
-
     .left,
     .right {
         width: 100%;
-        /* Each section takes up full width on smaller screens */
-        column-count: 1;
-        /* Stack images in one column */
+        column-count: 2;
     }
 }
 

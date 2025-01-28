@@ -117,8 +117,7 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 # 🎖 Honors and Awards
 - *2025.01*: **Best Paper Award** at IWAIT 2025
 
-- *2024.12*: **The Hong Kong Polytechnic University Scholarship**
-
+- *2024.12*: **The Hong Kong Polytechnic University Scholarship** 
   *~ Around 20 awardees university wise for outstanding achievements*
 - *2024.08*: **2nd** place in ECCV AIM Workshop 2024 on Efficient Video Super-Resolution for AV1 Compressed Content
 - *2024.08*: **3rd** place in ECCV AIM Workshop 2024 on Sparse Neural Rendering for Track 1 and Track 2
