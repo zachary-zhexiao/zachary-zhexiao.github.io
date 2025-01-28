@@ -71,7 +71,7 @@ main {
 
 footer {
     /* background-color: #333; Dark background for the footer */
-    color: #fff; /* White text color */
+    color: #f4f4f4; /* White text color */
     text-align: center;
     padding: 20px 0; /* Add padding for spacing */
     margin-top: auto; /* Push the footer to the bottom */
