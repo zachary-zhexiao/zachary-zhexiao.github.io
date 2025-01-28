@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vision Gallery - Zachary</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: space-between;
+            /* Split screen into left and right sections */
+        }
+
+        /* Left section for vertical images */
+        .left {
+            width: 50%;
+            /* Take half of the screen */
+            margin-left: 5%;
+            padding: 10px;
+            column-count: 4;
+            /* 3 columns for vertical images */
+            column-gap: 10px;
+            /* Space between columns */
+        }
+
+        /* Right section for horizontal images */
+        .right {
+            width: 50%;
+            margin-right: 5%;
+            /* Take half of the screen */
+            padding: 10px;
+            column-count: 2;
+            /* 2 columns for horizontal images */
+            column-gap: 10px;
+            /* Space between columns */
+        }
+
+        .photo-wall img {
+            width: 100%;
+            /* Make the image fill the column width */
+            height: auto;
+            /* Maintain aspect ratio */
+            margin-bottom: 10px;
+            /* Space between images */
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+
+        .photo-wall img:hover {
+            transform: scale(1.05);
+            /* Slight zoom effect on hover */
+        }
+
+        .rotate {
+            transform: rotate(90deg);
+            /* Rotate by 90 degrees */
+            width: 100%;
+            /* Ensure the width fills the container */
+            height: auto;
+            /* Maintain aspect ratio */
+        }
+
+        @media (max-width: 768px) {
+
+            /* For medium screens, stack the sections into one column */
+            body {
+                flex-direction: column;
+            }
+
+            .left,
+            .right {
+                width: 100%;
+                /* Each section takes up full width on smaller screens */
+                column-count: 1;
+                /* Stack images in one column */
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="left">
+        <div class="photo-wall" id="vertical-images"></div>
+    </div>
+    <div class="right">
+        <div class="photo-wall" id="horizontal-images"></div>
+    </div>
+
+    <script>
+        // Fetch the JSON file
+        fetch('images.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            console.log('Data loaded:', data); // Log the data to verify it's correct
+            const verticalImages = document.getElementById('vertical-images');
+            const horizontalImages = document.getElementById('horizontal-images');
+
+            // Load vertical images
+            data.vertical.forEach(image => {
+                const img = document.createElement('img');
+                img.src = `vertical/${image}`;
+                img.alt = 'Photo';
+                verticalImages.appendChild(img);
+            });
+
+            // Load horizontal images
+            data.horizontal.forEach(image => {
+                const img = document.createElement('img');
+                img.src = `horizontal/${image}`;
+                img.alt = 'Photo';
+                horizontalImages.appendChild(img);
+            });
+        })
+        .catch(error => console.error('Error loading images:', error));
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,88 @@
+main {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: space-between;
+    /* Split screen into left and right sections */
+}
+
+/* Left section for vertical images */
+.left {
+    width: 75%;
+    /* Take half of the screen */
+    margin-left: 5%;
+    padding: 10px;
+    column-count: 5;
+    /* 3 columns for vertical images */
+    column-gap: 10px;
+    /* Space between columns */
+}
+
+/* Right section for horizontal images */
+.right {
+    width: 25%;
+    margin-right: 5%;
+    /* Take half of the screen */
+    padding: 10px;
+    column-count: 1;
+    /* 2 columns for horizontal images */
+    column-gap: 10px;
+    /* Space between columns */
+}
+
+.photo-wall img {
+    width: 100%;
+    /* Make the image fill the column width */
+    height: auto;
+    /* Maintain aspect ratio */
+    margin-bottom: 10px;
+    /* Space between images */
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.photo-wall img:hover {
+    transform: scale(1.05);
+    /* Slight zoom effect on hover */
+}
+
+.rotate {
+    transform: rotate(90deg);
+    /* Rotate by 90 degrees */
+    width: 100%;
+    /* Ensure the width fills the container */
+    height: auto;
+    /* Maintain aspect ratio */
+}
+
+@media (max-width: 768px) {
+
+    /* For medium screens, stack the sections into one column */
+    body {
+        flex-direction: column;
+    }
+
+    .left,
+    .right {
+        width: 100%;
+        /* Each section takes up full width on smaller screens */
+        column-count: 1;
+        /* Stack images in one column */
+    }
+}
+
+footer {
+    /* background-color: #333; Dark background for the footer */
+    color: #fff; /* White text color */
+    text-align: center;
+    padding: 20px 0; /* Add padding for spacing */
+    margin-top: auto; /* Push the footer to the bottom */
+}
+#clustrmaps-widget {
+    margin: 0 auto; /* Center the widget */
+    max-width: 100%; /* Ensure it doesn't overflow */
+}
+        
