@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a final-year undergraduate majoring in Electronic and Information Engineering at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>, under the guidance of <a href='https://www.eie.polyu.edu.hk/~enkmlam/'>Prof. Kenneth Kin-Man Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Dr. Jun Xiao</a>.
+I am a final-year undergraduate majoring in Electronic and Information Engineering at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>. I'm honored to be supervised by <a href='https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ'>Prof. Kenneth Kin-Man Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Dr. Jun Xiao</a>. I'm thankful for the mentorship by <a href='https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ'>Prof. Wenjing Jia</a>
 
 My research interest includes computer vision and 3D reconstruction (e.g., image processing, novel view synthesis)
 
