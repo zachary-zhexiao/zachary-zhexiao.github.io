@@ -75,15 +75,19 @@ Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun
 </div>
 </div>
 
-<!-- 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWAIT 2025</div><img src='' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 MFGAN: OCT Image Super‑resolution and Enhancement with Blind Degradation and Multi‑frame Fusion
 
 Zongqi He, **Zhe Xiao**, Wenjing Jia, Kin‑Man Lam et al.
+
+**IWAIT 2025** <span style="color:red">**(Best Paper Award)**</span>
+
+
 </div>
 </div>
--->
+
 
 
 
