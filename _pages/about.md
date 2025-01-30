@@ -131,7 +131,7 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 - *2025.01*: **Best Paper Award** at IWAIT 2025
 
 - *2024.12*: **The Hong Kong Polytechnic University Scholarship** 
-  *~ Around 20 awardees university wise for outstanding achievements*
+  *(Around 20 awardees university wise for outstanding achievements)*
 - *2024.08*: **2nd** place in ECCV AIM Workshop 2024 on Efficient Video Super-Resolution for AV1 Compressed Content
 - *2024.08*: **3rd** place in ECCV AIM Workshop 2024 on Sparse Neural Rendering for Track 1 and Track 2
 - *2023.12*: **3rd** place in Huawei ICT Competition Hong Kong SAR 2023-2024 Final [Computing Track]
@@ -139,14 +139,14 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 - *2024.04*: HKSAR Government Scholarship Fund - Talent Development Scholarship
 - *2024.04*: HKSAR Government Scholarship Fund - Reaching Out Award
 - *2024.09*: Undergraduate Research and Innovation Scheme Scholarship
-- *2024.06*: Dunn Wing Tim Memorial Hall Scholarship
+- *2024.06*: Dunn Wing Tim Memorial Hall Scholarship *(the only one awardee from the department in the academic year)*
 - *2023.10*: Dean’s Honours List
-
+- *2023.10*: Best GPA Award, Best Semester GPA Award, presented by Department of Electronic and Information Engineering
 
 
 
 # 📖 Educations
-- *2021.06 - present*, Electronic and Information Engineering, The Hong Kong Polytechnic University
+- *2021.08 - present*, Electronic and Information Engineering, The Hong Kong Polytechnic University
 
 
 
