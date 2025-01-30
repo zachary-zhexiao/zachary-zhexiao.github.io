@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a final-year undergraduate majoring in Electronic and Information Engineering at <a href='https://www.polyu.edu.hk/'>The Hong Kong Polytechnic University (PolyU)</a>. I'm honored to be supervised by <a href='https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ'>Prof. Kenneth Kin-Man Lam</a> and in close collaboration with <a href='https://junxiao01.github.io/'>Dr. Jun Xiao</a>. I'm thankful for the mentorship by <a href='https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ'>Prof. Wenjing Jia</a>
+I am a final-year undergraduate majoring in Electronic and Information Engineering at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I am honored to be supervised by [Prof. Kenneth Kin-Man Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ) and collaborate closely with [Dr. Jun Xiao](https://junxiao01.github.io/) on 3D vision. I am also grateful for the mentorship of [Prof. Wenjing Jia](https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ) at [UTS](https://www.uts.edu.au/) (Sydney) on an international project focused on OCT image processing for medical imaging in 2024.
 
 My research interest includes computer vision and 3D reconstruction (e.g., image processing, novel view synthesis)
 
@@ -33,7 +33,7 @@ I am also a photography lover—check out my selected photos [here](photowall/ph
 
 - *2025.01*: &nbsp;🎉🎉 Our paper on enhancing 3D Gaussian splatting for novel view synthesis is submitted to **IEEE Transactions on Visualization and Computer Graphics (TVCG)**.
 
-- *2025.01*: &nbsp;🎉🎉 Our paper on medical OCT image super-resolution has been awarded the **Best Paper Award** at **IWAIT 2025**.
+- *2025.01*: &nbsp;🎉🎉 Our paper **MFGAN: OCT Image Super-resolution and Enhancement with Blind Degradation and Multi-frame Fusion** has been awarded the **Best Paper Award** at **IWAIT 2025**.
 
 - *2024.12*: &nbsp;🎉🎉 Our paper **See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization** is accepted by **ICASSP 2025**. 
 <!--on enhancing 3D Gaussian splatting for novel view synthesis under sparse views-->
@@ -44,7 +44,7 @@ I am also a photography lover—check out my selected photos [here](photowall/ph
 
 - *2024.08*: &nbsp;🎉🎉 3rd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/19222'>AIM 2024 Challenge on Sparse Neural Rendering for Track 1 and Track 2</a> **in ECCV 2024** and our method **ESNeRF** is selected to present in the summary <a href='https://arxiv.org/pdf/2409.15045'>paper</a>.
 
-- *2024.12*: &nbsp;🎉🎉 Our paper on medical OCT image denoising and classification is presented as an oral presentation at **APSIPA 2024**.
+- *2024.12*: &nbsp;🎉🎉 Our paper **A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification** is presented as an oral presentation at **APSIPA 2024**.
 
 
 # 📝 Publications 
@@ -57,6 +57,9 @@ I am also a photography lover—check out my selected photos [here](photowall/ph
 Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun Xiao, Kin-Man Lam
 
 <sup>*</sup>Equal Contribution
+
+**ICASSP 2025**
+
 </div>
 </div>
 
@@ -66,6 +69,9 @@ Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun
 [A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification](http://www.apsipa2024.org/files/papers/496.pdf)
   
 **Zhe Xiao**, Zongqi He, Zhuoning Xu, Wenjing Jia, Kin-Man Lam et al.
+
+**APSIPA 2024** <span style="color:red">**(Oral)**</span>
+
 </div>
 </div>
 
@@ -86,6 +92,10 @@ Zongqi He, **Zhe Xiao**, Wenjing Jia, Kin‑Man Lam et al.
 [AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content](https://arxiv.org/abs/2409.17256)
   
 Marcos V Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Radu Timofte, **Zhe Xiao** et al.
+
+**ECCV AIM Workshop 2024**
+
+
 </div>
 </div>
 
@@ -94,8 +104,11 @@ Marcos V Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Radu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_3D.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [AIM 2024 Sparse Neural Rendering Challenge: Methods and Results](https://arxiv.org/abs/2409.15045)
-  
+
 Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pérez‑Pellitero, Radu Timofte, **Zhe Xiao** et al.
+
+**ECCV AIM Workshop 2024**
+
 </div>
 </div>
 
