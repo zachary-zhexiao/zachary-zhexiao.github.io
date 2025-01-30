@@ -76,7 +76,7 @@ Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWAIT 2025</div><img src='' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWAIT 2025</div><img src='images/iwait2025.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 MFGAN: OCT Image Super‑resolution and Enhancement with Blind Degradation and Multi‑frame Fusion
 
