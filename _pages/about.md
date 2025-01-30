@@ -66,7 +66,7 @@ Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSIPA 2024</div><img src='images/APSIPA2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-[A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification](http://www.apsipa2024.org/files/papers/496.pdf)
+[A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification](https://ieeexplore.ieee.org/document/10848686)
   
 **Zhe Xiao**, Zongqi He, Zhuoning Xu, Wenjing Jia, Kin-Man Lam et al.
 
