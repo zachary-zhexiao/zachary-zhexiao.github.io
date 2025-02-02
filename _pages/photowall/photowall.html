@@ -188,8 +188,7 @@
                 img.onload = () => {
                     loadedImages++;
                     img.classList.remove('hidden');
-                    if (loadedImages === images.length) {
-                        // if (window.matchMedia("(max-width: 768px)").matches)
+                    if ((loadedImages === images.length) && window.matchMedia("(max-width: 768px)").matches) {
                         balanceImages();
                     }
                 };
