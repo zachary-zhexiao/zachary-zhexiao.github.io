@@ -23,7 +23,7 @@ I am a final-year undergraduate majoring in Electronic and Information Engineeri
 
 My research interest includes computer vision and 3D reconstruction (e.g., image processing, novel view synthesis)
 
-I am also a photography lover—check out my selected photos [here](photowall/photowall.html)!
+I am also a photography lover—[check out my selected photos here](photowall/photowall.html)!
 <!--Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 
@@ -138,12 +138,12 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
   *(Around 20 awardees university wise for outstanding achievements)*
 - *2024.08*: **2nd** place in ECCV AIM Workshop 2024 on Efficient Video Super-Resolution for AV1 Compressed Content
 - *2024.08*: **3rd** place in ECCV AIM Workshop 2024 on Sparse Neural Rendering for Track 1 and Track 2
-- *2023.12*: **3rd** place in Huawei ICT Competition Hong Kong SAR 2023-2024 Final [Computing Track]
 - *2024.10*: Dean’s Honours List
 - *2024.04*: HKSAR Government Scholarship Fund - Talent Development Scholarship
 - *2024.04*: HKSAR Government Scholarship Fund - Reaching Out Award
 - *2024.09*: Undergraduate Research and Innovation Scheme Scholarship
 - *2024.06*: Dunn Wing Tim Memorial Hall Scholarship *(the only awardee from the department for academic performance in the academic year)*
+- *2023.12*: **3rd** place in Huawei ICT Competition Hong Kong SAR 2023-2024 Final [Computing Track]
 - *2023.10*: Dean’s Honours List
 - *2023.10*: Best GPA Award, Best Semester GPA Award, presented by Department of Electronic and Information Engineering
 
