@@ -52,7 +52,7 @@ I am also a photography lover—[check out my selected photos here](photowall/ph
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ICASSP_2025.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization
+**See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**
   
 Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun Xiao, Kin-Man Lam
 
@@ -68,7 +68,7 @@ Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSIPA 2024</div><img src='images/APSIPA2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification
+**A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification**
   
 **Zhe Xiao**, Zongqi He, Zhuoning Xu, Wenjing Jia, Kin-Man Lam et al.
 
@@ -81,7 +81,7 @@ A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classific
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWAIT 2025</div><img src='images/iwait2025.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-MFGAN: OCT Image Super‑resolution and Enhancement with Blind Degradation and Multi‑frame Fusion
+**MFGAN: OCT Image Super‑resolution and Enhancement with Blind Degradation and Multi‑frame Fusion**
 
 Zongqi He, **Zhe Xiao**, Wenjing Jia, Kin‑Man Lam et al.
 
@@ -95,7 +95,7 @@ Zongqi He, **Zhe Xiao**, Wenjing Jia, Kin‑Man Lam et al.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_video.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content
+**AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content**
   
 Marcos V Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Radu Timofte, **Zhe Xiao** et al.
 
@@ -110,7 +110,7 @@ Marcos V Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Radu
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_3D.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
-AIM 2024 Sparse Neural Rendering Challenge: Methods and Results
+**AIM 2024 Sparse Neural Rendering Challenge: Methods and Results**
 
 Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pérez‑Pellitero, Radu Timofte, **Zhe Xiao** et al.
 
