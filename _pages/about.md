@@ -54,7 +54,7 @@ I am also a photography lover—[check out my selected photos here](photowall/ph
 <div class='paper-box-text' markdown="1">
 **See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**
   
-Zongqi He<sup>*</sup>, <span style="color:black">**Zhe Xiao**</span><sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun Xiao, Kin-Man Lam
+Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun Xiao, Kin-Man Lam
 
 <sup>*</sup>Equal Contribution
 
@@ -70,7 +70,7 @@ Zongqi He<sup>*</sup>, <span style="color:black">**Zhe Xiao**</span><sup>*</sup>
 <div class='paper-box-text' markdown="1">
 **A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification**
   
-<span style="color:black">**Zhe Xiao**</span>, Zongqi He, Zhuoning Xu, Wenjing Jia, Kin-Man Lam et al.
+**Zhe Xiao**, Zongqi He, Zhuoning Xu, Wenjing Jia, Kin-Man Lam et al.
 
 **APSIPA 2024** <span style="color:red">**(Oral)**</span>
 
@@ -83,7 +83,7 @@ Zongqi He<sup>*</sup>, <span style="color:black">**Zhe Xiao**</span><sup>*</sup>
 <div class='paper-box-text' markdown="1">
 **MFGAN: OCT Image Super‑resolution and Enhancement with Blind Degradation and Multi‑frame Fusion**
 
-Zongqi He, <span style="color:black">**Zhe Xiao**</span>, Wenjing Jia, Kin‑Man Lam et al.
+Zongqi He, **Zhe Xiao**, Wenjing Jia, Kin‑Man Lam et al.
 
 **IWAIT 2025** <span style="color:red">**(Best Paper Award)**</span>
 
@@ -97,7 +97,7 @@ Zongqi He, <span style="color:black">**Zhe Xiao**</span>, Wenjing Jia, Kin‑Man
 <div class='paper-box-text' markdown="1">
 **AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content**
   
-Marcos V Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Radu Timofte, <span style="color:black">**Zhe Xiao**</span> et al.
+Marcos V Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Radu Timofte, **Zhe Xiao** et al.
 
 **ECCV AIM Workshop 2024**
 
@@ -112,7 +112,7 @@ Marcos V Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Radu
 <div class='paper-box-text' markdown="1">
 **AIM 2024 Sparse Neural Rendering Challenge: Methods and Results**
 
-Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pérez‑Pellitero, Radu Timofte, <span style="color:black">**Zhe Xiao**</span> et al.
+Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pérez‑Pellitero, Radu Timofte, **Zhe Xiao** et al.
 
 **ECCV AIM Workshop 2024**
 
