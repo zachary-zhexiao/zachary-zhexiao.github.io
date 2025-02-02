@@ -187,13 +187,13 @@
             images.forEach(img => {
                 img.onload = () => {
                     loadedImages++;
-                    img.classList.remove('hidden');
-                    if ((loadedImages === images.length) && window.matchMedia("(max-width: 768px)").matches) {
+                    if ((window.matchMedia("(max-width: 768px)").matches && loadedImages === images.length)) {
                         balanceImages();
                     }
                 };
                 // For cached images
                 if (img.complete) {
+                    img.classList.remove('hidden');
                     img.onload();
                 }
             });
