@@ -57,7 +57,9 @@ main {
     height: auto;
     /* Maintain aspect ratio */
 }
-
+.hidden {
+    visibility: hidden;
+}
 @media (max-width: 768px) {
     body {
         flex-direction: column;
