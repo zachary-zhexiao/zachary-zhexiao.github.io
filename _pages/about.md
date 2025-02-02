@@ -60,6 +60,8 @@ Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun
 
 **ICASSP 2025**
 
+[[code]](https://github.com/wuyou012/SIDGaussian)
+
 </div>
 </div>
 
