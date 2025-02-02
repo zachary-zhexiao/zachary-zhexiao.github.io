@@ -11,7 +11,7 @@
 
 <body>
     <main>
-    <div class="left">
+    <div id="left" class="left">
         <div class="photo-wall">
             <img src="vertical/IMG_20230508_183828.jpg" alt="Photo" loading="lazy">
             <img src="vertical/IMG_20230512_001826.jpg" alt="Photo" loading="lazy">
@@ -85,7 +85,7 @@
         </div>
 
     </div>
-    <div class="right">
+    <div id="right" class="right">
         <div class="photo-wall">
             <img src="horizontal/IMG_20230512_002006.jpg" alt="Photo" loading="lazy">
             <img src="horizontal/IMG_20230512_122342.jpg" alt="Photo" loading="lazy">
@@ -129,6 +129,61 @@
         </div>
     </footer>
     <p style="text-align: center;">&copy; 2025 Zachary. All rights reserved.</p>
+
+    <script>
+        function balanceImages() {
+            const left = document.getElementById('left').querySelector('.photo-wall');
+            const right = document.getElementById('right').querySelector('.photo-wall');
+            let leftImages = Array.from(left.querySelectorAll('img'));
+            let rightImages = Array.from(right.querySelectorAll('img'));
+
+            function getTotalHeight(images) {
+                return images.reduce((total, img) => total + img.clientHeight, 0);
+            }
+
+            function updateHeights() {
+                leftImages = Array.from(left.querySelectorAll('img'));
+                rightImages = Array.from(right.querySelectorAll('img'));
+                return {
+                    leftHeight: getTotalHeight(leftImages),
+                    rightHeight: getTotalHeight(rightImages)
+                };
+            }
+
+            let { leftHeight, rightHeight } = updateHeights();
+
+            while (Math.abs(leftHeight - rightHeight) > 100) { // Adjust the threshold as needed
+                if (leftHeight > rightHeight) {
+                    const img = leftImages.pop();
+                    right.appendChild(img);
+                    console.log(`Moved an image from left to right. New heights - Left: ${leftHeight}, Right: ${rightHeight}`);
+                } else {
+                    const img = rightImages.pop();
+                    left.appendChild(img);
+                    console.log(`Moved an image from right to left. New heights - Left: ${leftHeight}, Right: ${rightHeight}`);
+                }
+                ({ leftHeight, rightHeight } = updateHeights());
+            }
+        }
+
+        window.onload = function() {
+            const images = document.querySelectorAll('img');
+            let loadedImages = 0;
+
+            images.forEach(img => {
+                img.onload = () => {
+                    loadedImages++;
+                    if (loadedImages === images.length) {
+                        balanceImages();
+                    }
+                };
+                // For cached images
+                if (img.complete) {
+                    img.onload();
+                }
+            });
+        };
+    </script>
 </body>
 
 </html></div>

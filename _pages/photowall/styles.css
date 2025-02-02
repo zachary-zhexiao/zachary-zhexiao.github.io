@@ -62,10 +62,13 @@ main {
     body {
         flex-direction: column;
     }
-    .left,
-    .right {
-        width: 100%;
+    .left {
+        width: 50%;
         column-count: 2;
+    }
+    .right {
+        width: 50%;
+        column-count: 1;
     }
 }
 
