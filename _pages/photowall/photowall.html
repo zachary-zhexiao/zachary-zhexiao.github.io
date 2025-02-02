@@ -132,8 +132,8 @@
 
     <script>
         function balanceImages() {
-            const left = document.getElementById('left').querySelector('.photo-wall');
-            const right = document.getElementById('right').querySelector('.photo-wall');
+            let left = document.getElementById('left').querySelector('.photo-wall');
+            let right = document.getElementById('right').querySelector('.photo-wall');
             let leftImages = Array.from(left.querySelectorAll('img'));
             let rightImages = Array.from(right.querySelectorAll('img'));
 
@@ -152,37 +152,40 @@
 
             let { leftHeight, rightHeight } = updateHeights();
 
-            while (Math.abs(leftHeight - rightHeight) > 100) { // Adjust the threshold as needed
+            while (Math.abs(leftHeight - rightHeight) > 400) { // Adjust the threshold as needed
                 if (leftHeight > rightHeight) {
                     const img = leftImages.pop();
                     right.appendChild(img);
-                    console.log(`Moved an image from left to right. New heights - Left: ${leftHeight}, Right: ${rightHeight}`);
                 } else {
                     const img = rightImages.pop();
                     left.appendChild(img);
-                    console.log(`Moved an image from right to left. New heights - Left: ${leftHeight}, Right: ${rightHeight}`);
                 }
                 ({ leftHeight, rightHeight } = updateHeights());
             }
         }
 
-        window.onload = function() {
-            const images = document.querySelectorAll('img');
-            let loadedImages = 0;
+        function checkMediaQuery() {
+            if (window.matchMedia("(max-width: 768px)").matches) {
+                const images = document.querySelectorAll('img');
+                let loadedImages = 0;
 
-            images.forEach(img => {
-                img.onload = () => {
-                    loadedImages++;
-                    if (loadedImages === images.length) {
-                        balanceImages();
+                images.forEach(img => {
+                    img.onload = () => {
+                        loadedImages++;
+                        if (loadedImages === images.length) {
+                            balanceImages();
+                        }
+                    };
+                    // For cached images
+                    if (img.complete) {
+                        img.onload();
                     }
-                };
-                // For cached images
-                if (img.complete) {
-                    img.onload();
-                }
-            });
-        };
+                });
+            }
+        }
+
+        window.onload = checkMediaQuery;
+        window.onresize = checkMediaQuery;
     </script>
 </body>
 
