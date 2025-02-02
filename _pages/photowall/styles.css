@@ -11,13 +11,11 @@ main {
 /* Left section for vertical images */
 .left {
     width: 75%;
-    /* Take half of the screen */
     margin-left: 1%;
-    padding: 10px;
+    padding: 1%;
     column-count: 5;
-    /* 3 columns for vertical images */
-    /* column-gap: 10px; */
-    /* Space between columns */
+    column-gap: 20px;
+    /* Increase space between columns */
 }
 
 /* Right section for horizontal images */
@@ -25,11 +23,33 @@ main {
     width: 25%;
     margin-right: 1%;
     /* Take half of the screen */
-    padding: 10px;
+    padding: 1%;
     column-count: 1;
     /* 2 columns for horizontal images */
     /* column-gap: 10px; */
     /* Space between columns */
+}
+
+@media (max-width: 768px) {
+    body {
+        flex-direction: column;
+    }
+
+    .left {
+        margin-left: 0%;
+        width: 37%;
+        column-count: 1;
+        padding: 1%;
+        column-gap: 2%;
+    }
+
+    .right {
+        margin-right: 0%;
+        width: 63%;
+        column-count: 1;
+        padding: 1%;
+        /* column-gap: 0.5%; */
+    }
 }
 
 .photo-wall img {
@@ -37,7 +57,7 @@ main {
     /* Make the image fill the column width */
     height: auto;
     /* Maintain aspect ratio */
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     /* Space between images */
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -62,27 +82,7 @@ main {
     visibility: hidden;
 }
 
-@media (max-width: 768px) {
-    body {
-        flex-direction: column;
-    }
 
-    .left {
-        margin-left: 0%;
-        width: 37%;
-        column-count: 1;
-        padding: 1%;
-        column-gap: 2%;
-    }
-
-    .right {
-        margin-right: 0%;
-        width: 63%;
-        column-count: 1;
-        padding: 1%;
-        /* column-gap: 0.5%; */
-    }
-}
 
 footer {
     /* background-color: #333; Dark background for the footer */
