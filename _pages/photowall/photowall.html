@@ -138,10 +138,10 @@
             let leftImages = Array.from(left.querySelectorAll('img'));
             let rightImages = Array.from(right.querySelectorAll('img'));
 
-            const columnLeft = 2; // Number of columns on the left
+            const columnLeft = 1; // Number of columns on the left
             const columnRight = 1; // Number of columns on the right
-            const left_portion = 0.5;
-            const right_portion = 0.5;
+            const left_portion = 0.4;
+            const right_portion = 0.6;
             const screenWidth = window.innerWidth;
 
             function getAverageHeight(images) {
@@ -164,7 +164,7 @@
             let heightDifference = leftHeight - rightHeight;
             const avgHeight = (avgLeftHeight + avgRightHeight) / 2;
             if (Math.abs(heightDifference) > 100) {
-                factor = 1.8;
+                factor = 1.2;
                 num_move = Math.floor(Math.abs(heightDifference) / (avgLeftHeight + avgLeftHeight * columnLeft / columnRight) / factor);
                 console.log("num_move", num_move);
                 for (let i = 0; i < num_move; i++) {

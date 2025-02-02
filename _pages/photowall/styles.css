@@ -12,23 +12,23 @@ main {
 .left {
     width: 75%;
     /* Take half of the screen */
-    margin-left: 5%;
+    margin-left: 1%;
     padding: 10px;
     column-count: 5;
     /* 3 columns for vertical images */
-    column-gap: 10px;
+    /* column-gap: 10px; */
     /* Space between columns */
 }
 
 /* Right section for horizontal images */
 .right {
     width: 25%;
-    margin-right: 5%;
+    margin-right: 1%;
     /* Take half of the screen */
     padding: 10px;
     column-count: 1;
     /* 2 columns for horizontal images */
-    column-gap: 10px;
+    /* column-gap: 10px; */
     /* Space between columns */
 }
 
@@ -57,32 +57,47 @@ main {
     height: auto;
     /* Maintain aspect ratio */
 }
+
 .hidden {
     visibility: hidden;
 }
+
 @media (max-width: 768px) {
     body {
         flex-direction: column;
     }
+
     .left {
-        width: 50%;
-        column-count: 2;
-    }
-    .right {
-        width: 50%;
+        margin-left: 0%;
+        width: 40%;
         column-count: 1;
+        padding: 0.5%;
+        column-gap: 2%;
+    }
+
+    .right {
+        margin-right: 0%;
+        width: 60%;
+        column-count: 1;
+        padding: 0.5%;
+        /* column-gap: 0.5%; */
     }
 }
 
 footer {
     /* background-color: #333; Dark background for the footer */
-    color: #ffffff; /* White text color */
+    color: #ffffff;
+    /* White text color */
     text-align: center;
-    padding: 20px 0; /* Add padding for spacing */
-    margin-top: auto; /* Push the footer to the bottom */
+    padding: 20px 0;
+    /* Add padding for spacing */
+    margin-top: auto;
+    /* Push the footer to the bottom */
 }
+
 #clustrmaps-widget {
-    margin: 0 auto; /* Center the widget */
-    max-width: 100%; /* Ensure it doesn't overflow */
+    margin: 0 auto;
+    /* Center the widget */
+    max-width: 100%;
+    /* Ensure it doesn't overflow */
 }
-        
