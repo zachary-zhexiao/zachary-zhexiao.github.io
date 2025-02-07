@@ -21,7 +21,7 @@ redirect_from:
 
 I am a final-year undergraduate majoring in Electronic and Information Engineering at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I am honored to be supervised by [Prof. Kenneth Kin-Man Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ) and collaborate closely with [Dr. Jun Xiao](https://junxiao01.github.io/) on 3D vision. I am also grateful for the mentorship of [Prof. Wenjing Jia](https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ) at [UTS](https://www.uts.edu.au/) (Sydney) on an international project focused on OCT image processing for medical imaging in 2024.
 
-My research interest includes computer vision and 3D reconstruction (e.g., image processing, novel view synthesis)
+My research interest includes computer vision and 3D reconstruction (e.g., image processing, novel view synthesis). I am also actively learning generative models.
 
 I am also a photography lover—[check out my selected photos here](photowall/photowall.html)!
 <!--Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
