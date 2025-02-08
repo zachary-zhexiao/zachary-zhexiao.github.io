@@ -123,19 +123,6 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 
 
 
-
-
-<!-- 
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
--->
-
-
 # 🎖 Honors and Awards
 - *2025.01*: **Best Paper Award** at IWAIT 2025
 
@@ -159,9 +146,12 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 
 
 
-<!-- 
-<a href="https://clustrmaps.com/site/1c34x"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=iu2Si63h6GRArax3gDdPSOYq6mNwTGnYuNlENh-Ndw8&cl=ffffff" /></a>
--->
+# 📷 Portfolio
+
+[![Portfolio Entry](images/AIM2024_3D.png)](https://zachary-zhexiao.github.io/_pages/photowall/photowall.html)
+
+<!-- 🖼️ -->
+
 
 <!-- 
 # 💻 Experience
