@@ -152,7 +152,7 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 
 <div align="center">
 <a href="https://zachary-zhexiao.github.io/_pages/photowall/photowall.html">
-  <img src="images/Portfolio.jpg" alt="Portfolio Entry" width="60%">
+  <img src="images/Portfolio.jpg" alt="Portfolio Entry" width="70%">
 </a>
 </div>
 <!-- 🖼️ -->
