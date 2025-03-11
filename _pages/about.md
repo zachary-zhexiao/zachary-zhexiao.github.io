@@ -24,7 +24,7 @@ I am a final-year undergraduate majoring in Electronic and Information Engineeri
 My research interest includes computer vision and 3D reconstruction (e.g., image processing, novel view synthesis). I am also actively learning generative models.
 
 <!-- I am also a photography lover—[check out my selected photos here](photowall/photowall.html)! -->
-I am also a photography lover—[check out my portfolio here](https://zachary-zhexiao.webflow.io)!
+I am also a photography lover—[check out my portfolio here](https://zachary-zhexiao.github.io/#-portfolio)!
 <!--Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 
@@ -152,7 +152,7 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 <!-- [![Portfolio Entry](images/Portfolio.jpg)](https://zachary-zhexiao.github.io/_pages/photowall/photowall.html) -->
 
 <div align="center">
-<a href="https://zachary-zhexiao.github.io/_pages/photowall/photowall.html">
+<a href="https://zachary-zhexiao.webflow.io/">
   <img src="images/Portfolio.jpg" alt="Portfolio Entry" width="70%">
 </a>
 </div>
