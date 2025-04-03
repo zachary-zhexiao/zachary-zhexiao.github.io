@@ -34,7 +34,10 @@ I am also a photography lover—[check out my portfolio here](https://zachary-zh
 
 # 🔥 News
 
-- *2025.01*: &nbsp;🎉🎉 Our paper on enhancing 3D Gaussian splatting for novel view synthesis is submitted to **IEEE Transactions on Visualization and Computer Graphics (TVCG)**.
+- *2025.04*: &nbsp;🎉🎉 3rd place in <a href='https://cvlai.net/ntire/2025/'>NTIRE 2025 Challenge on Restore Any Image Model (RAIM) in the Wild (Track 1)</a> **in CVPR 2025**. Honored to be the project leader for our team!
+
+
+- *2025.01*:&nbsp;Our paper on enhancing 3D Gaussian splatting for novel view synthesis is submitted to **IEEE Transactions on Visualization and Computer Graphics (TVCG)**.
 
 - *2025.01*: &nbsp;🎉🎉 Our paper **MFGAN: OCT Image Super-resolution and Enhancement with Blind Degradation and Multi-frame Fusion** has been awarded the **Best Paper Award** at **IWAIT 2025**.
 
@@ -43,9 +46,9 @@ I am also a photography lover—[check out my portfolio here](https://zachary-zh
 
 - *2024.12*: &nbsp;🎉🎉 Awarded **The Hong Kong Polytechnic University Scholarship** among a group of ~20 awardees!
 
-- *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> **in ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the [summary paper](https://arxiv.org/pdf/2409.17256).
+- *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> at **ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the [summary paper](https://arxiv.org/pdf/2409.17256).
 
-- *2024.08*: &nbsp;🎉🎉 3rd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/19222'>AIM 2024 Challenge on Sparse Neural Rendering for Track 1 and Track 2</a> **in ECCV 2024** and our method **ESNeRF** is selected to present in the [summary paper](https://arxiv.org/pdf/2409.15045).
+- *2024.08*: &nbsp;🎉🎉 3rd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/19222'>AIM 2024 Challenge on Sparse Neural Rendering for Track 1 and Track 2</a> at **ECCV 2024** and our method **ESNeRF** is selected to present in the [summary paper](https://arxiv.org/pdf/2409.15045).
 
 - *2024.12*: &nbsp;🎉🎉 Our paper **A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification** is presented as an oral presentation at **APSIPA 2024**.
 
