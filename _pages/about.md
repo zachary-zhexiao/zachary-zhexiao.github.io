@@ -34,7 +34,7 @@ I am also a photography lover—[check out my portfolio here](https://zachary-zh
 
 # 🔥 News
 
-- *2025.04*: &nbsp;🎉🎉 3rd place in <a href='https://cvlai.net/ntire/2025/'>NTIRE 2025 Challenge on Restore Any Image Model (RAIM) in the Wild (Track 1)</a> **in CVPR 2025**. Honored to be the project leader for our team!
+- *2025.04*: &nbsp;🎉🎉 3rd place in <a href='https://cvlai.net/ntire/2025/'>NTIRE 2025 Challenge</a> on Restore Any Image Model (RAIM) in the Wild (Track 1) at **CVPR 2025**. Honored to be the project leader for our team!
 
 
 - *2025.01*:&nbsp;Our paper on enhancing 3D Gaussian splatting for novel view synthesis is submitted to **IEEE Transactions on Visualization and Computer Graphics (TVCG)**.
