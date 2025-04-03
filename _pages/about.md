@@ -23,7 +23,7 @@ I am a final-year undergraduate majoring in Electronic and Information Engineeri
 
 I am honored to be offered admission to the Master of Science in Electrical and Computer Engineering at [Carnegie Mellon University (CMU)](https://www.cmu.edu), Pittsburgh, for Spring 2026.
 
-My research interest includes computer vision and 3D reconstruction (e.g., image processing, novel view synthesis). I am also actively learning generative models.
+My research interest includes computer vision and 3D reconstruction (e.g., image processing/super-resolution//restoration/enhancement, novel view synthesis). I am also actively learning generative models (e.g., diffusion models).
 
 <!-- I am also a photography lover—[check out my selected photos here](photowall/photowall.html)! -->
 I am also a photography lover—[check out my portfolio here](https://zachary-zhexiao.github.io/#-portfolio)!
