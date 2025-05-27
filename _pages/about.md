@@ -150,7 +150,7 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 
 
 # 📖 Educations
-- *2021.08 - present*, Electronic and Information Engineering, The Hong Kong Polytechnic University
+- *2021.09 - 2025.09*, Electronic and Information Engineering, The Hong Kong Polytechnic University
 
 
 
