@@ -32,15 +32,17 @@ My research interest includes computer vision and 3D reconstruction (e.g., image
 I am also a photography lover—[check out my portfolio here](https://zachary-zhexiao.github.io/#-portfolio)!
 <!--Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-<table width="100%" border="0" cellspacing="0" cellpadding="20" style="border: 0;">
-      <tbody><tr>
-        <td width="10%" valign="middle" style="text-align: left;">
-          <a href="https://www.polyu.edu.hk/"><img src='images/polyu.png' width="160"></a>
-        </td>
-        <td width="10%" valign="middle" style="text-align: left;">
-          <a href="https://www.sony.com/en/SonyInfo/research/about/china-laboratory/"><img src="images/sony.svg" width="160"></a>
-        </td>
-      </tr></tbody>
+<table border="0" cellspacing="0" cellpadding="0" style="border: 0;">
+  <tbody>
+    <tr>
+      <td valign="middle" style="text-align: left;">
+        <a href="https://www.polyu.edu.hk/"><img src='images/polyu.png' width="160"></a>
+      </td>
+      <td valign="middle" style="text-align: left;">
+        <a href="https://www.sony.com/en/SonyInfo/research/about/china-laboratory/"><img src="images/sony.svg" width="160"></a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 
