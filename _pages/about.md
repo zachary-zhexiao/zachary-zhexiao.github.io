@@ -19,7 +19,8 @@ redirect_from:
 
 # About Me
 
-I am a final-year undergraduate majoring in Electronic and Information Engineering at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I am honored to be supervised by [Prof. Kenneth Kin-Man Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ) and collaborate closely with [Dr. Jun Xiao](https://junxiao01.github.io/) on 3D vision. I am also grateful for the mentorship of [Prof. Wenjing Jia](https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ) at [UTS](https://www.uts.edu.au/), Sydney, on an international project focused on OCT image processing for medical imaging in 2024.
+I am a final-year undergraduate majoring in Electronic and Information Engineering at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I am honored to be supervised by [Prof. Kenneth Kin-Man Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ) and collaborate closely with [Dr. Jun Xiao](https://junxiao01.github.io/) on 3D vision. I am also grateful for the mentorship of [Prof. Wenjing Jia](https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ) at [UTS](https://www.uts.edu.au/), Sydney.
+<!-- , on an international project focused on OCT image processing for medical imaging in 2024. -->
 
 <!-- I am honored to be offered admission to the Master of Science in Electrical and Computer Engineering at [Carnegie Mellon University (CMU)](https://www.cmu.edu), Pittsburgh, for Spring 2026. -->
 
@@ -31,7 +32,16 @@ My research interest includes computer vision and 3D reconstruction (e.g., image
 I am also a photography lover—[check out my portfolio here](https://zachary-zhexiao.github.io/#-portfolio)!
 <!--Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border: 0;">
+      <tbody><tr>
+        <td width="10%" valign="middle" style="text-align: center;">
+          <a href="https://www.polyu.edu.hk/"><img src='images/polyu.png' width="160"></a>
+        </td>
+        <td width="10%" valign="middle" style="text-align: center;">
+          <a href="https://www.sony.com/en/SonyInfo/research/about/china-laboratory/"><img src="images/sony.svg" width="160"></a>
+        </td>
+      </tr></tbody>
+</table>
 
 
 # 🔥 News
@@ -39,9 +49,9 @@ I am also a photography lover—[check out my portfolio here](https://zachary-zh
 - *2025.04*: &nbsp;🎉🎉 3rd place in <a href='https://cvlai.net/ntire/2025/'>NTIRE 2025 Challenge</a> on Restore Any Image Model (RAIM) in the Wild (Track 1) at **CVPR 2025**. Honored to be the project leader for our team!
 
 
-- *2025.01*:&nbsp;Our paper on enhancing 3D Gaussian splatting for novel view synthesis is submitted to **IEEE Transactions on Visualization and Computer Graphics (TVCG)**.
+<!-- - *2025.01*:&nbsp;Our paper on enhancing 3D Gaussian splatting for novel view synthesis is submitted to **IEEE Transactions on Visualization and Computer Graphics (TVCG)**. -->
 
-- *2025.01*: &nbsp;🎉🎉 Our paper **MFGAN: OCT Image Super-resolution and Enhancement with Blind Degradation and Multi-frame Fusion** has been awarded the **Best Paper Award** at **IWAIT 2025**.
+<!-- - *2025.01*: &nbsp;🎉🎉 Our paper **MFGAN: OCT Image Super-resolution and Enhancement with Blind Degradation and Multi-frame Fusion** has been awarded the **Best Paper Award** at **IWAIT 2025**. -->
 
 - *2024.12*: &nbsp;🎉🎉 Our paper **See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization** is accepted by **ICASSP 2025**. 
 <!--on enhancing 3D Gaussian splatting for novel view synthesis under sparse views-->
@@ -52,7 +62,7 @@ I am also a photography lover—[check out my portfolio here](https://zachary-zh
 
 - *2024.08*: &nbsp;🎉🎉 3rd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/19222'>AIM 2024 Challenge on Sparse Neural Rendering for Track 1 and Track 2</a> at **ECCV 2024** and our method **ESNeRF** is selected to present in the [summary paper](https://arxiv.org/pdf/2409.15045).
 
-- *2024.12*: &nbsp;🎉🎉 Our paper **A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification** is presented as an oral presentation at **APSIPA 2024**.
+<!-- - *2024.12*: &nbsp;🎉🎉 Our paper **A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification** is presented as an oral presentation at **APSIPA 2024**. -->
 
 
 # 📝 Publications 
@@ -102,7 +112,7 @@ Zongqi He, **Zhe Xiao**, Wenjing Jia, Kin‑Man Lam et al.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_video.png' alt="sym" width="80%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_video.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content**
   
@@ -113,11 +123,11 @@ Marcos V Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Radu
 [\[paper\]](https://arxiv.org/abs/2409.17256)
 
 </div>
-</div>
+</div> -->
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_3D.png' alt="sym" width="80%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIM@ECCV 2024</div><img src='images/AIM2024_3D.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **AIM 2024 Sparse Neural Rendering Challenge: Methods and Results**
 
@@ -127,30 +137,36 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 
 [\[paper\]](https://arxiv.org/abs/2409.15045)
 </div>
-</div>
+</div> -->
 
 
 
 # 🎖 Honors and Awards
+
+
+- *2025.04*: **3rd** place in NTIRE 2025 Challenge on Restore Any Image Model (RAIM) in the Wild (Track 1) at **CVPR 2025**, project leader.
+
 - *2025.01*: **Best Paper Award** at IWAIT 2025
 
 - *2024.12*: **The Hong Kong Polytechnic University Scholarship** 
   *(Around 20 awardees university wise for outstanding achievements)*
-- *2024.08*: **2nd** place in ECCV AIM Workshop 2024 on Efficient Video Super-Resolution for AV1 Compressed Content
-- *2024.08*: **3rd** place in ECCV AIM Workshop 2024 on Sparse Neural Rendering for Track 1 and Track 2
-- *2024.10*: Dean’s Honours List
-- *2024.04*: HKSAR Government Scholarship Fund - Talent Development Scholarship
-- *2024.04*: HKSAR Government Scholarship Fund - Reaching Out Award
+  
+- *2024.08*: **2nd** place in AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content at **ECCV 2024**
+
+- *2024.08*: **3rd** place in AIM 2024 Challenge on Sparse Neural Rendering for Track 1 and Track 2 at **ECCV 2024**
+<!-- - *2024.10*: Dean’s Honours List -->
+<!-- - *2024.04*: HKSAR Government Scholarship Fund - Talent Development Scholarship -->
+<!-- - *2024.04*: HKSAR Government Scholarship Fund - Reaching Out Award -->
 - *2024.09*: Undergraduate Research and Innovation Scheme Scholarship
-- *2024.06*: Dunn Wing Tim Memorial Hall Scholarship *(the only awardee from the department for academic performance in the academic year)*
+<!-- - *2024.06*: Dunn Wing Tim Memorial Hall Scholarship *(the only awardee from the department for academic performance in the academic year)* -->
 - *2023.12*: **3rd** place in Huawei ICT Competition Hong Kong SAR 2023-2024 Final [Computing Track]
-- *2023.10*: Dean’s Honours List
-- *2023.10*: Best GPA Award, Best Semester GPA Award, presented by Department of Electronic and Information Engineering
+<!-- - *2023.10*: Dean’s Honours List -->
+<!-- - *2023.10*: Best GPA Award, Best Semester GPA Award, presented by Department of Electronic and Information Engineering -->
 
 
 
 # 📖 Educations
-- *2021.09 - 2025.09*, Electronic and Information Engineering, The Hong Kong Polytechnic University
+- *2021.09 - 2025.09*, Electronic and Information Engineering, The Hong Kong Polytechnic University, with first class honors.
 
 
 
