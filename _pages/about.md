@@ -32,7 +32,7 @@ My research interest includes computer vision and 3D reconstruction (e.g., image
 I am also a photography lover—[check out my portfolio here](https://zachary-zhexiao.github.io/#-portfolio)!
 <!--Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; padding: 10px;">
   <a href="https://www.polyu.edu.hk/">
     <img src="images/polyu.png" width="160" style="display: block; margin-right: 10px;">
   </a>
