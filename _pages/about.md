@@ -179,7 +179,7 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 
 <div align="center">
 <a href="https://zachary-zhexiao.webflow.io/">
-  <img src="images/Portfolio.jpg" alt="Portfolio Entry" width="70%">
+  <img src="images/Portfolio.jpg" alt="Portfolio Entry" width="50%">
 </a>
 </div>
 <!-- 🖼️ -->
