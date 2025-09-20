@@ -19,10 +19,11 @@ redirect_from:
 
 # About Me
 
-I am a final-year undergraduate majoring in Electronic and Information Engineering at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I am honored to be supervised by [Prof. Kenneth Kin-Man Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ) and collaborate closely with [Dr. Jun Xiao](https://junxiao01.github.io/) on 3D vision. I am also grateful for the mentorship of [Prof. Wenjing Jia](https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ) at [UTS](https://www.uts.edu.au/), Sydney.
+I am an incoming Master of Science student in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu), starting in Spring 2026.
+
+I am a final-year undergraduate majoring in Electronic and Information Engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am honored to be supervised by [Prof. Kenneth Kin-Man Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ) and collaborate closely with [Dr. Jun Xiao](https://junxiao01.github.io/) on 3D vision. I am also grateful for the mentorship of [Prof. Wenjing Jia](https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ) at [University of Technology Sydney](https://www.uts.edu.au/), Sydney.
 <!-- , on an international project focused on OCT image processing for medical imaging in 2024. -->
 
-<!-- I am honored to be offered admission to the Master of Science in Electrical and Computer Engineering at [Carnegie Mellon University (CMU)](https://www.cmu.edu), Pittsburgh, for Spring 2026. -->
 
 Since May 2025, I have also been working as a research intern at [Sony](https://www.sony.com/en/SonyInfo/research/about/china-laboratory/) in Beijing, focusing on 3D reconstruction.
 
@@ -38,6 +39,9 @@ I am also a photography lover—[check out my portfolio here](https://zachary-zh
   </a>
   <a href="https://www.sony.com/en/SonyInfo/research/about/china-laboratory/">
     <img src="images/Sony.png" width="160" style="display: block;">
+  </a>
+  <a href="https://www.cmu.edu/">
+    <img src="images/CMU.png" width="160" style="display: block;">
   </a>
 </div>
 
@@ -164,7 +168,8 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 
 
 # 📖 Educations
-- *2021.09 - 2025.09*, Electronic and Information Engineering, The Hong Kong Polytechnic University, with first class honors.
+- *2021.09 - 2025.09*, BEng in Electronic and Information Engineering, at The Hong Kong Polytechnic University, with first class honors.
+- *2026.01 - 2028.01*, M.S. in Electrical and Computer Engineering, at Carnegie Mellon University.
 
 
 
