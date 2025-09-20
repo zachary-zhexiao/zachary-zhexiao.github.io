@@ -99,7 +99,7 @@ Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWAIT 2025</div><img src='images/iwait2025.png' alt="sym" width="80%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWAIT 2025</div><img src='images/iwait2025.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **MFGAN: OCT Image Super‑resolution and Enhancement with Blind Degradation and Multi‑frame Fusion**
 
@@ -109,7 +109,7 @@ Zongqi He, **Zhe Xiao**, Wenjing Jia, Kin‑Man Lam et al.
 
 [\[paper\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13510/1351005/MFGAN--OCT-image-super-resolution-and-enhancement-with-blind/10.1117/12.3057230.short?webSyncID=6c60a397-8a3b-1bd9-3761-10bda6d2d646&sessionGUID=366cc9a6-5379-ee29-40a0-45b97a32d400)
 </div>
-</div>
+</div> -->
 
 
 
