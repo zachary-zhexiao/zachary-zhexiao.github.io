@@ -38,10 +38,10 @@ I am also a photography lover—[check out my portfolio here](https://zachary-zh
     <img src="images/polyu.png" width="160" style="display: block; margin-right: 10px;">
   </a>
   <a href="https://www.sony.com/en/SonyInfo/research/about/china-laboratory/">
-    <img src="images/Sony.png" width="160" style="display: block;">
+    <img src="images/Sony.png" width="160" style="display: block; margin-right: 10px;">
   </a>
   <a href="https://www.cmu.edu/">
-    <img src="images/CMU.png" width="160" style="display: block;">
+    <img src="images/CMU.png" width="80" style="display: block;">
   </a>
 </div>
 
