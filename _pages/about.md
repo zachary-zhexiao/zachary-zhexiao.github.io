@@ -168,8 +168,8 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 
 
 # 📖 Educations
-- *2021.09 - 2025.09*, BEng in Electronic and Information Engineering, at The Hong Kong Polytechnic University, with first class honors.
-- *2026.01 - 2028.01*, M.S. in Electrical and Computer Engineering, at Carnegie Mellon University.
+- *2021.09 - 2025.09*, BEng in Electronic and Information Engineering, The Hong Kong Polytechnic University, with first class honors.
+- *2026.01 - 2028.01*, MS in Electrical and Computer Engineering, Carnegie Mellon University.
 
 
 
