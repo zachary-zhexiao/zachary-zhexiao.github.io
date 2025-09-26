@@ -25,9 +25,9 @@ I am a final-year undergraduate majoring in Electronic and Information Engineeri
 <!-- , on an international project focused on OCT image processing for medical imaging in 2024. -->
 
 
-Since May 2025, I have also been working as a research intern at [Sony](https://www.sony.com/en/SonyInfo/research/about/china-laboratory/) in Beijing, focusing on 3D reconstruction.
+Since May 2025, I have also been working as a research intern at [Sony](https://www.sony.com/en/SonyInfo/research/about/china-laboratory/) in Beijing, focusing on novel view synthesis.
 
-My research interest includes computer vision and 3D reconstruction (e.g., image processing/super-resolution//restoration/enhancement, novel view synthesis). I am also actively learning generative models (e.g., diffusion models).
+My research interest includes 2D/3D computer vision (e.g., image processing/super-resolution//restoration/enhancement, novel view synthesis). I am also actively learning generative models (e.g., diffusion models).
 
 <!-- I am also a photography lover—[check out my selected photos here](photowall/photowall.html)! -->
 I am also a photography lover—[check out my portfolio here](https://zachary-zhexiao.github.io/#-portfolio)!
