@@ -19,11 +19,10 @@ redirect_from:
 
 # About Me
 
-I am an incoming Master of Science student in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu), starting in Spring 2026.
+I am a Master of Science student in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu).
 
-I am a final-year undergraduate majoring in Electronic and Information Engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I am honored to be supervised by [Prof. Kenneth Kin-Man Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ) and collaborate closely with [Dr. Jun Xiao](https://junxiao01.github.io/) on 3D vision. I am also grateful for the mentorship of [Prof. Wenjing Jia](https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ) at [University of Technology Sydney](https://www.uts.edu.au/), Sydney.
+Prior to this, I finished my bachelor’s degree in Electronic and Information Engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I collaborate closely with [Dr. Jun Xiao](https://junxiao01.github.io/) and was supervised by [Prof. Kenneth Kin-Man Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ) on 3D vision. I am also grateful for the mentorship of [Prof. Wenjing Jia](https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ) at [University of Technology Sydney](https://www.uts.edu.au/), Sydney.
 <!-- , on an international project focused on OCT image processing for medical imaging in 2024. -->
-
 
 Since May 2025, I have also been working as a research intern at [Sony](https://www.sony.com/en/SonyInfo/research/about/china-laboratory/) in Beijing, focusing on novel view synthesis.
 
