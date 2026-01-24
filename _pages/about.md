@@ -158,7 +158,7 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 <!-- - *2024.04*: HKSAR Government Scholarship Fund - Reaching Out Award -->
 - *2024.09*: Undergraduate Research and Innovation Scheme Scholarship
 <!-- - *2024.06*: Dunn Wing Tim Memorial Hall Scholarship *(the only awardee from the department for academic performance in the academic year)* -->
-- *2023.12*: **3rd** place in Huawei ICT Competition Hong Kong 2023 final round on Computing Track
+- *2023.12*: **3<sup>rd</sup>** place in Huawei ICT Competition Hong Kong 2023 final round on Computing Track
 <!-- - *2023.10*: Dean’s Honours List -->
 <!-- - *2023.10*: Best GPA Award, Best Semester GPA Award, presented by Department of Electronic and Information Engineering -->
 
