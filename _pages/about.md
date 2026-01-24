@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a an M.S. student in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu). I received my B.Eng. in Electronic and Information Engineering from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I collaborate closely with [Dr. Jun Xiao](https://junxiao01.github.io/) and was supervised by [Prof. Kenneth Kin-Man Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ) on 3D vision. I am also grateful for the mentorship of [Prof. Wenjing Jia](https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ) at [University of Technology Sydney](https://www.uts.edu.au/), Sydney.
+I am a M.S. student in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu). I received my B.Eng. in Electronic and Information Engineering from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I collaborate closely with [Dr. Jun Xiao](https://junxiao01.github.io/) and was supervised by [Prof. Kenneth Kin-Man Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ) on 3D vision. I am also grateful for the mentorship of [Prof. Wenjing Jia](https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ) at [University of Technology Sydney](https://www.uts.edu.au/), Sydney.
 <!-- , on an international project focused on OCT image processing for medical imaging in 2024. -->
 
 From May 2025 to Dec 2025, I worked as a research intern at [Sony](https://www.sony.com/en/SonyInfo/research/about/china-laboratory/), Beijing, focusing on generative novel view synthesis.
@@ -179,8 +179,8 @@ Built an end-to-end digital medication management prototype integrating hardware
 
 
 # 📖 Educations
-- *2021.09 - 2025.09*, BEng in Electronic and Information Engineering, The Hong Kong Polytechnic University, with First Class Honours and Dean’s Honours List.
-- *2026.01 - 2028.01*, MS in Electrical and Computer Engineering, Carnegie Mellon University.
+- *2021.09 - 2025.09*, B.Eng. in Electronic and Information Engineering, The Hong Kong Polytechnic University, with First Class Honours and Dean’s Honours List.
+- *2026.01 - 2028.01*, M.S. in Electrical and Computer Engineering, Carnegie Mellon University.
 
 
 
