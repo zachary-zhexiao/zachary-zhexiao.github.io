@@ -143,16 +143,16 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 # 🎖 Honors and Awards
 
 
-- *2025.04*: **3rd** place in NTIRE 2025 Challenge on Restore Any Image Model (RAIM) in the Wild (Track 1) at **CVPR 2025**, project leader.
+- *2025.04*: **3<sup>rd</sup>** place in NTIRE 2025 Challenge on Restore Any Image Model (RAIM) in the Wild (Track 1) at **CVPR 2025**, project leader.
 
 - *2025.01*: **Best Paper Award** at IWAIT 2025
 
 - *2024.12*: **The Hong Kong Polytechnic University Scholarship** 
   *(Around 20 awardees university wise for outstanding achievements)*
   
-- *2024.08*: **2nd** place in AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content at **ECCV 2024**
+- *2024.08*: **2<sup>nd</sup>** place in AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content at **ECCV 2024**
 
-- *2024.08*: **3rd** place in AIM 2024 Challenge on Sparse Neural Rendering for Track 1 and Track 2 at **ECCV 2024**
+- *2024.08*: **3<sup>rd</sup>** place in AIM 2024 Challenge on Sparse Neural Rendering for Track 1 and Track 2 at **ECCV 2024**
 <!-- - *2024.10*: Dean’s Honours List -->
 <!-- - *2024.04*: HKSAR Government Scholarship Fund - Talent Development Scholarship -->
 <!-- - *2024.04*: HKSAR Government Scholarship Fund - Reaching Out Award -->
