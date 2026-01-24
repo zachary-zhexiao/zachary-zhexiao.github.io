@@ -164,17 +164,8 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 
 # 💻 Projects
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Smart Medicine Box</div>
-      <a href="https://www.youtube.com/watch?v=sFaivoMGTto" target="_blank" rel="noopener">
-        <img src="https://img.youtube.com/vi/sFaivoMGTto/hqdefault.jpg" alt="Smart Medicine Box" style="width:80%; display:block;">
-      </a>
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Smart Medicine Box</div><img src='images/smart_medicine_box.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 **Smart Medicine Box**  
 *Developed Jan. 2024 – Feb. 2024*  
 
