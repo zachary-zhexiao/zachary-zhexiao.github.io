@@ -19,14 +19,12 @@ redirect_from:
 
 # About Me
 
-I am a Master of Science student in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu).
-
-Prior to this, I finished my bachelor’s degree in Electronic and Information Engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I collaborate closely with [Dr. Jun Xiao](https://junxiao01.github.io/) and was supervised by [Prof. Kenneth Kin-Man Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ) on 3D vision. I am also grateful for the mentorship of [Prof. Wenjing Jia](https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ) at [University of Technology Sydney](https://www.uts.edu.au/), Sydney.
+I am a an M.S. student in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu). I received my B.Eng. in Electronic and Information Engineering from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I collaborate closely with [Dr. Jun Xiao](https://junxiao01.github.io/) and was supervised by [Prof. Kenneth Kin-Man Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ) on 3D vision. I am also grateful for the mentorship of [Prof. Wenjing Jia](https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ) at [University of Technology Sydney](https://www.uts.edu.au/), Sydney.
 <!-- , on an international project focused on OCT image processing for medical imaging in 2024. -->
 
-Since May 2025, I have also been working as a research intern at [Sony](https://www.sony.com/en/SonyInfo/research/about/china-laboratory/) in Beijing, focusing on novel view synthesis.
+From May 2025 to Dec 2025, I worked as a research intern at [Sony](https://www.sony.com/en/SonyInfo/research/about/china-laboratory/), Beijing, focusing on generative novel view synthesis.
 
-My research interest includes 2D/3D computer vision (e.g., image processing/super-resolution//restoration/enhancement, novel view synthesis). I am also actively learning generative models (e.g., diffusion models).
+My research interests include 2D/3D computer vision (e.g., image processing/super-resolution//restoration/enhancement, novel view synthesis) and generative modeling (e.g., diffusion models).
 
 <!-- I am also a photography lover—[check out my selected photos here](photowall/photowall.html)! -->
 I am also a photography lover—[check out my portfolio here](https://zachary-zhexiao.github.io/#-portfolio)!
