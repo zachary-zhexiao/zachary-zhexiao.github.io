@@ -170,6 +170,7 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 *Developed Jan. 2024 – Feb. 2024*  
 
 Built an end-to-end digital medication management prototype integrating hardware sensors, computer vision, and a user interface. Deployed YOLOv5-based pill detection on Raspberry Pi to support automated medication retrieval workflows in clinics, reducing manual handling.
+
 [\[demo\]](https://youtu.be/sFaivoMGTto) [\[details\]](https://youtu.be/UjaX1j2yP5U)
 
   </div>
