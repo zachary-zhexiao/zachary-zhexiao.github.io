@@ -164,15 +164,22 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 
 # 💻 Projects
 
+# 💻 Projects
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Smart Medicine Box</div>
-<iframe width="100%" height="180" src="https://www.youtube.com/embed/sFaivoMGTto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+<a href="https://www.youtube.com/watch?v=sFaivoMGTto" class="video-thumbnail">
+<img src='https://img.youtube.com/vi/sFaivoMGTto/maxresdefault.jpg' alt="Smart Medicine Box" width="80%">
+<div class="play-button">▶</div>
+</a>
+</div>
 </div></div>
 <div class='paper-box-text' markdown="1">
 **Smart Medicine Box**
 
 *Product: Smart Medicine Box*, integrating hardware sensors, computer vision and user interface for digital medication management; implemented automatic medicine detection (using YOLOv5) on Raspberry Pi, enabling clinics to autonomously retrieve medications for patients, reducing manpower requirements.
 
-[\[video\]](https://youtu.be/sFaivoMGTto)
+[\[video\]](https://youtu.be/sFaivoMGTto) [\[code\]](https://github.com/your-repo)
 
 </div>
 </div>
