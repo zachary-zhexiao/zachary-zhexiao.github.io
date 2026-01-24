@@ -77,7 +77,7 @@ Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun
 
 **ICASSP 2025**
 
-[\[paper\]](https://arxiv.org/abs/2501.11508) [\[code\]](https://github.com/wuyou012/SIDGaussian)
+[\[paper\]](https://arxiv.org/abs/2501.11508) [\[code\]](https://github.com/wuyou012/SIDGaussian) ![](https://img.shields.io/github/stars/wuyou012/SIDGaussian?style=social)
 
 </div>
 </div>
@@ -164,25 +164,26 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 
 # 💻 Projects
 
-# 💻 Projects
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Smart Medicine Box</div>
+      <a href="https://www.youtube.com/watch?v=sFaivoMGTto" target="_blank" rel="noopener">
+        <img src="https://img.youtube.com/vi/sFaivoMGTto/hqdefault.jpg" alt="Smart Medicine Box" style="width:80%; display:block;">
+      </a>
+    </div>
+  </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Smart Medicine Box</div>
-<div class="video-container">
-<a href="https://www.youtube.com/watch?v=sFaivoMGTto" class="video-thumbnail">
-<img src='https://img.youtube.com/vi/sFaivoMGTto/maxresdefault.jpg' alt="Smart Medicine Box" width="80%">
-<div class="play-button">▶</div>
-</a>
+  <div class='paper-box-text' markdown="1">
+**Smart Medicine Box**  
+*Developed Jan. 2024 – Feb. 2024*  
+
+Built an end-to-end digital medication management prototype integrating hardware sensors, computer vision, and a user interface. Deployed YOLOv5-based pill detection on Raspberry Pi to support automated medication retrieval workflows in clinics, reducing manual handling.
+[\[demo\]](https://youtu.be/sFaivoMGTto) [\[details\]](https://youtu.be/UjaX1j2yP5U)
+
+  </div>
 </div>
-</div></div>
-<div class='paper-box-text' markdown="1">
-**Smart Medicine Box**
 
-*Product: Smart Medicine Box*, integrating hardware sensors, computer vision and user interface for digital medication management; implemented automatic medicine detection (using YOLOv5) on Raspberry Pi, enabling clinics to autonomously retrieve medications for patients, reducing manpower requirements.
-
-[\[video\]](https://youtu.be/sFaivoMGTto) [\[code\]](https://github.com/your-repo)
-
-</div>
-</div>
 
 
 # 📖 Educations
