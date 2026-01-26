@@ -180,7 +180,7 @@ Built an end-to-end digital medication management prototype integrating hardware
 
 # 📖 Educations
 - *2021.09 - 2025.09*, B.Eng. in Electronic and Information Engineering, The Hong Kong Polytechnic University, with First Class Honours and Dean’s Honours List.
-- *2026.01 - 2028.01*, M.S. in Electrical and Computer Engineering, Carnegie Mellon University.
+- *2026.01 - 2027.12*, M.S. in Electrical and Computer Engineering, Carnegie Mellon University.
 
 
 
