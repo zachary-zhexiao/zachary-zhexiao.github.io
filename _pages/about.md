@@ -19,8 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a M.S. student in Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu). I received my B.Eng. in Electronic and Information Engineering from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I collaborate closely with [Dr. Jun Xiao](https://junxiao01.github.io/) and was supervised by [Prof. Kenneth Kin-Man Lam](https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ) on 3D vision. I am also grateful for the mentorship of [Prof. Wenjing Jia](https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ) at [University of Technology Sydney](https://www.uts.edu.au/), Sydney.
-<!-- , on an international project focused on OCT image processing for medical imaging in 2024. -->
+I am a M.S. student in Electrical and Computer Engineering at <a href='https://www.cmu.edu'>Carnegie Mellon University</a>. I received my B.Eng. in Electronic and Information Engineering from <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a>. I collaborate closely with <a href="https://junxiao01.github.io/">Dr. Jun Xiao</a> and was supervised by <a href="https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ">Prof. Kenneth Kin-Man Lam</a> on 3D vision. I am also grateful for the mentorship of <a href="https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ">Prof. Wenjing Jia</a> at <a href="https://www.uts.edu.au/">University of Technology Sydney</a>, Sydney.
 
 From May 2025 to Dec 2025, I worked as a research intern at [Sony](https://www.sony.com/en/SonyInfo/research/about/china-laboratory/), Beijing, focusing on generative novel view synthesis.
 
