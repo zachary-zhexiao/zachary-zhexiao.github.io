@@ -21,8 +21,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Portfolio"
-    url: "/portfolio/"
+  # - title: "Portfolio"
+  #   url: "/portfolio/"
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 

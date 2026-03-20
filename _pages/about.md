@@ -26,7 +26,7 @@ From May 2025 to Dec 2025, I worked as a research intern at [Sony](https://www.s
 My research interests include 2D/3D computer vision (e.g., image processing/super-resolution//restoration/enhancement, novel view synthesis) and generative modeling (e.g., diffusion models).
 
 <!-- I am also a photography lover—[check out my selected photos here](photowall/photowall.html)! -->
-I am also a photography lover — [check out my portfolio here](/portfolio/)!
+<!-- I am also a photography lover — [check out my portfolio here](/portfolio/)! -->
 <!--Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 <div style="display: flex; align-items: center; padding: 10px;">
