@@ -89,3 +89,29 @@
     }
   }
 }
+
+/* Dark mode footer */
+
+body.dark-mode {
+  .page__footer {
+    background: linear-gradient(180deg, #0d1117 0%, #161b22 100%) !important;
+    color: #8b949e;
+    border-top-color: #30363d;
+
+    a {
+      color: #58a6ff;
+
+      &:hover {
+        color: #79c0ff;
+      }
+    }
+
+    .fas, .fab, .far, .fal {
+      color: #8b949e;
+    }
+
+    footer {
+      color: #8b949e;
+    }
+  }
+}
