@@ -87,15 +87,6 @@
 
 }
 
-.inline-org-logo {
-    display: inline-block;
-    height: 1em;
-    width: auto;
-    margin-left: 0.25em;
-    vertical-align: -0.12em;
-    object-fit: contain;
-}
-
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
