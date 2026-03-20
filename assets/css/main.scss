@@ -107,3 +107,16 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Final override to ensure links underline only on hover/focus */
+.page__content a,
+.archive a {
+    text-decoration: none !important;
+}
+
+.page__content a:hover,
+.page__content a:focus-visible,
+.archive a:hover,
+.archive a:focus-visible {
+    text-decoration: underline !important;
+}
