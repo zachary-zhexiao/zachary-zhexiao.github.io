@@ -40,83 +40,352 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* ==========================================================================
+   GLOBAL ENHANCEMENTS
+   ========================================================================== */
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Custom selection color */
+::selection {
+    background: rgba($primary-color, 0.2);
+    color: $text-color;
+}
+
+::-moz-selection {
+    background: rgba($primary-color, 0.2);
+    color: $text-color;
+}
+
+/* ==========================================================================
+   PAPER BOX - Publication Cards
+   ========================================================================== */
+
 .paper-box {
     display: flex;
     justify-content: left;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    border-bottom: 1px solid $border-color;
+    padding: 2em 0;
+    transition: $global-transition;
+    border-radius: $border-radius;
+    margin: 0 -1em;
+    padding-left: 1em;
+    padding-right: 1em;
 
-    .paper-box-image{
+    &:hover {
+        background: rgba($primary-color, 0.02);
+    }
+
+    .paper-box-image {
         justify-content: center;
         display: flex;
         width: 100%;
         order: 2;
+
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            border-radius: $border-radius;
+            box-shadow: $box-shadow;
             object-fit: cover;
+            transition: $global-transition;
+
+            &:hover {
+                box-shadow: $box-shadow-hover;
+                transform: translateY(-4px);
+            }
         }
     }
-    
-    .paper-box-text{
+
+    .paper-box-text {
         max-width: 100%;
         order: 1;
+
+        strong {
+            color: $text-color;
+            font-weight: 600;
+        }
     }
-    
+
     @include breakpoint($medium) {
-        .paper-box-image{
+        .paper-box-image {
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
             order: 1;
         }
-        
-        .paper-box-text{
+
+        .paper-box-text {
             justify-content: left;
             padding-left: 2em;
             max-width: 60%;
             order: 2;
         }
-
     }
-
-
 }
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
-    margin-top: -$scroll_offset;
-}
+/* ==========================================================================
+   BADGE - Conference/Journal Tags
+   ========================================================================== */
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: 0.35rem 0.8rem;
     position: absolute;
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
-    font-size: .8em;
+    background: $accent-gradient;
+    font-size: .75em;
+    font-weight: 600;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+    box-shadow: 0 2px 8px rgba($primary-color, 0.3);
 }
 
-/* Final override to ensure links underline only on hover/focus */
+/* ==========================================================================
+   SCROLL OFFSET FOR ANCHORS
+   ========================================================================== */
+
+$scroll_offset: 2em;
+
+h1:before, .anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
+    margin-top: -$scroll_offset;
+}
+
+/* ==========================================================================
+   SECTION HEADINGS
+   ========================================================================== */
+
+.page__content h1 {
+    position: relative;
+    font-weight: 700;
+    color: $text-color;
+
+    &::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 60px;
+        height: 3px;
+        background: $accent-gradient;
+        border-radius: 2px;
+    }
+}
+
+/* ==========================================================================
+   NEWS ITEMS
+   ========================================================================== */
+
+.page__content ul li {
+    position: relative;
+
+    &::marker {
+        color: $primary-color;
+    }
+}
+
+/* ==========================================================================
+   LINKS
+   ========================================================================== */
+
 .page__content a,
 .archive a {
     text-decoration: none !important;
+    color: $link-color;
+    position: relative;
+    transition: $global-transition;
 }
 
 .page__content a:hover,
 .page__content a:focus-visible,
 .archive a:hover,
 .archive a:focus-visible {
-    text-decoration: underline !important;
+    color: $link-color-hover;
+    text-decoration: none !important;
+}
+
+/* Special link styles for paper links */
+.paper-box-text a {
+    padding: 0.2em 0.5em;
+    margin: 0 0.1em;
+    border-radius: 4px;
+    background: rgba($primary-color, 0.08);
+
+    &:hover {
+        background: rgba($primary-color, 0.15);
+    }
+}
+
+/* ==========================================================================
+   INSTITUTION LOGOS
+   ========================================================================== */
+
+.page__content > div[style*="display: flex"] {
+    gap: 1.5rem;
+
+    a {
+        transition: $global-transition;
+        opacity: 0.85;
+
+        &:hover {
+            opacity: 1;
+            transform: translateY(-2px);
+        }
+
+        img {
+            filter: grayscale(20%);
+            transition: $global-transition;
+        }
+
+        &:hover img {
+            filter: grayscale(0%);
+        }
+    }
+}
+
+/* ==========================================================================
+   HONORS AND AWARDS
+   ========================================================================== */
+
+.page__content > ul > li {
+    padding: 0.5em 0;
+    border-left: 3px solid transparent;
+    padding-left: 0;
+    margin-left: 1em;
+    transition: $global-transition;
+}
+
+/* ==========================================================================
+   PORTFOLIO IMAGE
+   ========================================================================== */
+
+.page__content div[align="center"] {
+    img {
+        border-radius: $border-radius;
+        box-shadow: $box-shadow;
+        transition: $global-transition;
+
+        &:hover {
+            box-shadow: $box-shadow-hover;
+            transform: scale(1.02);
+        }
+    }
+}
+
+/* ==========================================================================
+   FADE IN ANIMATION
+   ========================================================================== */
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.page__content > * {
+    animation: fadeInUp 0.5s ease-out;
+    animation-fill-mode: both;
+}
+
+@for $i from 1 through 20 {
+    .page__content > *:nth-child(#{$i}) {
+        animation-delay: #{$i * 0.05}s;
+    }
+}
+
+/* ==========================================================================
+   DARK MODE SUPPORT
+   ========================================================================== */
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-color: #0d1117;
+        --text-color: #c9d1d9;
+        --border-color: #30363d;
+    }
+
+    body {
+        background-color: #0d1117;
+        color: #c9d1d9;
+    }
+
+    .masthead {
+        background: rgba(13, 17, 23, 0.85);
+        border-bottom-color: #30363d;
+    }
+
+    .author__avatar img {
+        background: linear-gradient(#0d1117, #0d1117) padding-box,
+                    $accent-gradient border-box !important;
+    }
+
+    .paper-box {
+        border-bottom-color: #30363d;
+
+        &:hover {
+            background: rgba($primary-color, 0.05);
+        }
+    }
+
+    .paper-box-image img {
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+    }
+
+    .page__content h1 {
+        color: #c9d1d9;
+        border-bottom-color: #30363d;
+    }
+
+    .author__urls {
+        background: #161b22;
+        border-color: #30363d;
+
+        &:after {
+            border-color: #161b22 transparent;
+        }
+    }
+
+    a {
+        color: #58a6ff;
+    }
+
+    .page__footer {
+        background: #0d1117;
+        color: #8b949e;
+    }
+}
+
+/* ==========================================================================
+   RESPONSIVE IMPROVEMENTS
+   ========================================================================== */
+
+@include breakpoint(max-width $small) {
+    .page__content h1 {
+        font-size: 1.3em;
+    }
+
+    .paper-box {
+        padding: 1.5em 0;
+    }
+
+    .badge {
+        font-size: 0.7em;
+        padding: 0.25rem 0.6rem;
+    }
 }

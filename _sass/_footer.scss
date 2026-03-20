@@ -9,19 +9,14 @@
   margin-right: 0;
   width: 100%;
   clear: both;
-  /* sticky footer fix start */
-  // position: absolute;
-  // bottom: 0em;
-  // height: auto;
-  /* sticky footer fix end */
-  margin-top: 3em;
-  color: mix(#fff, $gray, 25%);
+  margin-top: 4em;
+  color: $gray;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
-  border-top: 1px solid $light-gray;
+  background: linear-gradient(180deg, $background-color 0%, mix($background-color, $border-color, 70%) 100%);
+  border-top: 1px solid $border-color;
 
   footer {
     @include clearfix;
@@ -37,11 +32,13 @@
   }
 
   a {
-    color: inherit;
+    color: $primary-color;
     text-decoration: none;
+    transition: $global-transition;
 
     &:hover {
-      text-decoration: underline;
+      color: $primary-color-dark;
+      text-decoration: none;
     }
   }
 
@@ -49,13 +46,15 @@
   .fab,
   .far,
   .fal {
-    color: mix(#fff, $gray, 25%);
+    color: $gray;
   }
 }
 
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  color: $light-gray;
+  margin-top: 1em;
 }
 
 .page__footer-follow {

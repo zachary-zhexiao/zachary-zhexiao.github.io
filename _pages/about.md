@@ -161,7 +161,11 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 <!-- - *2023.10*: Dean’s Honours List -->
 <!-- - *2023.10*: Best GPA Award, Best Semester GPA Award, presented by Department of Electronic and Information Engineering -->
 
-# 💻 Projects
+
+
+
+
+# 🚀 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Smart Medicine Box</div><img src='images/smart_medicine_box.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -176,6 +180,9 @@ Built an end-to-end digital medication management prototype integrating hardware
 </div>
 
 
+# 💻 Experience
+- *2025.05 - 2025.12*, Research Intern, Sony
+- *2023.02 – 2024.06*, Student Assistant, The Hong Kong Polytechnic University
 
 # 📖 Educations
 - *2021.09 - 2025.09*, B.Eng. in Electronic and Information Engineering, The Hong Kong Polytechnic University, with First Class Honours and Dean’s Honours List.

@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : 'Zhe (Zachary) Xiao'
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Hong Kong Polytechnic University (PolyU)"
-  location         : "Hong Kong"
+  bio              : "Carnegie Mellon University"
+  location         : "Pittsburgh"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=kH0sdkwAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "xiao-zhe.xiao@connect.polyu.hk"
-  researchgate     : "https://www.researchgate.net/profile/Zhe-Xiao-14" # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # "https://www.researchgate.net/profile/Zhe-Xiao-14" 
   uri              :
   bitbucket        :
   codepen          :
