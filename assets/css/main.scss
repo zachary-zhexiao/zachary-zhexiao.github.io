@@ -87,6 +87,7 @@ html {
         display: flex;
         width: 100%;
         order: 2;
+        position: relative;
 
         img {
             max-width: 400px;
@@ -94,6 +95,8 @@ html {
             box-shadow: $box-shadow;
             object-fit: cover;
             transition: $global-transition;
+            position: relative;
+            z-index: 1;
 
             &:hover {
                 box-shadow: $box-shadow-hover;
@@ -145,6 +148,7 @@ html {
     border-radius: 4px;
     letter-spacing: 0.02em;
     box-shadow: 0 2px 8px rgba($primary-color, 0.3);
+    z-index: 10;
 }
 
 /* ==========================================================================

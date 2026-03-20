@@ -71,7 +71,7 @@
 .profile_box{
   @include breakpoint($large) {
     display: block;
-    text-align: center;
+    text-align: left;
   }
   display: flex;
   justify-content: flex-start;
@@ -88,7 +88,7 @@
     display: block;
     width: auto;
     height: auto;
-    margin: 0 auto;
+    margin: 0;
   }
 
   img {
@@ -124,7 +124,7 @@
     width: 100%;
     padding-left: 0;
     padding-right: 0;
-    text-align: center;
+    text-align: left;
   }
 }
 
