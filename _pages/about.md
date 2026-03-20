@@ -76,7 +76,7 @@ Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun
 
 **ICASSP 2025**
 
-[paper](https://arxiv.org/abs/2501.11508) [code](https://github.com/wuyou012/SIDGaussian) ![](https://img.shields.io/github/stars/wuyou012/SIDGaussian?style=social)
+[\[paper\]](https://arxiv.org/abs/2501.11508) [\[code\]](https://github.com/wuyou012/SIDGaussian) ![](https://img.shields.io/github/stars/wuyou012/SIDGaussian?style=social)
 
 </div>
 </div>
@@ -90,7 +90,7 @@ Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun
 
 **APSIPA 2024** <span style="color:red">**(Oral)**</span>
 
-[paper](https://ieeexplore.ieee.org/document/10848686)
+[\[paper\]](https://ieeexplore.ieee.org/document/10848686)
 </div>
 </div>
 
@@ -103,7 +103,7 @@ Zongqi He, **Zhe Xiao**, Wenjing Jia, Kin‑Man Lam et al.
 
 **IWAIT 2025** <span style="color:red">**(Best Paper Award)**</span>
 
-[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13510/1351005/MFGAN--OCT-image-super-resolution-and-enhancement-with-blind/10.1117/12.3057230.short?webSyncID=6c60a397-8a3b-1bd9-3761-10bda6d2d646&sessionGUID=366cc9a6-5379-ee29-40a0-45b97a32d400)
+[\[paper\]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13510/1351005/MFGAN--OCT-image-super-resolution-and-enhancement-with-blind/10.1117/12.3057230.short?webSyncID=6c60a397-8a3b-1bd9-3761-10bda6d2d646&sessionGUID=366cc9a6-5379-ee29-40a0-45b97a32d400)
 </div>
 </div> -->
 
@@ -118,7 +118,7 @@ Marcos V Conde, Zhijun Lei, Wen Li, Christos Bampis, Ioannis Katsavounidis, Radu
 
 **ECCV AIM Workshop 2024**
 
-[paper](https://arxiv.org/abs/2409.17256)
+[\[paper\]](https://arxiv.org/abs/2409.17256)
 
 </div>
 </div> -->
@@ -133,7 +133,7 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 
 **ECCV AIM Workshop 2024**
 
-[paper](https://arxiv.org/abs/2409.15045)
+[\[paper\]](https://arxiv.org/abs/2409.15045)
 </div>
 </div> -->
 
@@ -170,7 +170,7 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 
 Built an end-to-end digital medication management prototype integrating hardware sensors, computer vision, and a user interface. Deployed YOLOv5-based pill detection on Raspberry Pi to support automated medication retrieval workflows in clinics, reducing manual handling.
 
-[demo](https://youtu.be/sFaivoMGTto) [details](https://youtu.be/UjaX1j2yP5U)
+[\[demo\]](https://youtu.be/sFaivoMGTto) [\[details\]](https://youtu.be/UjaX1j2yP5U)
 
   </div>
 </div>
@@ -201,7 +201,7 @@ Built an end-to-end digital medication management prototype integrating hardware
 - *2023.09 – 2024.09*, Undergraduate Research and Innovation Scheme (URIS)
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [video](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
