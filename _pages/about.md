@@ -29,15 +29,15 @@ My research interests include 2D/3D computer vision (e.g., image processing/supe
 I am also a photography lover—[check out my portfolio here](https://zachary-zhexiao.github.io/#-portfolio)!
 <!--Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-<div style="display: flex; align-items: center; padding: 10px;">
+<div class="affiliation-logos">
   <a href="https://www.polyu.edu.hk/">
-    <img src="images/polyu.png" width="160" style="display: block; margin-right: 10px;">
+    <img class="affiliation-logo affiliation-logo--polyu" src="images/polyu.png" alt="The Hong Kong Polytechnic University logo">
   </a>
   <a href="https://www.sony.com/en/SonyInfo/research/about/china-laboratory/">
-    <img src="images/Sony.svg" width="160" style="display: block; margin-right: 10px;">
+    <img class="affiliation-logo affiliation-logo--sony" src="images/Sony.svg" alt="Sony logo">
   </a>
   <a href="https://www.cmu.edu/">
-    <img src="images/CMU.png" width="80" style="display: block;">
+    <img class="affiliation-logo affiliation-logo--cmu" src="images/CMU.png" alt="Carnegie Mellon University logo">
   </a>
 </div>
 
@@ -187,11 +187,9 @@ Built an end-to-end digital medication management prototype integrating hardware
 
 <!-- [![Portfolio Entry](images/Portfolio.jpg)](https://zachary-zhexiao.github.io/_pages/photowall/photowall.html) -->
 
-<div align="center">
-<a href="https://zachary-zhexiao.webflow.io/">
-  <img src="images/Portfolio.jpg" alt="Portfolio Entry" width="50%">
+<a class="portfolio-entry" href="https://zachary-zhexiao.webflow.io/">
+  <img src="images/Portfolio.jpg" alt="Portfolio Entry">
 </a>
-</div>
 <!-- 🖼️ -->
 
 
