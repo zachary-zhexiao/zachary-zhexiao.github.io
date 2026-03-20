@@ -55,6 +55,23 @@
         display: flex;
         width: 100%;
         order: 2;
+.inline-org-logo {
+    display: inline-block;
+    height: 1.05em;
+    width: auto;
+    margin-left: 0.28em;
+    vertical-align: -0.16em;
+    object-fit: contain;
+}
+
+.inline-org-logo--polyu {
+    height: 0.95em;
+}
+
+.inline-org-logo--sony {
+    height: 0.82em;
+    vertical-align: -0.08em;
+}
         img {
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
