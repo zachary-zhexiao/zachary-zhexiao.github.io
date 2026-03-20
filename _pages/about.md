@@ -19,9 +19,9 @@ redirect_from:
 
 # About Me
 
-I am a M.S. student in Electrical and Computer Engineering at <a href='https://www.cmu.edu'>Carnegie Mellon University</a>. I received my B.Eng. in Electronic and Information Engineering from <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a>. I collaborate closely with <a href="https://junxiao01.github.io/">Dr. Jun Xiao</a> and was supervised by <a href="https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ">Prof. Kenneth Kin-Man Lam</a> on 3D vision. I am also grateful for the mentorship of <a href="https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ">Prof. Wenjing Jia</a> at <a href="https://www.uts.edu.au/">University of Technology Sydney</a>, Sydney.
+I am a M.S. student in Electrical and Computer Engineering at <a href='https://www.cmu.edu'>Carnegie Mellon University</a><img class="inline-org-logo inline-org-logo--cmu" src="images/CMU.png" alt="CMU">. I received my B.Eng. in Electronic and Information Engineering from <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a><img class="inline-org-logo inline-org-logo--polyu" src="images/polyu.png" alt="PolyU">. I collaborate closely with <a href="https://junxiao01.github.io/">Dr. Jun Xiao</a> and was supervised by <a href="https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ">Prof. Kenneth Kin-Man Lam</a> on 3D vision. I am also grateful for the mentorship of <a href="https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ">Prof. Wenjing Jia</a> at <a href="https://www.uts.edu.au/">University of Technology Sydney</a>, Sydney.
 
-From May 2025 to Dec 2025, I worked as a research intern at [Sony](https://www.sony.com/en/SonyInfo/research/about/china-laboratory/), Beijing, focusing on generative novel view synthesis.
+From May 2025 to Dec 2025, I worked as a research intern at <a href="https://www.sony.com/en/SonyInfo/research/about/china-laboratory/">Sony</a><img class="inline-org-logo inline-org-logo--sony" src="images/Sony.svg" alt="Sony">, Beijing, focusing on generative novel view synthesis.
 
 My research interests include 2D/3D computer vision (e.g., image processing/super-resolution//restoration/enhancement, novel view synthesis) and generative modeling (e.g., diffusion models).
 
@@ -29,15 +29,15 @@ My research interests include 2D/3D computer vision (e.g., image processing/supe
 I am also a photography lover—[check out my portfolio here](https://zachary-zhexiao.github.io/#-portfolio)!
 <!--Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-<div class="affiliation-logos">
+<div style="display: flex; align-items: center; padding: 10px;">
   <a href="https://www.polyu.edu.hk/">
-    <img class="affiliation-logo affiliation-logo--polyu" src="images/polyu.png" alt="The Hong Kong Polytechnic University logo">
+    <img src="images/polyu.png" width="160" style="display: block; margin-right: 10px;">
   </a>
   <a href="https://www.sony.com/en/SonyInfo/research/about/china-laboratory/">
-    <img class="affiliation-logo affiliation-logo--sony" src="images/Sony.svg" alt="Sony logo">
+    <img src="images/Sony.svg" width="160" style="display: block; margin-right: 10px;">
   </a>
   <a href="https://www.cmu.edu/">
-    <img class="affiliation-logo affiliation-logo--cmu" src="images/CMU.png" alt="Carnegie Mellon University logo">
+    <img src="images/CMU.png" width="80" style="display: block;">
   </a>
 </div>
 
@@ -187,9 +187,11 @@ Built an end-to-end digital medication management prototype integrating hardware
 
 <!-- [![Portfolio Entry](images/Portfolio.jpg)](https://zachary-zhexiao.github.io/_pages/photowall/photowall.html) -->
 
-<a class="portfolio-entry" href="https://zachary-zhexiao.webflow.io/">
-  <img src="images/Portfolio.jpg" alt="Portfolio Entry">
+<div align="center">
+<a href="https://zachary-zhexiao.webflow.io/">
+  <img src="images/Portfolio.jpg" alt="Portfolio Entry" width="50%">
 </a>
+</div>
 <!-- 🖼️ -->
 
 
