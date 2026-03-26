@@ -82,7 +82,7 @@ Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSIPA 2024</div><img src='images/APSIPA2024.png' alt="sym" width="80%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">APSIPA 2024</div><img src='images/APSIPA2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification**
   
@@ -92,7 +92,7 @@ Zongqi He<sup>*</sup>, **Zhe Xiao**<sup>*</sup>, Kin-Chung Chan, Yushen Zuo, Jun
 
 [paper](https://ieeexplore.ieee.org/document/10848686)
 </div>
-</div>
+</div> -->
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IWAIT 2025</div><img src='images/iwait2025.png' alt="sym" width="80%"></div></div>
