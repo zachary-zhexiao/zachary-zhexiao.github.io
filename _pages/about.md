@@ -33,16 +33,16 @@ I am also a photography lover — [check out my portfolio here](https://zachary-
 
 <div style="display: flex; align-items: center; padding: 10px;">
   <a href="https://www.polyu.edu.hk/">
-    <img src="images/polyu.png" width="160" style="display: block; margin-right: 10px;">
+    <img src="images/polyu.png" width="160" style="display: block; margin-right: 10px; filter: none !important; opacity: 1 !important;">
   </a>
   <a href="https://www.sony.com/en/SonyInfo/research/about/china-laboratory/">
-    <img src="images/sony.jpeg" width="80" style="display: block; margin-right: 10px;">
+    <img src="images/sony.jpeg" width="80" style="display: block; margin-right: 10px; filter: none !important; opacity: 1 !important;">
   </a>
   <a href="https://www.linkedin.com/company/chinese-alibaba-group/">
-    <img src="images/tongyi.jpeg" width="80" style="display: block; margin-right: 10px;">
+    <img src="images/tongyi.jpeg" width="80" style="display: block; margin-right: 10px; filter: none !important; opacity: 1 !important;">
   </a>
   <a href="https://www.cmu.edu/">
-    <img src="images/CMU.png" width="80" style="display: block;">
+    <img src="images/CMU.png" width="80" style="display: block; filter: none !important; opacity: 1 !important;">
   </a>
 </div>
 
