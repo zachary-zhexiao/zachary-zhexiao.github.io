@@ -36,7 +36,7 @@ I am also a photography lover — [check out my portfolio here](https://zachary-
     <img src="images/polyu.png" width="160" style="display: block; margin-right: 10px;">
   </a>
   <a href="https://www.sony.com/en/SonyInfo/research/about/china-laboratory/">
-    <img src="images/sony.jpeg" width="160" style="display: block; margin-right: 10px;">
+    <img src="images/sony.jpeg" width="80" style="display: block; margin-right: 10px;">
   </a>
   <a href="https://www.linkedin.com/company/chinese-alibaba-group/">
     <img src="images/tongyi.jpeg" width="80" style="display: block; margin-right: 10px;">
