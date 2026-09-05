@@ -190,8 +190,8 @@ Built an end-to-end digital medication management prototype integrating hardware
 - *2023.02 – 2024.06*, Student Assistant, The Hong Kong Polytechnic University
 
 # 📖 Educations
-- *2021.09 - 2025.09*, B.Eng. in Electronic and Information Engineering, The Hong Kong Polytechnic University, with First Class Honours and Dean’s Honours List.
-- *2026.01 - 2027.12*, M.S. in Electrical and Computer Engineering, Carnegie Mellon University.
+- *2021.09 - 2025.06*, B.Eng. in Electronic and Information Engineering, The Hong Kong Polytechnic University, with First Class Honours and Dean’s Honours List.
+- *2026.08 - 2028.05*, M.S. in Electrical and Computer Engineering, Carnegie Mellon University.
 
 
 
