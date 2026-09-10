@@ -28,7 +28,7 @@ From May 2025 to Dec 2025, I worked as a research intern at [Sony](https://www.s
 My research interests include 2D/3D computer vision (e.g., image processing/super-resolution//restoration/enhancement, novel view synthesis) and generative modeling (e.g., diffusion models).
 
 <!-- I am also a photography lover—[check out my selected photos here](photowall/photowall.html)! -->
-I am also a photography lover — [check out my portfolio here](https://zachary-zhexiao.webflow.io/)!
+I am also a photography lover — <a href="{{ '/portfolio/' | relative_url }}" target="_self">check out my portfolio here</a>!
 <!--Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 <div style="display: flex; align-items: center; padding: 10px;">
@@ -199,11 +199,10 @@ Built an end-to-end digital medication management prototype integrating hardware
 
 <!-- [![Portfolio Entry](images/Portfolio.jpg)](https://zachary-zhexiao.github.io/_pages/photowall/photowall.html) -->
 
-<div align="center">
-<a href="https://zachary-zhexiao.webflow.io/">
-  <img src="images/Portfolio.jpg" alt="Portfolio Entry" width="50%">
+<a href="{{ '/portfolio/' | relative_url }}" target="_self" style="display:block;max-width:760px;margin:20px auto;">
+  <img src="{{ '/images/portfolio/horizontal-img_20240817_031711-medium.webp' | relative_url }}" alt="White cliffs beside a blue sea — open my photography portfolio" width="960" height="480" loading="lazy" style="display:block;width:100%;height:auto;">
+  <span style="display:block;padding-top:12px;">Explore my photography portfolio &rarr;</span>
 </a>
-</div>
 <!-- 🖼️ -->
 
 

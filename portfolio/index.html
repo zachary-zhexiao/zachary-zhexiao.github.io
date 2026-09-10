@@ -1,0 +1,59 @@
+---
+layout: null
+title: "Photography | Zhe (Zachary) Xiao"
+description: "Photographs by Zhe (Zachary) Xiao — Beijing, Hong Kong, Shanghai, Sydney, the UK, and moments from elsewhere."
+permalink: /portfolio/
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.description | escape }}">
+  <meta name="theme-color" content="#fafafa">
+  <title>{{ page.title | escape }}</title>
+  <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
+  <script src="{{ '/assets/js/portfolio.js' | relative_url }}" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#gallery">Skip to photographs</a>
+  <header class="site-header">
+    <a class="wordmark" href="{{ '/' | relative_url }}">Zhe <span>(Zachary)</span> Xiao</a>
+    <a class="home-link" href="{{ '/' | relative_url }}"><span aria-hidden="true">↖</span> Back to homepage</a>
+  </header>
+  <main>
+    <section class="intro" aria-labelledby="page-title">
+      <div><p class="eyebrow">A photographic journal</p><h1 id="page-title">Photographs<span class="title-period">.</span></h1></div>
+      <p class="intro-note">Places, people, and the<br>moments in between.</p>
+    </section>
+    <nav class="collections" aria-label="Photo collections">
+      <div class="collection-links">
+        <a href="#all" data-collection="all" aria-current="true">All works <sup>{{ site.data.portfolio.photos | size }}</sup></a>
+        {% for collection in site.data.portfolio.collections %}
+        {% assign collection_photos = site.data.portfolio.photos | where: 'category', collection.id %}
+        <a href="#{{ collection.id }}" data-collection="{{ collection.id }}">{{ collection.title }} <sup>{{ collection_photos | size }}</sup></a>
+        {% endfor %}
+      </div>
+      <span class="collection-type" id="collection-type">Photography & virtual worlds</span>
+    </nav>
+    <p class="sr-only" id="gallery-status" role="status" aria-live="polite"></p>
+    <section class="gallery" id="gallery" data-opening-count="{{ site.data.portfolio.opening_count | default: 0 }}" aria-label="Photography gallery" tabindex="-1">
+      {% for photo in site.data.portfolio.photos %}
+      <a class="photo" href="{{ photo.large.src | relative_url }}" data-id="{{ photo.id }}" data-category="{{ photo.category }}" data-collection-label="{{ photo.collection | escape }}" data-width="{{ photo.width }}" data-height="{{ photo.height }}" style="--ratio: {{ photo.width | times: 1.0 | divided_by: photo.height }}" aria-label="View: {{ photo.alt | escape }}">
+        <img src="{{ photo.small.src | relative_url }}" srcset="{{ photo.small.src | relative_url }} {{ photo.small.width }}w, {{ photo.medium.src | relative_url }} {{ photo.medium.width }}w, {{ photo.large.src | relative_url }} {{ photo.large.width }}w" sizes="(max-width: 600px) 100vw, 40vw" width="{{ photo.width }}" height="{{ photo.height }}" alt="{{ photo.alt | escape }}" {% if forloop.index <= 3 %}loading="eager"{% else %}loading="lazy"{% endif %} {% if forloop.first %}fetchpriority="high"{% endif %} decoding="async">
+        <span class="photo-caption"><span>{{ photo.collection }}</span><span aria-hidden="true">↗</span></span>
+      </a>
+      {% endfor %}
+    </section>
+    <footer class="gallery-footer"><span>Through the lens of Zhe Xiao</span><a href="#page-title">Back to top ↑</a><span>Black Myth: Wukong · virtual photography & game artwork</span></footer>
+  </main>
+  <dialog class="lightbox" aria-label="Photo viewer" aria-describedby="viewer-help">
+    <div class="viewer-top"><span id="viewer-collection"></span><button class="viewer-close" type="button" aria-label="Close photo viewer">Close <span aria-hidden="true">×</span></button></div>
+    <button class="viewer-prev viewer-arrow" type="button" aria-label="Previous photograph">‹</button>
+    <figure class="viewer-figure"><img class="viewer-image" alt=""><p class="viewer-error" hidden>This image could not load. <a class="viewer-original" href="#">Open image</a></p></figure>
+    <button class="viewer-next viewer-arrow" type="button" aria-label="Next photograph">›</button>
+    <div class="viewer-bottom"><p id="viewer-caption"></p><span id="viewer-count" role="status" aria-live="polite"></span><p id="viewer-help">← → to browse <span>·</span> Esc to close <span>·</span> Swipe on mobile</p></div>
+  </dialog>
+</body>
+</html>

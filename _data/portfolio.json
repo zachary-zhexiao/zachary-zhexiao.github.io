@@ -1,0 +1,3360 @@
+{
+  "opening_count": 3,
+  "collections": [
+    {
+      "id": "beijing",
+      "title": "Beijing"
+    },
+    {
+      "id": "hong-kong",
+      "title": "Hong Kong"
+    },
+    {
+      "id": "shanghai",
+      "title": "Shanghai"
+    },
+    {
+      "id": "sydney",
+      "title": "Sydney"
+    },
+    {
+      "id": "uk",
+      "title": "UK"
+    },
+    {
+      "id": "elsewhere",
+      "title": "Elsewhere"
+    },
+    {
+      "id": "black-myth",
+      "title": "Black Myth: Wukong"
+    }
+  ],
+  "photos": [
+    {
+      "id": "beijing-img_0735-2",
+      "width": 1884,
+      "height": 4096,
+      "alt": "A person in green beside a stream in an autumn forest",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0735-2-small.webp",
+        "width": 442,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0735-2-medium.webp",
+        "width": 883,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0735-2-large.webp",
+        "width": 1325,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0735 2.JPG",
+      "source_sha256": "612d09ed4375dceb8b140677b7b13ce5f6ab62a48377160dc09acd2b9782e28a"
+    },
+    {
+      "id": "beijing-img_0742",
+      "width": 3140,
+      "height": 1884,
+      "alt": "A person in blue beside a stream surrounded by autumn trees",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0742-small.webp",
+        "width": 480,
+        "height": 288
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0742-medium.webp",
+        "width": 960,
+        "height": 576
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0742-large.webp",
+        "width": 2160,
+        "height": 1296
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0742.jpg",
+      "source_sha256": "85c70603933077ffc6ba6beb80ae9298979e250ecd47bae8a61c724b7b09b8d1"
+    },
+    {
+      "id": "beijing-img_0985",
+      "width": 1884,
+      "height": 3140,
+      "alt": "A canopy of golden ginkgo leaves above a park path",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0985-small.webp",
+        "width": 480,
+        "height": 800
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0985-medium.webp",
+        "width": 960,
+        "height": 1600
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0985-large.webp",
+        "width": 1728,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0985.JPG",
+      "source_sha256": "31779f1b920b0d6e20da2a0327d0b69523f2b388a4baa657ecce839e280cd647"
+    },
+    {
+      "id": "shanghai-img_20230825_002221",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "The Oriental Pearl Tower across the river at night",
+      "source": "Shanghai/IMG_20230825_002221.jpg",
+      "width": 3793,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230825_002221-small.webp",
+        "width": 480,
+        "height": 759
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230825_002221-medium.webp",
+        "width": 960,
+        "height": 1519
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230825_002221-large.webp",
+        "width": 1821,
+        "height": 2880
+      },
+      "source_sha256": "9426ecda0a59cba3ced0773f989ca1df9dd291adafab32bbcf4d099520b6b353"
+    },
+    {
+      "id": "shanghai-img_20230825_000028",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "Cranes silhouetted beneath a pink sunset",
+      "source": "Shanghai/IMG_20230825_000028.jpg",
+      "width": 4096,
+      "height": 1888,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230825_000028-small.webp",
+        "width": 480,
+        "height": 221
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230825_000028-medium.webp",
+        "width": 960,
+        "height": 443
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230825_000028-large.webp",
+        "width": 2160,
+        "height": 996
+      },
+      "source_sha256": "b580d5a6610a4208a1433d665176e548ea2fbc0a07204766cbb149d88ffdd4d2"
+    },
+    {
+      "id": "vertical-img_20240817_032946",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "A person waving on a coastal walk",
+      "source": "UK/IMG_20240817_032946.jpg",
+      "width": 3235,
+      "height": 5752,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240817_032946-small.webp",
+        "width": 480,
+        "height": 853
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240817_032946-medium.webp",
+        "width": 960,
+        "height": 1707
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240817_032946-large.webp",
+        "width": 1620,
+        "height": 2880
+      },
+      "source_sha256": "043efce7c6f7cbb9b742f0802f629b76b504ee75ee3ce696200f91d7a4277836"
+    },
+    {
+      "id": "beijing-img_0736",
+      "width": 1884,
+      "height": 2826,
+      "alt": "Autumn trees above a rocky woodland stream",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0736-small.webp",
+        "width": 480,
+        "height": 720
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0736-medium.webp",
+        "width": 960,
+        "height": 1440
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0736-large.webp",
+        "width": 1884,
+        "height": 2826
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0736.jpg",
+      "source_sha256": "554380b972c29f4a7db51ff83f9aad91840b6b9501ab71a5b1805ec1f92f7664"
+    },
+    {
+      "id": "hong-kong-img_20230512_001915",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A blue tram on a Hong Kong street",
+      "source": "Hong Kong/IMG_20230512_001915.jpg",
+      "width": 2037,
+      "height": 4075,
+      "small": {
+        "src": "/images/portfolio/hong-kong-img_20230512_001915-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/hong-kong-img_20230512_001915-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/hong-kong-img_20230512_001915-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "e3eeda38840d7a6a7a03fc93b09dc1b56ddb1584672121463c7e48dae9acb202"
+    },
+    {
+      "id": "shanghai-img_20230826_002933",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "The Oriental Pearl Tower framed in red",
+      "source": "Shanghai/IMG_20230826_002933.jpg",
+      "width": 3000,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230826_002933-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230826_002933-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230826_002933-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "f660b25d633d24a89d9565fde2a484a7c7e39151751bc71f4a9f0066a7a301f1"
+    },
+    {
+      "id": "vertical-img_20240930_221845",
+      "category": "sydney",
+      "collection": "Sydney",
+      "alt": "A whale breaching above blue water",
+      "source": "Sydney/IMG_20240930_221845.jpg",
+      "width": 1111,
+      "height": 2127,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240930_221845-small.webp",
+        "width": 480,
+        "height": 919
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240930_221845-medium.webp",
+        "width": 960,
+        "height": 1838
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240930_221845-large.webp",
+        "width": 1111,
+        "height": 2127
+      },
+      "source_sha256": "cc6bf6afb12b2af9c610027be3d1746256a49ca45445bac8c0043f6d997bdd91"
+    },
+    {
+      "id": "horizontal-img_20240817_031711",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "White chalk cliffs beside a blue sea",
+      "source": "UK/IMG_20240817_031711.jpg",
+      "width": 6000,
+      "height": 3000,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20240817_031711-small.webp",
+        "width": 480,
+        "height": 240
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20240817_031711-medium.webp",
+        "width": 960,
+        "height": 480
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20240817_031711-large.webp",
+        "width": 2160,
+        "height": 1080
+      },
+      "source_sha256": "70b232b0ee80cdebdd099a38d0788af9777de1a6c49e8a163ff4393f36e1e53b"
+    },
+    {
+      "id": "horizontal-img_20230824_235733",
+      "category": "elsewhere",
+      "collection": "Elsewhere",
+      "alt": "Cranes beneath dark pink evening clouds",
+      "source": "horizontal/IMG_20230824_235733.jpg",
+      "width": 3986,
+      "height": 1869,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20230824_235733-small.webp",
+        "width": 480,
+        "height": 225
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20230824_235733-medium.webp",
+        "width": 960,
+        "height": 450
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20230824_235733-large.webp",
+        "width": 2160,
+        "height": 1013
+      },
+      "source_sha256": "bee220645309fd10cb45ea9d54ed721eb16bdd50d2d83563c41152778b064f7f"
+    },
+    {
+      "id": "beijing-img_0737",
+      "width": 1884,
+      "height": 2826,
+      "alt": "Sunlight falling across a forest stream",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0737-small.webp",
+        "width": 480,
+        "height": 720
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0737-medium.webp",
+        "width": 960,
+        "height": 1440
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0737-large.webp",
+        "width": 1884,
+        "height": 2826
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0737.jpg",
+      "source_sha256": "c3538014dd10e5409ea64ce8288a0f0f1cd2cdebb064da57c838f5a68a56bbc1"
+    },
+    {
+      "id": "hong-kong-img_20230603_113602",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A small beach beneath a wooded hillside",
+      "source": "Hong Kong/IMG_20230603_113602.jpg",
+      "width": 1855,
+      "height": 4096,
+      "small": {
+        "src": "/images/portfolio/hong-kong-img_20230603_113602-small.webp",
+        "width": 435,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/hong-kong-img_20230603_113602-medium.webp",
+        "width": 870,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/hong-kong-img_20230603_113602-large.webp",
+        "width": 1304,
+        "height": 2880
+      },
+      "source_sha256": "3547654a8982ec27ce9653d541c5c49dec56ccea2a3578f7972a7543056bfe96"
+    },
+    {
+      "id": "shanghai-img_20230623_214453",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "A pink van behind blue hydrangeas",
+      "source": "Shanghai/IMG_20230623_214453.jpg",
+      "width": 4096,
+      "height": 1952,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230623_214453-small.webp",
+        "width": 480,
+        "height": 229
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230623_214453-medium.webp",
+        "width": 960,
+        "height": 458
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230623_214453-large.webp",
+        "width": 2160,
+        "height": 1029
+      },
+      "source_sha256": "dc0718bf848c2a24fd7248c83cead2f0fcfb1a075935eb2c6468de5ea0b0fd1f"
+    },
+    {
+      "id": "horizontal-img_20240927_223829",
+      "category": "sydney",
+      "collection": "Sydney",
+      "alt": "The Sydney Opera House across the water",
+      "source": "Sydney/IMG_20240927_223829.jpg",
+      "width": 4872,
+      "height": 2436,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20240927_223829-small.webp",
+        "width": 480,
+        "height": 240
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20240927_223829-medium.webp",
+        "width": 960,
+        "height": 480
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20240927_223829-large.webp",
+        "width": 2160,
+        "height": 1080
+      },
+      "source_sha256": "fbe007a77c275269d767248ad1fd756ffd5d99736aafe2e3e70e6d30d69c3710"
+    },
+    {
+      "id": "vertical-img_20240731_011435",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "Two figures in a monochrome portrait",
+      "source": "UK/IMG_20240731_011435.jpg",
+      "width": 2165,
+      "height": 4329,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240731_011435-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240731_011435-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240731_011435-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "975ae44245e315fdcc7b1f19d1921d61f134e13cf64152b3d78e9abe21ba272a"
+    },
+    {
+      "id": "horizontal-img_20230612_225818",
+      "category": "elsewhere",
+      "collection": "Elsewhere",
+      "alt": "A circular lattice ceiling above a station concourse",
+      "source": "horizontal/IMG_20230612_225818.jpg",
+      "width": 8179,
+      "height": 3681,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20230612_225818-small.webp",
+        "width": 480,
+        "height": 216
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20230612_225818-medium.webp",
+        "width": 960,
+        "height": 432
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20230612_225818-large.webp",
+        "width": 2160,
+        "height": 972
+      },
+      "source_sha256": "ac0933f51f49955966e876b13aa2ce6865b5db37c1ea005763a82b0c2703b0f2"
+    },
+    {
+      "id": "beijing-img_0738-2",
+      "width": 1884,
+      "height": 4096,
+      "alt": "Temple eaves framed by autumn leaves and blue sky",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0738-2-small.webp",
+        "width": 442,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0738-2-medium.webp",
+        "width": 883,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0738-2-large.webp",
+        "width": 1325,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0738 2.JPG",
+      "source_sha256": "0f2bcb0befacbfb37720b7afa759c2c2f876fb35afa3556100696ce16843d2da"
+    },
+    {
+      "id": "vertical-mtxx_mh20240324_235914899",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "Small boats beside a curving sandy beach",
+      "source": "Hong Kong/MTXX_MH20240324_235914899.jpg",
+      "width": 1999,
+      "height": 3998,
+      "small": {
+        "src": "/images/portfolio/vertical-mtxx_mh20240324_235914899-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-mtxx_mh20240324_235914899-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-mtxx_mh20240324_235914899-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "77ec79f7c027755d4c8e34767a7d069ea7cc42b8b56a39ae3866121ffb94fae6"
+    },
+    {
+      "id": "shanghai-img_20230623_211453",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "Hydrangeas beside a stone building",
+      "source": "Shanghai/IMG_20230623_211453.jpg",
+      "width": 2700,
+      "height": 5858,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230623_211453-small.webp",
+        "width": 442,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230623_211453-medium.webp",
+        "width": 885,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230623_211453-large.webp",
+        "width": 1327,
+        "height": 2880
+      },
+      "source_sha256": "25dc90369f42ac80a651a5a9e8825e11d8bc79e53d1807f63f65935b044bb1fb"
+    },
+    {
+      "id": "vertical-img_20240915_234627",
+      "category": "sydney",
+      "collection": "Sydney",
+      "alt": "A cruise ship seen through a railing",
+      "source": "Sydney/IMG_20240915_234627.jpg",
+      "width": 2985,
+      "height": 5969,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240915_234627-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240915_234627-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240915_234627-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "6b88fac18f1ee9fea8247298f855b03094fb4517013134cdc0ee5548e06a3d88"
+    },
+    {
+      "id": "horizontal-img_20240817_031816",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "Hay bales scattered across a sunlit field",
+      "source": "UK/IMG_20240817_031816.jpg",
+      "width": 4719,
+      "height": 2360,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20240817_031816-small.webp",
+        "width": 480,
+        "height": 240
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20240817_031816-medium.webp",
+        "width": 960,
+        "height": 480
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20240817_031816-large.webp",
+        "width": 2160,
+        "height": 1080
+      },
+      "source_sha256": "2711150cc2924c7f40aa377f10e8ed48fde53e49dcafdba760b5743563fdd428"
+    },
+    {
+      "id": "horizontal-img_20230819_172551",
+      "category": "elsewhere",
+      "collection": "Elsewhere",
+      "alt": "A city skyline under a pastel sunset",
+      "source": "horizontal/IMG_20230819_172551.jpg",
+      "width": 4096,
+      "height": 1843,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20230819_172551-small.webp",
+        "width": 480,
+        "height": 216
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20230819_172551-medium.webp",
+        "width": 960,
+        "height": 432
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20230819_172551-large.webp",
+        "width": 2160,
+        "height": 972
+      },
+      "source_sha256": "14b13d57dade92bd45ef25674294a9b849cad2960987c76bb8f670514cccdd6c"
+    },
+    {
+      "id": "beijing-img_0739",
+      "width": 1800,
+      "height": 2997,
+      "alt": "Visitors passing through a round gate beneath yellow leaves",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0739-small.webp",
+        "width": 480,
+        "height": 799
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0739-medium.webp",
+        "width": 960,
+        "height": 1598
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0739-large.webp",
+        "width": 1730,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0739.jpg",
+      "source_sha256": "ebaec64bf1c6ea6b22aaffb7c2abda5eeeac813c3c05f13eaab39768049bc8f4"
+    },
+    {
+      "id": "hong-kong-img_20230512_001826",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A pink apartment building between shadowed towers",
+      "source": "Hong Kong/IMG_20230512_001826.jpg",
+      "width": 1869,
+      "height": 4035,
+      "small": {
+        "src": "/images/portfolio/hong-kong-img_20230512_001826-small.webp",
+        "width": 445,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/hong-kong-img_20230512_001826-medium.webp",
+        "width": 889,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/hong-kong-img_20230512_001826-large.webp",
+        "width": 1334,
+        "height": 2880
+      },
+      "source_sha256": "387f4127a055006483a85dc948ea64409d98df0b07b19ed892510ae9f7acdd66"
+    },
+    {
+      "id": "shanghai-img_20230623_212405",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "A clock tower framed by leaves",
+      "source": "Shanghai/IMG_20230623_212405.jpg",
+      "width": 2700,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230623_212405-small.webp",
+        "width": 432,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230623_212405-medium.webp",
+        "width": 864,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230623_212405-large.webp",
+        "width": 1296,
+        "height": 2880
+      },
+      "source_sha256": "60b8b4b6f912fc05084edc5b76764c24d35673d216d8f7999f11c7978381bab7"
+    },
+    {
+      "id": "vertical-img_20240930_221717",
+      "category": "sydney",
+      "collection": "Sydney",
+      "alt": "A whale tail rising from the sea",
+      "source": "Sydney/IMG_20240930_221717.jpg",
+      "width": 2225,
+      "height": 3956,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240930_221717-small.webp",
+        "width": 480,
+        "height": 853
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240930_221717-medium.webp",
+        "width": 960,
+        "height": 1707
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240930_221717-large.webp",
+        "width": 1620,
+        "height": 2880
+      },
+      "source_sha256": "b88a5f713e829574baaf41138199c23d5595677ff8aaa1cf609edac4bdf22ab9"
+    },
+    {
+      "id": "vertical-img_20240801_183104",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "Sunflowers in bright daylight",
+      "source": "UK/IMG_20240801_183104.jpg",
+      "width": 3000,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240801_183104-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240801_183104-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240801_183104-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "c6dfd096af41071e328037d98f03be2fff3ccf45e72bac86ac7d49f7d40e7684"
+    },
+    {
+      "id": "horizontal-img_20240709_215024",
+      "category": "elsewhere",
+      "collection": "Elsewhere",
+      "alt": "A pointed golden roof against green mountains",
+      "source": "horizontal/IMG_20240709_215024.jpg",
+      "width": 5575,
+      "height": 2788,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20240709_215024-small.webp",
+        "width": 480,
+        "height": 240
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20240709_215024-medium.webp",
+        "width": 960,
+        "height": 480
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20240709_215024-large.webp",
+        "width": 2160,
+        "height": 1080
+      },
+      "source_sha256": "d3699e2d16e7311456f32eba7f15d1b1a505c40eb80983138c7f3162b5f85fac"
+    },
+    {
+      "id": "beijing-img_0740",
+      "width": 1884,
+      "height": 3140,
+      "alt": "Painted temple beams beneath a tiled roof and golden foliage",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0740-small.webp",
+        "width": 480,
+        "height": 800
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0740-medium.webp",
+        "width": 960,
+        "height": 1600
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0740-large.webp",
+        "width": 1728,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0740.jpg",
+      "source_sha256": "d44c52503e7e210d0148a2d2da680aef48178bd90ca8c27673fa2eda366fe753"
+    },
+    {
+      "id": "horizontal-img_20230512_002006",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A facade filled with windows and balconies",
+      "source": "Hong Kong/IMG_20230512_002006.jpg",
+      "width": 4096,
+      "height": 2048,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20230512_002006-small.webp",
+        "width": 480,
+        "height": 240
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20230512_002006-medium.webp",
+        "width": 960,
+        "height": 480
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20230512_002006-large.webp",
+        "width": 2160,
+        "height": 1080
+      },
+      "source_sha256": "2be1de903b8834b9feaac4eb54c380253824aa40780b806e214e541ea4751b65"
+    },
+    {
+      "id": "shanghai-img_20230624_150937",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "A lemur reaching toward a visitor",
+      "source": "Shanghai/IMG_20230624_150937.jpg",
+      "width": 6000,
+      "height": 2700,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230624_150937-small.webp",
+        "width": 480,
+        "height": 216
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230624_150937-medium.webp",
+        "width": 960,
+        "height": 432
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230624_150937-large.webp",
+        "width": 2160,
+        "height": 972
+      },
+      "source_sha256": "f9a905c5fa315b10abeb35b2692d57339334f2d034cab43fbe20e436c360a8b3"
+    },
+    {
+      "id": "vertical-img_20240930_223456",
+      "category": "sydney",
+      "collection": "Sydney",
+      "alt": "A person walking beside the water",
+      "source": "Sydney/IMG_20240930_223456.jpg",
+      "width": 2239,
+      "height": 3981,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240930_223456-small.webp",
+        "width": 480,
+        "height": 853
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240930_223456-medium.webp",
+        "width": 960,
+        "height": 1707
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240930_223456-large.webp",
+        "width": 1620,
+        "height": 2880
+      },
+      "source_sha256": "63f6197430a4b27e63603afd79bbd60a1249e04fb7b2cbf8ed2989a99a1dbd04"
+    },
+    {
+      "id": "horizontal-img_20240731_005436",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "Tower Bridge beneath a blue sky",
+      "source": "UK/IMG_20240731_005436.jpg",
+      "width": 6000,
+      "height": 3000,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20240731_005436-small.webp",
+        "width": 480,
+        "height": 240
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20240731_005436-medium.webp",
+        "width": 960,
+        "height": 480
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20240731_005436-large.webp",
+        "width": 2160,
+        "height": 1080
+      },
+      "source_sha256": "d83b12227a7e6070a579d597ef7402df3877e6668975f4e00cb232907d0b5cd6"
+    },
+    {
+      "id": "vertical-img_20230508_183828",
+      "category": "elsewhere",
+      "collection": "Elsewhere",
+      "alt": "A blue figure leaning over a stone parapet",
+      "source": "vertical/IMG_20230508_183828.jpg",
+      "width": 2026,
+      "height": 4051,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20230508_183828-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20230508_183828-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20230508_183828-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "0a74794c615b150d487c38af5668742439294eb7e7c2a0f57eb63cf8fff1da6b"
+    },
+    {
+      "id": "beijing-img_0741-2",
+      "width": 1884,
+      "height": 4096,
+      "alt": "A temple tower rising behind yellow ginkgo trees",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0741-2-small.webp",
+        "width": 442,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0741-2-medium.webp",
+        "width": 883,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0741-2-large.webp",
+        "width": 1325,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0741 2.JPG",
+      "source_sha256": "2cb54ddba46c645490c0f37b75f5e9513ee95cdd1b2665df5ae7f1a392548d80"
+    },
+    {
+      "id": "hong-kong-img_20230512_121413",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A passerby below a densely packed apartment block",
+      "source": "Hong Kong/IMG_20230512_121413.jpg",
+      "width": 1861,
+      "height": 3721,
+      "small": {
+        "src": "/images/portfolio/hong-kong-img_20230512_121413-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/hong-kong-img_20230512_121413-medium.webp",
+        "width": 960,
+        "height": 1919
+      },
+      "large": {
+        "src": "/images/portfolio/hong-kong-img_20230512_121413-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "e2a33885e4dd1618216983cda8be2715bd4793184ab0c577a81a566da434890b"
+    },
+    {
+      "id": "shanghai-img_20230624_151029",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "A macaw perched on a branch",
+      "source": "Shanghai/IMG_20230624_151029.jpg",
+      "width": 1164,
+      "height": 2585,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230624_151029-small.webp",
+        "width": 432,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230624_151029-medium.webp",
+        "width": 865,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230624_151029-large.webp",
+        "width": 1164,
+        "height": 2585
+      },
+      "source_sha256": "01151bc813e040fa11a89f14f0ec50ec68d2aeb21c843ec381bcb73d730a9898"
+    },
+    {
+      "id": "horizontal-img_20240731_011821",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "A clock tower above a city street",
+      "source": "UK/IMG_20240731_011821.jpg",
+      "width": 5623,
+      "height": 2812,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20240731_011821-small.webp",
+        "width": 480,
+        "height": 240
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20240731_011821-medium.webp",
+        "width": 960,
+        "height": 480
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20240731_011821-large.webp",
+        "width": 2160,
+        "height": 1080
+      },
+      "source_sha256": "983890e73893122ca0f73febe1a32c5e05c633dd07852da9879808c20f38a8cc"
+    },
+    {
+      "id": "vertical-img_20231002_224514",
+      "category": "elsewhere",
+      "collection": "Elsewhere",
+      "alt": "Red fireworks against the night sky",
+      "source": "vertical/IMG_20231002_224514.jpg",
+      "width": 3864,
+      "height": 7728,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20231002_224514-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20231002_224514-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20231002_224514-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "e4849917e682d6c11e0fff6cc740b83d4baad1b623dab614e3c78979f2df21b5"
+    },
+    {
+      "id": "beijing-img_0945",
+      "width": 1883,
+      "height": 4096,
+      "alt": "Visitors beneath autumn trees in a park",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0945-small.webp",
+        "width": 441,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0945-medium.webp",
+        "width": 883,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0945-large.webp",
+        "width": 1324,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0945.JPG",
+      "source_sha256": "26a803d2b04a1ce5c875a42b585e06cce183b73fac4b984c089cd10857975581"
+    },
+    {
+      "id": "horizontal-img_20230512_122342",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "Apartment blocks meeting at a street corner",
+      "source": "Hong Kong/IMG_20230512_122342.jpg",
+      "width": 4096,
+      "height": 1943,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20230512_122342-small.webp",
+        "width": 480,
+        "height": 228
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20230512_122342-medium.webp",
+        "width": 960,
+        "height": 455
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20230512_122342-large.webp",
+        "width": 2160,
+        "height": 1025
+      },
+      "source_sha256": "ce751bb80dfdb6252088608e47e2403faade005a730ad7a27d350a6645cdd5ab"
+    },
+    {
+      "id": "shanghai-img_20230624_151108",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "A bear beside a rock wall",
+      "source": "Shanghai/IMG_20230624_151108.jpg",
+      "width": 1446,
+      "height": 3072,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230624_151108-small.webp",
+        "width": 452,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230624_151108-medium.webp",
+        "width": 904,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230624_151108-large.webp",
+        "width": 1356,
+        "height": 2880
+      },
+      "source_sha256": "da725337e62fe55543c4aadd2fc2086cbbb868d7bd40b5b215f714240a907a2d"
+    },
+    {
+      "id": "horizontal-img_20240817_033141",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "A low stone building in a coastal meadow",
+      "source": "UK/IMG_20240817_033141.jpg",
+      "width": 6000,
+      "height": 3000,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20240817_033141-small.webp",
+        "width": 480,
+        "height": 240
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20240817_033141-medium.webp",
+        "width": 960,
+        "height": 480
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20240817_033141-large.webp",
+        "width": 2160,
+        "height": 1080
+      },
+      "source_sha256": "4f0e84b24c9fc6835850a46a8d65746ed16e75326bfe1557ca0c7de59a67ccec"
+    },
+    {
+      "id": "vertical-img_20231002_224704",
+      "category": "elsewhere",
+      "collection": "Elsewhere",
+      "alt": "A burst of fireworks in the dark",
+      "source": "vertical/IMG_20231002_224704.jpg",
+      "width": 3478,
+      "height": 7728,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20231002_224704-small.webp",
+        "width": 432,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20231002_224704-medium.webp",
+        "width": 864,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20231002_224704-large.webp",
+        "width": 1296,
+        "height": 2880
+      },
+      "source_sha256": "0535b165d01f97f20c91fdc260d659ab69b2b4c32061dc12d807aeca361f37ff"
+    },
+    {
+      "id": "beijing-img_0948",
+      "width": 1884,
+      "height": 2826,
+      "alt": "A crowded avenue beneath golden ginkgo trees",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0948-small.webp",
+        "width": 480,
+        "height": 720
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0948-medium.webp",
+        "width": 960,
+        "height": 1440
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0948-large.webp",
+        "width": 1884,
+        "height": 2826
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0948.jpg",
+      "source_sha256": "80b73e1b04f0f832de9ceedf304fddcf0429b991f420f947e93361150df80428"
+    },
+    {
+      "id": "hong-kong-img_20230512_122453",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "Trams beneath an apartment building",
+      "source": "Hong Kong/IMG_20230512_122453.jpg",
+      "width": 2048,
+      "height": 4096,
+      "small": {
+        "src": "/images/portfolio/hong-kong-img_20230512_122453-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/hong-kong-img_20230512_122453-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/hong-kong-img_20230512_122453-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "78398200066426ed576ee6e7884e7a2e26b8fa2ca84ca0e2b71974c6286afec0"
+    },
+    {
+      "id": "shanghai-img_20230624_151207",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "A deer beside a fence",
+      "source": "Shanghai/IMG_20230624_151207.jpg",
+      "width": 1800,
+      "height": 4000,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230624_151207-small.webp",
+        "width": 432,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230624_151207-medium.webp",
+        "width": 864,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230624_151207-large.webp",
+        "width": 1296,
+        "height": 2880
+      },
+      "source_sha256": "ff01f320aed5a8cb15519cdafa1e35131e03447b4c4595663e5740aa719985d4"
+    },
+    {
+      "id": "horizontal-img_20240817_033343",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "A lighthouse above a white cliff",
+      "source": "UK/IMG_20240817_033343.jpg",
+      "width": 6000,
+      "height": 3000,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20240817_033343-small.webp",
+        "width": 480,
+        "height": 240
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20240817_033343-medium.webp",
+        "width": 960,
+        "height": 480
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20240817_033343-large.webp",
+        "width": 2160,
+        "height": 1080
+      },
+      "source_sha256": "6d3fbdadcabd86dedcd5694071026fd49d3cfb60f9e1c24ccf53e1aa3ec95ddc"
+    },
+    {
+      "id": "vertical-img_20231002_224851",
+      "category": "elsewhere",
+      "collection": "Elsewhere",
+      "alt": "A lit tower above a nighttime crowd",
+      "source": "vertical/IMG_20231002_224851.jpg",
+      "width": 3864,
+      "height": 7728,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20231002_224851-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20231002_224851-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20231002_224851-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "d3cf4f7fcf9fb98ee0d2cc915755dc69ccb543660251e89fa28b76f540949433"
+    },
+    {
+      "id": "beijing-img_0950",
+      "width": 4096,
+      "height": 1884,
+      "alt": "A pavilion beneath a canopy of red and gold leaves",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0950-small.webp",
+        "width": 480,
+        "height": 221
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0950-medium.webp",
+        "width": 960,
+        "height": 442
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0950-large.webp",
+        "width": 2160,
+        "height": 994
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0950.JPG",
+      "source_sha256": "5f99638ca8b961343c636ce9192d41b84af2c3d2b31895b857516d6edbda1e18"
+    },
+    {
+      "id": "horizontal-img_20230603_115139",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A rocky coast and distant mountains",
+      "source": "Hong Kong/IMG_20230603_115139.jpg",
+      "width": 4096,
+      "height": 1843,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20230603_115139-small.webp",
+        "width": 480,
+        "height": 216
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20230603_115139-medium.webp",
+        "width": 960,
+        "height": 432
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20230603_115139-large.webp",
+        "width": 2160,
+        "height": 972
+      },
+      "source_sha256": "5835632337cb23308c4e926dc1497c61c160d3dd3da5ecc931927c0472dd5828"
+    },
+    {
+      "id": "shanghai-img_20230624_151629",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "A llama looking toward the camera",
+      "source": "Shanghai/IMG_20230624_151629.jpg",
+      "width": 1800,
+      "height": 4000,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230624_151629-small.webp",
+        "width": 432,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230624_151629-medium.webp",
+        "width": 864,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230624_151629-large.webp",
+        "width": 1296,
+        "height": 2880
+      },
+      "source_sha256": "fee795cdacca2c240ce249dc7f98e362d5f07143989f2e7e04a74be1e04fe155"
+    },
+    {
+      "id": "horizontal-img_20240913_202404",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "A house beside a tree-lined road",
+      "source": "UK/IMG_20240913_202404.jpg",
+      "width": 3828,
+      "height": 1914,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20240913_202404-small.webp",
+        "width": 480,
+        "height": 240
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20240913_202404-medium.webp",
+        "width": 960,
+        "height": 480
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20240913_202404-large.webp",
+        "width": 2160,
+        "height": 1080
+      },
+      "source_sha256": "e680311b1ecd66c45ff48193ee964a61e0c56e15fceb8d4d7ef7afbb56330c14"
+    },
+    {
+      "id": "vertical-img_20231002_224939",
+      "category": "elsewhere",
+      "collection": "Elsewhere",
+      "alt": "Fireworks filling the night sky",
+      "source": "vertical/IMG_20231002_224939.jpg",
+      "width": 2576,
+      "height": 5152,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20231002_224939-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20231002_224939-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20231002_224939-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "73d3773d887543e196425d06b5d534fbd042a7787ad10ef61700f58a40f0d7b4"
+    },
+    {
+      "id": "beijing-img_0978",
+      "width": 1603,
+      "height": 2672,
+      "alt": "A traditional building framed by yellow leaves",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0978-small.webp",
+        "width": 480,
+        "height": 800
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0978-medium.webp",
+        "width": 960,
+        "height": 1600
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0978-large.webp",
+        "width": 1603,
+        "height": 2672
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0978.JPG",
+      "source_sha256": "19e14ee84ec54a5b88e793f7e240e3319fadfb8aa061606dfb318bae31ed6b6e"
+    },
+    {
+      "id": "hong-kong-img_20230603_000822",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "Boulders beside a quiet bay",
+      "source": "Hong Kong/IMG_20230603_000822.jpg",
+      "width": 1843,
+      "height": 4096,
+      "small": {
+        "src": "/images/portfolio/hong-kong-img_20230603_000822-small.webp",
+        "width": 432,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/hong-kong-img_20230603_000822-medium.webp",
+        "width": 864,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/hong-kong-img_20230603_000822-large.webp",
+        "width": 1296,
+        "height": 2880
+      },
+      "source_sha256": "2cb9e8de7cb772c391e75b9af600f5fe132c0a22a313eba513119f7882715e00"
+    },
+    {
+      "id": "shanghai-img_20230701_213857",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "Geometric stonework on a city building",
+      "source": "Shanghai/IMG_20230701_213857.jpg",
+      "width": 1828,
+      "height": 4062,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230701_213857-small.webp",
+        "width": 432,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230701_213857-medium.webp",
+        "width": 864,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230701_213857-large.webp",
+        "width": 1296,
+        "height": 2880
+      },
+      "source_sha256": "66f70c0e1fb81e5cc9ecea2a732eb229beda84fec31b237b9958224123770f1a"
+    },
+    {
+      "id": "horizontal-img_20240915_015216",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "A woodland clearing in afternoon light",
+      "source": "UK/IMG_20240915_015216.jpg",
+      "width": 6000,
+      "height": 3000,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20240915_015216-small.webp",
+        "width": 480,
+        "height": 240
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20240915_015216-medium.webp",
+        "width": 960,
+        "height": 480
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20240915_015216-large.webp",
+        "width": 2160,
+        "height": 1080
+      },
+      "source_sha256": "113d53eacc17e3446c2eecc4645d98a06d48f852a6c89d7643e3130fcd131f6d"
+    },
+    {
+      "id": "vertical-img_20241204_194359",
+      "category": "elsewhere",
+      "collection": "Elsewhere",
+      "alt": "A winged statue inside a grand hall",
+      "source": "vertical/IMG_20241204_194359.jpg",
+      "width": 3000,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20241204_194359-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20241204_194359-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20241204_194359-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "069ea53450ed1c803512ff425c33989c597c85edf17aa6442bb1549a87785658"
+    },
+    {
+      "id": "beijing-img_0981",
+      "width": 1884,
+      "height": 3140,
+      "alt": "Red maple leaves above a gathering of visitors",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0981-small.webp",
+        "width": 480,
+        "height": 800
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0981-medium.webp",
+        "width": 960,
+        "height": 1600
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0981-large.webp",
+        "width": 1728,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0981.JPG",
+      "source_sha256": "a1f1cc600278780aa4024a02e7c71e5a5257aa5117c8149a40289dec58472f5a"
+    },
+    {
+      "id": "hong-kong-img_20230603_011201",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A green lawn and winding path",
+      "source": "Hong Kong/IMG_20230603_011201.jpg",
+      "width": 1843,
+      "height": 3995,
+      "small": {
+        "src": "/images/portfolio/hong-kong-img_20230603_011201-small.webp",
+        "width": 443,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/hong-kong-img_20230603_011201-medium.webp",
+        "width": 886,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/hong-kong-img_20230603_011201-large.webp",
+        "width": 1329,
+        "height": 2880
+      },
+      "source_sha256": "d95e41a3316453844890da2c0dfb04224880bfb83ea485ae567fb8a365820738"
+    },
+    {
+      "id": "shanghai-img_20230701_224715",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "A traditional gateway surrounded by greenery",
+      "source": "Shanghai/IMG_20230701_224715.jpg",
+      "width": 6000,
+      "height": 2700,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230701_224715-small.webp",
+        "width": 480,
+        "height": 216
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230701_224715-medium.webp",
+        "width": 960,
+        "height": 432
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230701_224715-large.webp",
+        "width": 2160,
+        "height": 972
+      },
+      "source_sha256": "a7a0ddfad221c37fcb5d4d2aad5084eda522793a2fcf644b08955b61271ad974"
+    },
+    {
+      "id": "vertical-img_20240719_093038",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "A crowded street beneath historic buildings",
+      "source": "UK/IMG_20240719_093038.jpg",
+      "width": 3000,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240719_093038-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240719_093038-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240719_093038-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "49a47deacd77f1d783f11cd616a361c206fd6a42640a9eb14747b5f4d6b7a7c8"
+    },
+    {
+      "id": "beijing-img_0982",
+      "width": 1884,
+      "height": 3140,
+      "alt": "Golden trees lining a crowded park avenue",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0982-small.webp",
+        "width": 480,
+        "height": 800
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0982-medium.webp",
+        "width": 960,
+        "height": 1600
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0982-large.webp",
+        "width": 1728,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0982.JPG",
+      "source_sha256": "818b7600deb32db5123893bef111fbffd1af6921ddff6d0b3d4ec90262669ec4"
+    },
+    {
+      "id": "horizontal-img_20230613_224014",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A yellow duck reflected in a building facade",
+      "source": "Hong Kong/IMG_20230613_224014.jpg",
+      "width": 4096,
+      "height": 1843,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20230613_224014-small.webp",
+        "width": 480,
+        "height": 216
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20230613_224014-medium.webp",
+        "width": 960,
+        "height": 432
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20230613_224014-large.webp",
+        "width": 2160,
+        "height": 972
+      },
+      "source_sha256": "06deabecf11f41fc2b8c80854b627a5ac2feffebbd5b6283c4b61b32b859318c"
+    },
+    {
+      "id": "shanghai-img_20230708_134754",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "A church spire among city towers",
+      "source": "Shanghai/IMG_20230708_134754.jpg",
+      "width": 1826,
+      "height": 4058,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230708_134754-small.webp",
+        "width": 432,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230708_134754-medium.webp",
+        "width": 864,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230708_134754-large.webp",
+        "width": 1296,
+        "height": 2880
+      },
+      "source_sha256": "1176717ef6c6a2dbf24700ebd0780c341c8d10cc5ed850666415400087c399df"
+    },
+    {
+      "id": "vertical-img_20240731_003845",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "The London Eye against a clear sky",
+      "source": "UK/IMG_20240731_003845.jpg",
+      "width": 2000,
+      "height": 4000,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240731_003845-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240731_003845-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240731_003845-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "0f8df7f2ca618be5594763eb6fd832a7b3731ded8804b74b3c254cc3fd0b7bcd"
+    },
+    {
+      "id": "beijing-img_0983",
+      "width": 1884,
+      "height": 3140,
+      "alt": "Sunlit ginkgo leaves above a crowd",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0983-small.webp",
+        "width": 480,
+        "height": 800
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0983-medium.webp",
+        "width": 960,
+        "height": 1600
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0983-large.webp",
+        "width": 1728,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0983.JPG",
+      "source_sha256": "aeb8e3a84c1f4c6384dba220b7397ce102d92eeb6d0d228416a515f7311b5d35"
+    },
+    {
+      "id": "hong-kong-img_20230603_113235",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "Sunlit rocks above blue water",
+      "source": "Hong Kong/IMG_20230603_113235.jpg",
+      "width": 1811,
+      "height": 4025,
+      "small": {
+        "src": "/images/portfolio/hong-kong-img_20230603_113235-small.webp",
+        "width": 432,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/hong-kong-img_20230603_113235-medium.webp",
+        "width": 864,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/hong-kong-img_20230603_113235-large.webp",
+        "width": 1296,
+        "height": 2880
+      },
+      "source_sha256": "bf6ab14e5ae5c04db10ab6dadda961ea730d7d0339e66b81246a8d585b285e4d"
+    },
+    {
+      "id": "shanghai-img_20230708_135121",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "A rabbit sculpture in a flower display",
+      "source": "Shanghai/IMG_20230708_135121.jpg",
+      "width": 2074,
+      "height": 4096,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230708_135121-small.webp",
+        "width": 480,
+        "height": 948
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230708_135121-medium.webp",
+        "width": 960,
+        "height": 1896
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230708_135121-large.webp",
+        "width": 1458,
+        "height": 2880
+      },
+      "source_sha256": "a5cc245acb7be63474538fbd99d7f160f4b2d5488a79b03c01a1757742756bfa"
+    },
+    {
+      "id": "vertical-img_20240801_183242",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "Green sunflower heads and leaves",
+      "source": "UK/IMG_20240801_183242.jpg",
+      "width": 3000,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240801_183242-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240801_183242-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240801_183242-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "b6fd548506260c3524a0b08e8dc9f7e5145648feed1ff7dd9088383046c691de"
+    },
+    {
+      "id": "beijing-img_0986",
+      "width": 1883,
+      "height": 3138,
+      "alt": "A pavilion beneath branching autumn trees",
+      "small": {
+        "src": "/images/portfolio/beijing-img_0986-small.webp",
+        "width": 480,
+        "height": 800
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_0986-medium.webp",
+        "width": 960,
+        "height": 1600
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_0986-large.webp",
+        "width": 1728,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_0986.JPG",
+      "source_sha256": "819b83f38099628157552707d24dd5f314364953a7332afe51727d156b996da0"
+    },
+    {
+      "id": "horizontal-img_20230615_204028",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A giant yellow duck on the waterfront",
+      "source": "Hong Kong/IMG_20230615_204028.jpg",
+      "width": 4096,
+      "height": 2149,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20230615_204028-small.webp",
+        "width": 480,
+        "height": 252
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20230615_204028-medium.webp",
+        "width": 960,
+        "height": 504
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20230615_204028-large.webp",
+        "width": 2160,
+        "height": 1133
+      },
+      "source_sha256": "171c0354548069a9d3e6dbd13d7cb23de356a794ef56876262c8f9082f0ade67"
+    },
+    {
+      "id": "shanghai-img_20230727_181725",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "Leaves framing an old brick wall",
+      "source": "Shanghai/IMG_20230727_181725.jpg",
+      "width": 6000,
+      "height": 2700,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230727_181725-small.webp",
+        "width": 480,
+        "height": 216
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230727_181725-medium.webp",
+        "width": 960,
+        "height": 432
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230727_181725-large.webp",
+        "width": 2160,
+        "height": 972
+      },
+      "source_sha256": "12c7dcc73886d8778a8d88c653e902ac2db7dec46a6b4cc66c485ca484373efb"
+    },
+    {
+      "id": "vertical-img_20240804_133248",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "A historic tower framed by a window",
+      "source": "UK/IMG_20240804_133248.jpg",
+      "width": 2974,
+      "height": 5949,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240804_133248-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240804_133248-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240804_133248-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "9633df697f5cc3ede93d560060c27558e5162af0fa384c94a645e639a1145f20"
+    },
+    {
+      "id": "beijing-img_1218",
+      "width": 5605,
+      "height": 2890,
+      "alt": "A bouquet of yellow sunflowers",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1218-small.webp",
+        "width": 480,
+        "height": 247
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1218-medium.webp",
+        "width": 960,
+        "height": 495
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1218-large.webp",
+        "width": 2160,
+        "height": 1114
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1218.JPG",
+      "source_sha256": "68a8d38bf0cfeb0d24fbacd8bbc73e15a663bf9701104933b0010ad7afd1f508"
+    },
+    {
+      "id": "hong-kong-img_20230603_113352",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "Rounded rocks along the shoreline",
+      "source": "Hong Kong/IMG_20230603_113352.jpg",
+      "width": 1899,
+      "height": 4096,
+      "small": {
+        "src": "/images/portfolio/hong-kong-img_20230603_113352-small.webp",
+        "width": 445,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/hong-kong-img_20230603_113352-medium.webp",
+        "width": 890,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/hong-kong-img_20230603_113352-large.webp",
+        "width": 1335,
+        "height": 2880
+      },
+      "source_sha256": "7369eed73a0603e0db5f09c7c6003670cbeb6f502a67508f4da85e14b51162d9"
+    },
+    {
+      "id": "shanghai-img_20230727_181744",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "Ivy climbing weathered brickwork",
+      "source": "Shanghai/IMG_20230727_181744.jpg",
+      "width": 1988,
+      "height": 4096,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230727_181744-small.webp",
+        "width": 466,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230727_181744-medium.webp",
+        "width": 932,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230727_181744-large.webp",
+        "width": 1398,
+        "height": 2880
+      },
+      "source_sha256": "1bd63ea6f9d44011dd7573dcadc52bdc95484722760f77b17dd0f7b187327956"
+    },
+    {
+      "id": "vertical-img_20240817_032559",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "A curving shoreline below white cliffs",
+      "source": "UK/IMG_20240817_032559.jpg",
+      "width": 3000,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240817_032559-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240817_032559-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240817_032559-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "2f001024df5f652a133951c7811bf4e43e9b93e7336a718551782838cd311f4f"
+    },
+    {
+      "id": "beijing-img_1219",
+      "width": 5992,
+      "height": 2756,
+      "alt": "The illuminated Bird’s Nest stadium at night",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1219-small.webp",
+        "width": 480,
+        "height": 221
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1219-medium.webp",
+        "width": 960,
+        "height": 442
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1219-large.webp",
+        "width": 2160,
+        "height": 993
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1219.JPG",
+      "source_sha256": "f8e6780c64edbb2c9efb34822591ee84780c50444fea32a5268a2f4ea2e62fa1"
+    },
+    {
+      "id": "hong-kong-img_20230603_120300",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "Swimmers and buoys in a turquoise bay",
+      "source": "Hong Kong/IMG_20230603_120300.jpg",
+      "width": 1840,
+      "height": 4090,
+      "small": {
+        "src": "/images/portfolio/hong-kong-img_20230603_120300-small.webp",
+        "width": 432,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/hong-kong-img_20230603_120300-medium.webp",
+        "width": 864,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/hong-kong-img_20230603_120300-large.webp",
+        "width": 1296,
+        "height": 2880
+      },
+      "source_sha256": "5730daf8e59d6461b43ce040f1e7850a888d8bd499763e05539b537c2719b756"
+    },
+    {
+      "id": "shanghai-img_20230729_084043",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "Shanghai Tower under a grey sky",
+      "source": "Shanghai/IMG_20230729_084043.jpg",
+      "width": 2779,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230729_084043-small.webp",
+        "width": 445,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230729_084043-medium.webp",
+        "width": 889,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230729_084043-large.webp",
+        "width": 1334,
+        "height": 2880
+      },
+      "source_sha256": "34fb3da588109bfe16bdf4820622c88bb0281f4779bd3bb4c8187ca1e421c736"
+    },
+    {
+      "id": "vertical-img_20240817_032803",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "Walkers beside a white cliff and the sea",
+      "source": "UK/IMG_20240817_032803.jpg",
+      "width": 2924,
+      "height": 5848,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240817_032803-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240817_032803-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240817_032803-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "9ca9f3053fc5a506448b1a5ba652ce77460a009e7afcc9d10db18cefdc55977d"
+    },
+    {
+      "id": "beijing-img_1221",
+      "width": 5992,
+      "height": 2756,
+      "alt": "A traditional tower framed by tiled eaves",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1221-small.webp",
+        "width": 480,
+        "height": 221
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1221-medium.webp",
+        "width": 960,
+        "height": 442
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1221-large.webp",
+        "width": 2160,
+        "height": 993
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1221.JPG",
+      "source_sha256": "acc13a204a5cf1568fc2653041368fe6b3097ab67d9d6d7d0ef1a03a9351a913"
+    },
+    {
+      "id": "horizontal-img_20230924_142921",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A marina seen through a waterfront terrace",
+      "source": "Hong Kong/IMG_20230924_142921.jpg",
+      "width": 8192,
+      "height": 3749,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20230924_142921-small.webp",
+        "width": 480,
+        "height": 220
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20230924_142921-medium.webp",
+        "width": 960,
+        "height": 439
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20230924_142921-large.webp",
+        "width": 2160,
+        "height": 989
+      },
+      "source_sha256": "3250b137271d3c70b2007dc54bedf21b76821d2aff3fba9009e9a90a9522ef8e"
+    },
+    {
+      "id": "shanghai-img_20230729_084158",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "Shanghai Tower illuminated at night",
+      "source": "Shanghai/IMG_20230729_084158.jpg",
+      "width": 2731,
+      "height": 5761,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230729_084158-small.webp",
+        "width": 455,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230729_084158-medium.webp",
+        "width": 910,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230729_084158-large.webp",
+        "width": 1365,
+        "height": 2880
+      },
+      "source_sha256": "eb987fc87f400060dce17048bebba5d7a5e1760a49cf9f182e8015bcb3fdc777"
+    },
+    {
+      "id": "vertical-img_20240817_033042",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "A winding path toward a hilltop lighthouse",
+      "source": "UK/IMG_20240817_033042.jpg",
+      "width": 2676,
+      "height": 5352,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240817_033042-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240817_033042-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240817_033042-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "46494ad30d3102649360bf48a6dfc3e30fccc6f4f590a278254c9ec1f95437f5"
+    },
+    {
+      "id": "beijing-img_1223",
+      "width": 5709,
+      "height": 2854,
+      "alt": "A row of ornamental figures along a roof ridge",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1223-small.webp",
+        "width": 480,
+        "height": 240
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1223-medium.webp",
+        "width": 960,
+        "height": 480
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1223-large.webp",
+        "width": 2160,
+        "height": 1080
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1223.jpg",
+      "source_sha256": "31544d82b92fed603f01bc188ba661cb3fb1004211ad144cbbe75c4e690635cc"
+    },
+    {
+      "id": "hong-kong-img_20230607_011525",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A white beach enclosed by green hills",
+      "source": "Hong Kong/IMG_20230607_011525.jpg",
+      "width": 4016,
+      "height": 6016,
+      "small": {
+        "src": "/images/portfolio/hong-kong-img_20230607_011525-small.webp",
+        "width": 480,
+        "height": 719
+      },
+      "medium": {
+        "src": "/images/portfolio/hong-kong-img_20230607_011525-medium.webp",
+        "width": 960,
+        "height": 1438
+      },
+      "large": {
+        "src": "/images/portfolio/hong-kong-img_20230607_011525-large.webp",
+        "width": 1923,
+        "height": 2880
+      },
+      "source_sha256": "b8b0701e42d9cc8a96b0d48f491127e215eb9e84aaacb1d79dc36096b3c3ce33"
+    },
+    {
+      "id": "shanghai-img_20230729_084632",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "A view up Shanghai Tower",
+      "source": "Shanghai/IMG_20230729_084632.jpg",
+      "width": 3374,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230729_084632-small.webp",
+        "width": 480,
+        "height": 854
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230729_084632-medium.webp",
+        "width": 960,
+        "height": 1707
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230729_084632-large.webp",
+        "width": 1620,
+        "height": 2880
+      },
+      "source_sha256": "8f6f07d1f5a07835df2f10450c955e0b35b79b90f6c02118b4794844c1eca340"
+    },
+    {
+      "id": "vertical-img_20240817_033517",
+      "category": "uk",
+      "collection": "UK",
+      "alt": "A white cliff against a deep blue sky",
+      "source": "UK/IMG_20240817_033517.jpg",
+      "width": 3281,
+      "height": 5833,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240817_033517-small.webp",
+        "width": 480,
+        "height": 853
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240817_033517-medium.webp",
+        "width": 960,
+        "height": 1707
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240817_033517-large.webp",
+        "width": 1620,
+        "height": 2880
+      },
+      "source_sha256": "ec1f792655c6e096823ef00d1b74fe14dd7afff74549119faebdcd89f643a06d"
+    },
+    {
+      "id": "beijing-img_1224",
+      "width": 2798,
+      "height": 4975,
+      "alt": "The Temple of Heaven illuminated against the night sky",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1224-small.webp",
+        "width": 480,
+        "height": 853
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1224-medium.webp",
+        "width": 960,
+        "height": 1707
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1224-large.webp",
+        "width": 1620,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1224.JPG",
+      "source_sha256": "992083d833c59f165b533cb90c0b8293f11ba9362e3fd1baf83b5f769dc4a2fe"
+    },
+    {
+      "id": "hong-kong-img_20230610_103914",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "Curved balconies on a high-rise building",
+      "source": "Hong Kong/IMG_20230610_103914.jpg",
+      "width": 1809,
+      "height": 4021,
+      "small": {
+        "src": "/images/portfolio/hong-kong-img_20230610_103914-small.webp",
+        "width": 432,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/hong-kong-img_20230610_103914-medium.webp",
+        "width": 864,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/hong-kong-img_20230610_103914-large.webp",
+        "width": 1296,
+        "height": 2880
+      },
+      "source_sha256": "cc7b82c76137d3c5f75345f19bcae3c119281144944eb2fdb2f56ac6f30c1f89"
+    },
+    {
+      "id": "shanghai-img_20230729_084710",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "Historic and modern towers side by side",
+      "source": "Shanghai/IMG_20230729_084710.jpg",
+      "width": 2404,
+      "height": 5342,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230729_084710-small.webp",
+        "width": 432,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230729_084710-medium.webp",
+        "width": 864,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230729_084710-large.webp",
+        "width": 1296,
+        "height": 2880
+      },
+      "source_sha256": "2260f63a40e74b6337878fd892f9def079d46fdb35df026a9c436dcd27d37416"
+    },
+    {
+      "id": "beijing-img_1225",
+      "width": 3000,
+      "height": 5999,
+      "alt": "Visitors at the Temple of Heaven",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1225-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1225-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1225-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1225.JPG",
+      "source_sha256": "40ddf7fb791deff210810b0210cfb8a5dc9af32e71ef914351f6ae348b37fa5c"
+    },
+    {
+      "id": "hong-kong-img_20230614_202529",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "Yellow rubber ducks, large and small",
+      "source": "Hong Kong/IMG_20230614_202529.jpg",
+      "width": 2030,
+      "height": 4096,
+      "small": {
+        "src": "/images/portfolio/hong-kong-img_20230614_202529-small.webp",
+        "width": 476,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/hong-kong-img_20230614_202529-medium.webp",
+        "width": 952,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/hong-kong-img_20230614_202529-large.webp",
+        "width": 1427,
+        "height": 2880
+      },
+      "source_sha256": "5dbf859bfd0353485b223ebcce6d17097b4b4dc586d086165f8c8c96e035a3dc"
+    },
+    {
+      "id": "shanghai-img_20230809_013521",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "A cable-stayed bridge at dusk",
+      "source": "Shanghai/IMG_20230809_013521.jpg",
+      "width": 3136,
+      "height": 5989,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230809_013521-small.webp",
+        "width": 480,
+        "height": 917
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230809_013521-medium.webp",
+        "width": 960,
+        "height": 1833
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230809_013521-large.webp",
+        "width": 1508,
+        "height": 2880
+      },
+      "source_sha256": "a2019c894584db79aaa62dafd75204fbbf0358fc39111a972a17ea9db50e12f0"
+    },
+    {
+      "id": "beijing-img_1226",
+      "width": 1999,
+      "height": 3999,
+      "alt": "Sculpted figures in a dimly lit interior",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1226-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1226-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1226-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1226.JPG",
+      "source_sha256": "a411ebc499f7ccf8cacdecd10fdc3bd80299d8e6e7330419e18bf1266986bd5b"
+    },
+    {
+      "id": "horizontal-mtxx_mh20230930_004608883",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A crowd gathered around glowing lanterns",
+      "source": "Hong Kong/MTXX_MH20230930_004608883.jpg",
+      "width": 4608,
+      "height": 2073,
+      "small": {
+        "src": "/images/portfolio/horizontal-mtxx_mh20230930_004608883-small.webp",
+        "width": 480,
+        "height": 216
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-mtxx_mh20230930_004608883-medium.webp",
+        "width": 960,
+        "height": 432
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-mtxx_mh20230930_004608883-large.webp",
+        "width": 2160,
+        "height": 972
+      },
+      "source_sha256": "42dd53733a44eada01d3e38e059fee1febb2c31663c94b091dbbcac4b70271ab"
+    },
+    {
+      "id": "shanghai-img_20230813_203223",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "A red bridge pylon against the sky",
+      "source": "Shanghai/IMG_20230813_203223.jpg",
+      "width": 1843,
+      "height": 4096,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230813_203223-small.webp",
+        "width": 432,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230813_203223-medium.webp",
+        "width": 864,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230813_203223-large.webp",
+        "width": 1296,
+        "height": 2880
+      },
+      "source_sha256": "b11dd554aeb9cf68e287d91894849e93df63938695f10de38ece65142fd4dfe9"
+    },
+    {
+      "id": "beijing-img_1464",
+      "width": 3952,
+      "height": 2635,
+      "alt": "A frozen lake beneath a pink and blue sunset",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1464-small.webp",
+        "width": 480,
+        "height": 320
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1464-medium.webp",
+        "width": 960,
+        "height": 640
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1464-large.webp",
+        "width": 2160,
+        "height": 1440
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1464.jpg",
+      "source_sha256": "118cf7786cdb39123d93634aaf08e151ce237e36ded6ab1d16ebd2820a8354d8"
+    },
+    {
+      "id": "vertical-img_20230520_212522",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "Sunlight breaking through clouds over the sea",
+      "source": "Hong Kong/IMG_20230520_212522.jpg",
+      "width": 1918,
+      "height": 4096,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20230520_212522-small.webp",
+        "width": 450,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20230520_212522-medium.webp",
+        "width": 899,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20230520_212522-large.webp",
+        "width": 1349,
+        "height": 2880
+      },
+      "source_sha256": "de525ea6653a085ca3c1cdbe29098912e4333162ac198c9fcf2865a1fe17c98c"
+    },
+    {
+      "id": "shanghai-img_20230827_221152",
+      "category": "shanghai",
+      "collection": "Shanghai",
+      "alt": "A bridge against a violet evening sky",
+      "source": "Shanghai/IMG_20230827_221152.jpg",
+      "width": 2048,
+      "height": 4096,
+      "small": {
+        "src": "/images/portfolio/shanghai-img_20230827_221152-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/shanghai-img_20230827_221152-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/shanghai-img_20230827_221152-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "709767d1078b5e69169c80d13f39423515798e06e9ba9cb7446b08a74734ba87"
+    },
+    {
+      "id": "beijing-img_1466",
+      "width": 1642,
+      "height": 2737,
+      "alt": "A distant pavilion across a frozen lake",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1466-small.webp",
+        "width": 480,
+        "height": 800
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1466-medium.webp",
+        "width": 960,
+        "height": 1600
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1466-large.webp",
+        "width": 1642,
+        "height": 2737
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1466.jpg",
+      "source_sha256": "7c14ca51e3fb1636057019633ed9d1fce18d0d96b359b6dfe8a9972b4a22cc96"
+    },
+    {
+      "id": "vertical-img_20231102_012504",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A person dressed as Spider-Man",
+      "source": "Hong Kong/IMG_20231102_012504.jpg",
+      "width": 4000,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20231102_012504-small.webp",
+        "width": 480,
+        "height": 720
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20231102_012504-medium.webp",
+        "width": 960,
+        "height": 1440
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20231102_012504-large.webp",
+        "width": 1920,
+        "height": 2880
+      },
+      "source_sha256": "62b733cebf090f9e180d0083d187d5af93f51498b3f137f27931030ba0e7b29f"
+    },
+    {
+      "id": "beijing-img_1470",
+      "width": 5572,
+      "height": 2563,
+      "alt": "A lakeside balustrade at blue hour",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1470-small.webp",
+        "width": 480,
+        "height": 221
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1470-medium.webp",
+        "width": 960,
+        "height": 442
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1470-large.webp",
+        "width": 2160,
+        "height": 994
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1470.JPG",
+      "source_sha256": "43091105a75651819d59fdae2698b3f45341ea199b3657350010ecbec4fdb698"
+    },
+    {
+      "id": "vertical-img_20231102_012527",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A costumed figure in a crowd",
+      "source": "Hong Kong/IMG_20231102_012527.jpg",
+      "width": 4000,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20231102_012527-small.webp",
+        "width": 480,
+        "height": 720
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20231102_012527-medium.webp",
+        "width": 960,
+        "height": 1440
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20231102_012527-large.webp",
+        "width": 1920,
+        "height": 2880
+      },
+      "source_sha256": "25b395991131878dc1c0557ef2d150e5f5f17dd2388d7ea9de55e45bfed5bb0c"
+    },
+    {
+      "id": "beijing-img_1474",
+      "width": 5934,
+      "height": 2729,
+      "alt": "A frozen lake and distant hill at dusk",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1474-small.webp",
+        "width": 480,
+        "height": 221
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1474-medium.webp",
+        "width": 960,
+        "height": 441
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1474-large.webp",
+        "width": 2160,
+        "height": 993
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1474.JPG",
+      "source_sha256": "68226021da00e524b2e62beadec9862d8383f17c2a5cfc821fcd5310d94f3d05"
+    },
+    {
+      "id": "vertical-img_20231102_012725",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A yellow hat and red costume",
+      "source": "Hong Kong/IMG_20231102_012725.jpg",
+      "width": 3313,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20231102_012725-small.webp",
+        "width": 480,
+        "height": 869
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20231102_012725-medium.webp",
+        "width": 960,
+        "height": 1739
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20231102_012725-large.webp",
+        "width": 1590,
+        "height": 2880
+      },
+      "source_sha256": "e3c8a75960ca2b2b4cb55c8b97f7f77d2dccc6822c6437a92ad71e83b060374f"
+    },
+    {
+      "id": "beijing-img_1476",
+      "width": 5923,
+      "height": 2724,
+      "alt": "A pavilion and bridge above a frozen lake at sunset",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1476-small.webp",
+        "width": 480,
+        "height": 221
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1476-medium.webp",
+        "width": 960,
+        "height": 442
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1476-large.webp",
+        "width": 2160,
+        "height": 993
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1476.JPG",
+      "source_sha256": "cfe81aa55329e942c2a90a9d41a1badf100f108e4ca909bb7718992c71328dd8"
+    },
+    {
+      "id": "vertical-img_20240719_092934",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A pale costumed figure in a dark doorway",
+      "source": "Hong Kong/IMG_20240719_092934.jpg",
+      "width": 3000,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/vertical-img_20240719_092934-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-img_20240719_092934-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-img_20240719_092934-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "02ba2b9e4213f175e0125616c16680e2b00e16ed40d7eb2d1c2afac2113060a9"
+    },
+    {
+      "id": "beijing-img_1478",
+      "width": 2667,
+      "height": 5798,
+      "alt": "Bridge arches beside a frozen lake in evening light",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1478-small.webp",
+        "width": 442,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1478-medium.webp",
+        "width": 883,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1478-large.webp",
+        "width": 1325,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1478.JPG",
+      "source_sha256": "b9f792d31fe7381f45a79fb09322a78549081313108b91621f27811a386a245e"
+    },
+    {
+      "id": "vertical-meitu_20241103_003658732",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A crowded scene beneath bright overhead lights",
+      "source": "Hong Kong/MEITU_20241103_003658732.jpg",
+      "width": 3000,
+      "height": 6000,
+      "small": {
+        "src": "/images/portfolio/vertical-meitu_20241103_003658732-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-meitu_20241103_003658732-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-meitu_20241103_003658732-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "272aba5d22672ef7aefa18b80f310929a7dfb02135bce2878d561d1b81dd85a5"
+    },
+    {
+      "id": "beijing-img_1480",
+      "width": 5386,
+      "height": 2477,
+      "alt": "Snow-covered palace roofs beneath a pale sky",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1480-small.webp",
+        "width": 480,
+        "height": 221
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1480-medium.webp",
+        "width": 960,
+        "height": 442
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1480-large.webp",
+        "width": 2160,
+        "height": 993
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1480.JPG",
+      "source_sha256": "b030fad4a1f8dc62e58467fc69082f421c441881bb3672f781d51a4b3aa69d3e"
+    },
+    {
+      "id": "vertical-meitu_20241103_003900343",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A person framed by a busy evening street",
+      "source": "Hong Kong/MEITU_20241103_003900343.jpg",
+      "width": 2192,
+      "height": 4384,
+      "small": {
+        "src": "/images/portfolio/vertical-meitu_20241103_003900343-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-meitu_20241103_003900343-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-meitu_20241103_003900343-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "88d4556972692b303ca8cd9d032378aaf0678d7af776dc20928d0cca27644949"
+    },
+    {
+      "id": "beijing-img_1481",
+      "width": 4155,
+      "height": 2492,
+      "alt": "Visitors in a snow-covered palace courtyard",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1481-small.webp",
+        "width": 480,
+        "height": 288
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1481-medium.webp",
+        "width": 960,
+        "height": 576
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1481-large.webp",
+        "width": 2160,
+        "height": 1295
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1481.jpg",
+      "source_sha256": "d573dfb0ad27733e11a11da66f98cf947d38a64177df9d13ae6e476fbfce2493"
+    },
+    {
+      "id": "vertical-mtxx_mh20240324_234306614",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "An orangutan resting on a tree trunk",
+      "source": "Hong Kong/MTXX_MH20240324_234306614.jpg",
+      "width": 2048,
+      "height": 4096,
+      "small": {
+        "src": "/images/portfolio/vertical-mtxx_mh20240324_234306614-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-mtxx_mh20240324_234306614-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-mtxx_mh20240324_234306614-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "b4b5e869628b8b51857319067b356dffd3c2460d02969538e809ab5721a63bae"
+    },
+    {
+      "id": "beijing-img_1484",
+      "width": 2103,
+      "height": 4574,
+      "alt": "Shadows across a frozen waterway",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1484-small.webp",
+        "width": 441,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1484-medium.webp",
+        "width": 883,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1484-large.webp",
+        "width": 1324,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1484.JPG",
+      "source_sha256": "c7585667faaa69e1dac57def02fdbfe2a1d911bde92153d4f1a78ca7619e0e05"
+    },
+    {
+      "id": "vertical-mtxx_mh20240324_235056522",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "Red boats with a distant city skyline",
+      "source": "Hong Kong/MTXX_MH20240324_235056522.jpg",
+      "width": 2032,
+      "height": 4065,
+      "small": {
+        "src": "/images/portfolio/vertical-mtxx_mh20240324_235056522-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-mtxx_mh20240324_235056522-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-mtxx_mh20240324_235056522-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "c95024a24e62e0c795deb0b3777f9bf5f72c10a5c7fc2edc7fb0fb3c1d187116"
+    },
+    {
+      "id": "beijing-img_1486",
+      "width": 1796,
+      "height": 3905,
+      "alt": "A small animal in the snow beside a palace wall",
+      "small": {
+        "src": "/images/portfolio/beijing-img_1486-small.webp",
+        "width": 442,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/beijing-img_1486-medium.webp",
+        "width": 883,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/beijing-img_1486-large.webp",
+        "width": 1325,
+        "height": 2880
+      },
+      "category": "beijing",
+      "collection": "Beijing",
+      "source": "Beijing/IMG_1486.JPG",
+      "source_sha256": "b79ab6bc41c17f5b67697cec856ddb21acb7ed71420802bb0db2ee1719a95dd2"
+    },
+    {
+      "id": "vertical-mtxx_mh20240324_235826975",
+      "category": "hong-kong",
+      "collection": "Hong Kong",
+      "alt": "A waterfront and hazy city towers",
+      "source": "Hong Kong/MTXX_MH20240324_235826975.jpg",
+      "width": 2044,
+      "height": 4089,
+      "small": {
+        "src": "/images/portfolio/vertical-mtxx_mh20240324_235826975-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/vertical-mtxx_mh20240324_235826975-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/vertical-mtxx_mh20240324_235826975-large.webp",
+        "width": 1440,
+        "height": 2880
+      },
+      "source_sha256": "360e993adf9411ac2d89b90f7809bf304565c4e4e31c21071fb9175d22c3a47d"
+    },
+    {
+      "id": "blackmith-download",
+      "category": "black-myth",
+      "collection": "Black Myth: Wukong",
+      "alt": "Black Myth: Wukong promotional cover artwork",
+      "source": "blackmith/download.jpeg",
+      "width": 1920,
+      "height": 1078,
+      "small": {
+        "src": "/images/portfolio/blackmith-download-small.webp",
+        "width": 480,
+        "height": 270
+      },
+      "medium": {
+        "src": "/images/portfolio/blackmith-download-medium.webp",
+        "width": 960,
+        "height": 539
+      },
+      "large": {
+        "src": "/images/portfolio/blackmith-download-large.webp",
+        "width": 1920,
+        "height": 1078
+      },
+      "source_sha256": "d5ef3998008b502dcf45def513e779f552a5a7efe64b106319ec14a355bf8e37"
+    },
+    {
+      "id": "blackmith-img_20240918_014711",
+      "category": "black-myth",
+      "collection": "Black Myth: Wukong",
+      "alt": "A figure silhouetted in a cavern",
+      "source": "blackmith/IMG_20240918_014711.jpg",
+      "width": 1280,
+      "height": 2560,
+      "small": {
+        "src": "/images/portfolio/blackmith-img_20240918_014711-small.webp",
+        "width": 480,
+        "height": 960
+      },
+      "medium": {
+        "src": "/images/portfolio/blackmith-img_20240918_014711-medium.webp",
+        "width": 960,
+        "height": 1920
+      },
+      "large": {
+        "src": "/images/portfolio/blackmith-img_20240918_014711-large.webp",
+        "width": 1280,
+        "height": 2560
+      },
+      "source_sha256": "df1677a5071966d627b28d3792fd77d2e3b6113fd65887ccc97f6af1dae9a3e5"
+    },
+    {
+      "id": "blackmith-img_20240925_235130",
+      "category": "black-myth",
+      "collection": "Black Myth: Wukong",
+      "alt": "A waterfall in a forested game landscape",
+      "source": "blackmith/IMG_20240925_235130.jpg",
+      "width": 1440,
+      "height": 2560,
+      "small": {
+        "src": "/images/portfolio/blackmith-img_20240925_235130-small.webp",
+        "width": 480,
+        "height": 853
+      },
+      "medium": {
+        "src": "/images/portfolio/blackmith-img_20240925_235130-medium.webp",
+        "width": 960,
+        "height": 1707
+      },
+      "large": {
+        "src": "/images/portfolio/blackmith-img_20240925_235130-large.webp",
+        "width": 1440,
+        "height": 2560
+      },
+      "source_sha256": "720400c04cd88181653d2696fc0ae89b72e8736c0c353efbcc7ef67750c33f83"
+    },
+    {
+      "id": "blackmith-img_20240925_235315",
+      "category": "black-myth",
+      "collection": "Black Myth: Wukong",
+      "alt": "A monumental shape above a field",
+      "source": "blackmith/IMG_20240925_235315.jpg",
+      "width": 1440,
+      "height": 2560,
+      "small": {
+        "src": "/images/portfolio/blackmith-img_20240925_235315-small.webp",
+        "width": 480,
+        "height": 853
+      },
+      "medium": {
+        "src": "/images/portfolio/blackmith-img_20240925_235315-medium.webp",
+        "width": 960,
+        "height": 1707
+      },
+      "large": {
+        "src": "/images/portfolio/blackmith-img_20240925_235315-large.webp",
+        "width": 1440,
+        "height": 2560
+      },
+      "source_sha256": "67e6c9d64ccadb0534e1c47597e92bc5da2948be8e3ca9bae28e687b250be109"
+    },
+    {
+      "id": "horizontal-img_20240925_235546",
+      "category": "black-myth",
+      "collection": "Black Myth: Wukong",
+      "alt": "Weathered ruins in a sandy landscape",
+      "source": "blackmith/IMG_20240925_235546.jpg",
+      "width": 2560,
+      "height": 1440,
+      "small": {
+        "src": "/images/portfolio/horizontal-img_20240925_235546-small.webp",
+        "width": 480,
+        "height": 270
+      },
+      "medium": {
+        "src": "/images/portfolio/horizontal-img_20240925_235546-medium.webp",
+        "width": 960,
+        "height": 540
+      },
+      "large": {
+        "src": "/images/portfolio/horizontal-img_20240925_235546-large.webp",
+        "width": 2160,
+        "height": 1215
+      },
+      "source_sha256": "8f5c08b00008853ecaf544331deb54c8dfe7e464a6c88d1dcaef49c85311f342"
+    },
+    {
+      "id": "blackmith-img_20240925_235603",
+      "category": "black-myth",
+      "collection": "Black Myth: Wukong",
+      "alt": "A temple gate surrounded by autumn trees",
+      "source": "blackmith/IMG_20240925_235603.jpg",
+      "width": 2560,
+      "height": 1440,
+      "small": {
+        "src": "/images/portfolio/blackmith-img_20240925_235603-small.webp",
+        "width": 480,
+        "height": 270
+      },
+      "medium": {
+        "src": "/images/portfolio/blackmith-img_20240925_235603-medium.webp",
+        "width": 960,
+        "height": 540
+      },
+      "large": {
+        "src": "/images/portfolio/blackmith-img_20240925_235603-large.webp",
+        "width": 2160,
+        "height": 1215
+      },
+      "source_sha256": "edffbdfb7fd986335600ef80e839dddb04674b218abe1301d2efa9161b240272"
+    },
+    {
+      "id": "blackmith-img_20240925_235619",
+      "category": "black-myth",
+      "collection": "Black Myth: Wukong",
+      "alt": "Snow-covered mountains and temple roofs",
+      "source": "blackmith/IMG_20240925_235619.jpg",
+      "width": 2560,
+      "height": 1440,
+      "small": {
+        "src": "/images/portfolio/blackmith-img_20240925_235619-small.webp",
+        "width": 480,
+        "height": 270
+      },
+      "medium": {
+        "src": "/images/portfolio/blackmith-img_20240925_235619-medium.webp",
+        "width": 960,
+        "height": 540
+      },
+      "large": {
+        "src": "/images/portfolio/blackmith-img_20240925_235619-large.webp",
+        "width": 2160,
+        "height": 1215
+      },
+      "source_sha256": "19257ed88b6fe583afd163c9db10d6e48119b3ce4593fec2dd6c0906f0ee94a2"
+    },
+    {
+      "id": "blackmith-img_20240925_235830",
+      "category": "black-myth",
+      "collection": "Black Myth: Wukong",
+      "alt": "A creature against a snowy mountain landscape",
+      "source": "blackmith/IMG_20240925_235830.jpg",
+      "width": 2560,
+      "height": 1440,
+      "small": {
+        "src": "/images/portfolio/blackmith-img_20240925_235830-small.webp",
+        "width": 480,
+        "height": 270
+      },
+      "medium": {
+        "src": "/images/portfolio/blackmith-img_20240925_235830-medium.webp",
+        "width": 960,
+        "height": 540
+      },
+      "large": {
+        "src": "/images/portfolio/blackmith-img_20240925_235830-large.webp",
+        "width": 2160,
+        "height": 1215
+      },
+      "source_sha256": "ffb4047aa0a5e58b5cef5cbff8bf2d246dfc4672dcb3e738616d51cc8e7f8db1"
+    },
+    {
+      "id": "blackmith-img_20240926_000004",
+      "category": "black-myth",
+      "collection": "Black Myth: Wukong",
+      "alt": "A pagoda among snow-covered trees",
+      "source": "blackmith/IMG_20240926_000004.jpg",
+      "width": 2560,
+      "height": 1440,
+      "small": {
+        "src": "/images/portfolio/blackmith-img_20240926_000004-small.webp",
+        "width": 480,
+        "height": 270
+      },
+      "medium": {
+        "src": "/images/portfolio/blackmith-img_20240926_000004-medium.webp",
+        "width": 960,
+        "height": 540
+      },
+      "large": {
+        "src": "/images/portfolio/blackmith-img_20240926_000004-large.webp",
+        "width": 2160,
+        "height": 1215
+      },
+      "source_sha256": "c546f739ee509a82e5a6eeaa88168ab20210cbdf003b6822d331e620dfd5becd"
+    },
+    {
+      "id": "blackmith-img_20240926_000301",
+      "category": "black-myth",
+      "collection": "Black Myth: Wukong",
+      "alt": "A shaft of light inside a dark cavern",
+      "source": "blackmith/IMG_20240926_000301.jpg",
+      "width": 2560,
+      "height": 1440,
+      "small": {
+        "src": "/images/portfolio/blackmith-img_20240926_000301-small.webp",
+        "width": 480,
+        "height": 270
+      },
+      "medium": {
+        "src": "/images/portfolio/blackmith-img_20240926_000301-medium.webp",
+        "width": 960,
+        "height": 540
+      },
+      "large": {
+        "src": "/images/portfolio/blackmith-img_20240926_000301-large.webp",
+        "width": 2160,
+        "height": 1215
+      },
+      "source_sha256": "d3be32facfe4e44b29ce82f6e2602a0b75f0a3bf01c6d03031b6effeccf970fd"
+    }
+  ]
+}
