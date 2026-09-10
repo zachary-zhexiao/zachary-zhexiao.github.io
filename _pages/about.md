@@ -199,10 +199,11 @@ Built an end-to-end digital medication management prototype integrating hardware
 
 <!-- [![Portfolio Entry](images/Portfolio.jpg)](https://zachary-zhexiao.github.io/_pages/photowall/photowall.html) -->
 
-<a href="{{ '/portfolio/' | relative_url }}" target="_self" style="display:block;max-width:760px;margin:20px auto;">
-  <img src="{{ '/images/portfolio/horizontal-img_20240817_031711-medium.webp' | relative_url }}" alt="White cliffs beside a blue sea — open my photography portfolio" width="960" height="480" loading="lazy" style="display:block;width:100%;height:auto;">
-  <span style="display:block;padding-top:12px;">Explore my photography portfolio &rarr;</span>
+<div align="center">
+<a href="{{ '/portfolio/' | relative_url }}" target="_self">
+  <img src="{{ '/images/Portfolio.jpg' | relative_url }}" alt="Portfolio Entry" width="50%" loading="lazy">
 </a>
+</div>
 <!-- 🖼️ -->
 
 

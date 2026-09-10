@@ -24,8 +24,7 @@ permalink: /portfolio/
   </header>
   <main>
     <section class="intro" aria-labelledby="page-title">
-      <div><p class="eyebrow">A photographic journal</p><h1 id="page-title">Photographs<span class="title-period">.</span></h1></div>
-      <p class="intro-note">Places, people, and the<br>moments in between.</p>
+      <div><h1 id="page-title">Photographs<span class="title-period">.</span></h1></div>
     </section>
     <nav class="collections" aria-label="Photo collections">
       <div class="collection-links">
@@ -35,7 +34,6 @@ permalink: /portfolio/
         <a href="#{{ collection.id }}" data-collection="{{ collection.id }}">{{ collection.title }} <sup>{{ collection_photos | size }}</sup></a>
         {% endfor %}
       </div>
-      <span class="collection-type" id="collection-type">Photography & virtual worlds</span>
     </nav>
     <p class="sr-only" id="gallery-status" role="status" aria-live="polite"></p>
     <section class="gallery" id="gallery" data-opening-count="{{ site.data.portfolio.opening_count | default: 0 }}" aria-label="Photography gallery" tabindex="-1">
@@ -46,7 +44,7 @@ permalink: /portfolio/
       </a>
       {% endfor %}
     </section>
-    <footer class="gallery-footer"><span>Through the lens of Zhe Xiao</span><a href="#page-title">Back to top ↑</a><span>Black Myth: Wukong · virtual photography & game artwork</span></footer>
+    <footer class="gallery-footer"><span>Through the lens of Zhe Xiao</span><a href="#page-title">Back to top ↑</a></footer>
   </main>
   <dialog class="lightbox" aria-label="Photo viewer" aria-describedby="viewer-help">
     <div class="viewer-top"><span id="viewer-collection"></span><button class="viewer-close" type="button" aria-label="Close photo viewer">Close <span aria-hidden="true">×</span></button></div>

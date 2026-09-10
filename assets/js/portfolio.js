@@ -71,7 +71,6 @@ if (typeof module !== 'undefined' && module.exports) module.exports = { portfoli
     });
     const label = collection === 'all' ? 'All works' : visible[0].dataset.collectionLabel;
     status.textContent = `${label}: ${visible.length} images`;
-    document.getElementById('collection-type').textContent = collection === 'black-myth' ? 'Virtual photography & game artwork' : collection === 'all' ? 'Photography & virtual worlds' : 'Photography';
     layout();
   }
   links.forEach(link => link.addEventListener('click', event => {
