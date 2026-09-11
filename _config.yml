@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Zachary-Zhe Xiao"
 description              : "Exploring the World; Thinking and Learning."
-repository               : "Zachary-XIAO/zhexiao.github.io"
+repository               : "zachary-zhexiao/zachary-zhexiao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,11 +24,11 @@ author:
   name             : 'Zhe (Zachary) Xiao'
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Carnegie Mellon University"
-  location         : "Pittsburgh"
+  location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=kH0sdkwAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "xiao-zhe.xiao@connect.polyu.hk"
+  email            : "zacharyzhexiao@cmu.edu"
   researchgate     : # "https://www.researchgate.net/profile/Zhe-Xiao-14" 
   uri              :
   bitbucket        :

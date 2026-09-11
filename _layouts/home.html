@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.author.name | escape }} | Research & Photography</title>
+  <meta name="description" content="{{ site.description | escape }}">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/images/apple-touch-icon.png' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
+  <script src="{{ '/assets/js/scholar-citations.js' | relative_url }}" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="home-header">
+    <div class="header-inner">
+      <nav aria-label="Main navigation">
+        <a href="#about-me">About</a>
+        <a href="#-news">News</a>
+        <a href="#-publications">Publications</a>
+        <a href="#-honors-and-awards">Honors &amp; awards</a>
+        <a href="#-projects">Projects</a>
+        <a href="#-experience">Experience</a>
+        <a href="#-educations">Education</a>
+        <a href="#-portfolio">Photography</a>
+        <a class="photography-link" href="{{ '/portfolio/' | relative_url }}">Portfolio <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+  <div class="home-shell">
+    <aside class="identity" aria-label="Personal profile">
+      <img class="portrait" src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name | escape }}" width="512" height="512" fetchpriority="high">
+      <h1>{{ site.author.name }}</h1>
+      <p class="affiliation">{{ site.author.bio }}</p>
+      {% if site.author.location %}<p class="location"><i class="profile-icon icon-location" aria-hidden="true"></i>{{ site.author.location }}</p>{% endif %}
+      <div class="profile-links" aria-label="Contact and academic profiles">
+        {% if site.author.email %}<a class="email-link" href="mailto:{{ site.author.email }}"><i class="profile-icon icon-email" aria-hidden="true"></i>Email</a>{% endif %}
+        {% if site.author.googlescholar %}<a class="scholar-link" href="{{ site.author.googlescholar }}"><i class="profile-icon icon-scholar" aria-hidden="true"></i><span>Google Scholar</span><span class="citation-count" id="scholar-citations" data-scholar-id="{{ site.data.google_scholar.scholar_id }}" data-updated="{{ site.data.google_scholar.updated }}" data-source="https://raw.githubusercontent.com/{{ site.repository }}/google-scholar-stats/gs_data.json" title="Total citations · Last updated {{ site.data.google_scholar.updated | date: '%Y-%m-%d' }}">{{ site.data.google_scholar.citedby }}</span></a>{% endif %}
+        {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}"><i class="profile-icon icon-github" aria-hidden="true"></i>GitHub</a>{% endif %}
+        {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="profile-icon icon-linkedin" aria-hidden="true"></i>LinkedIn</a>{% endif %}
+      </div>
+      <p class="personal-note">{{ site.description }}</p>
+    </aside>
+    <main id="main-content" class="home-content">{{ content }}</main>
+  </div>
+  <footer class="home-footer">
+    <div class="footer-line"><span>{{ site.author.name }}</span><a href="#about-me">Back to top ↑</a></div>
+    {% include footer.html %}
+  </footer>
+  {% if site.google_analytics_id %}{% include analytics.html %}{% endif %}
+</body>
+</html>

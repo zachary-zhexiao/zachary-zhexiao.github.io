@@ -1,9 +1,10 @@
 ---
 permalink: /
+layout: home
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,63 +16,75 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
 
-# About Me
+
+
+<section class="home-section section-about" id="about-me" aria-labelledby="heading-about" markdown="1">
+
+## About me {#heading-about}
 
 I am an M.S. student in Electrical and Computer Engineering at <a href='https://www.cmu.edu'>Carnegie Mellon University</a>. I received my B.Eng. in Electronic and Information Engineering from <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a>. I collaborate closely with <a href="https://junxiao01.github.io/">Dr. Jun Xiao</a> and was supervised by <a href="https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ">Prof. Kenneth Kin-Man Lam</a> on 3D vision. I am also grateful for the mentorship of <a href="https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ">Prof. Wenjing Jia</a> at <a href="https://www.uts.edu.au/">University of Technology Sydney</a>, Sydney.
 
-Since March 2026, I have been an algorithm intern at [Tongyi Lab, Alibaba Group](https://tongyi.aliyun.com/), working on multimodal generative models for image, video, and audio generation.
+From March to August 2026, I was an algorithm intern with the Wan team at [Tongyi Lab, Alibaba Group](https://tongyi.aliyun.com/), working on multimodal generative models for image, video, and audio generation.
 
-From May 2025 to Dec 2025, I worked as a research intern at [Sony](https://www.sony.com/en/SonyInfo/research/about/china-laboratory/), Beijing, focusing on generative 3D vision.
+From May 2025 to Dec 2025, I worked as a research intern at [Sony Research](https://research.sony/), focusing on generative 3D vision.
 
-My research interests include 2D/3D computer vision (e.g., image processing/super-resolution//restoration/enhancement, novel view synthesis) and generative modeling (e.g., diffusion models).
+<p class="research-focus">My research interests focus on image and video generation and 3D computer vision.</p>
 
 <!-- I am also a photography lover—[check out my selected photos here](photowall/photowall.html)! -->
 I am also a photography lover — <a href="{{ '/portfolio/' | relative_url }}" target="_self">check out my portfolio here</a>!
 <!--Google citation: <a href='https://scholar.google.com/citations?user=kH0sdkwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FYushenZuo%2Fyushenzuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-<div style="display: flex; align-items: center; padding: 10px;">
+<div class="affiliation-logos">
   <a href="https://www.polyu.edu.hk/">
-    <img src="images/polyu.png" width="160" style="display: block; margin-right: 10px; filter: none !important; opacity: 1 !important;">
+    <img src="images/polyu.png" alt="The Hong Kong Polytechnic University" width="160">
   </a>
-  <a href="https://www.sony.com/en/SonyInfo/research/about/china-laboratory/">
-    <img src="images/sony.jpeg" width="80" style="display: block; margin-right: 10px; filter: none !important; opacity: 1 !important;">
+  <a href="https://research.sony/">
+    <img src="images/sony.jpeg" alt="Sony Research" width="80">
   </a>
   <a href="https://tongyi.aliyun.com/">
-    <img src="images/tongyi.jpeg" width="80" style="display: block; margin-right: 10px; filter: none !important; opacity: 1 !important;">
+    <img src="images/tongyi.jpeg" alt="Tongyi Lab" width="80">
   </a>
   <a href="https://www.cmu.edu/">
-    <img src="images/CMU.png" width="80" style="display: block; filter: none !important; opacity: 1 !important;">
+    <img src="images/CMU.png" alt="Carnegie Mellon University" width="80">
   </a>
 </div>
 
+</section>
 
-# 🔥 News
+<section class="home-section section-news" id="-news" aria-labelledby="heading-news" markdown="1">
 
-- *2025.04*: &nbsp;🎉🎉 3rd place in <a href='https://cvlai.net/ntire/2025/'>NTIRE 2025 Challenge</a> on Restore Any Image Model (RAIM) in the Wild (Track 1) at **CVPR 2025**. Honored to be the project lead for our team!
+## News {#heading-news}
+
+- *2026.09:* Submitted a first-author paper to **ICLR 2027**.
+- *2026.08:* Completed my *algorithm internship* at **Alibaba Tongyi Lab**.
+- *2025.12:* Completed my research internship at **Sony Research**, with a first-author paper under review at **KBS**.
+
+- *2025.04:* 3rd place in <a href='https://cvlai.net/ntire/2025/'>NTIRE 2025 Challenge</a> on Restore Any Image Model (RAIM) in the Wild (Track 1) at **CVPR 2025**. Honored to be the project lead for our team!
 
 
 <!-- - *2025.01*:&nbsp;Our paper on enhancing 3D Gaussian splatting for novel view synthesis is submitted to **IEEE Transactions on Visualization and Computer Graphics (TVCG)**. -->
 
 <!-- - *2025.01*: &nbsp;🎉🎉 Our paper **MFGAN: OCT Image Super-resolution and Enhancement with Blind Degradation and Multi-frame Fusion** has been awarded the **Best Paper Award** at **IWAIT 2025**. -->
 
-- *2024.12*: &nbsp;🎉🎉 Our paper **See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization** is accepted by **ICASSP 2025**. 
+- *2024.12:* Our paper **See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization** is accepted by **ICASSP 2025**.
 <!--on enhancing 3D Gaussian splatting for novel view synthesis under sparse views-->
 
-- *2024.12*: &nbsp;🎉🎉 Awarded **The Hong Kong Polytechnic University Scholarship** among a group of ~20 awardees!
+- *2024.12:* Awarded **The Hong Kong Polytechnic University Scholarship** among a group of ~20 awardees!
 
-- *2024.08*: &nbsp;🎉🎉 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> at **ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the [summary paper](https://arxiv.org/pdf/2409.17256).
+- *2024.08:* 2nd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/17705'>AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content</a> at **ECCV 2024** and our method **Fast Sequential Motion Diffusion (FSMD)** is selected to present in the [summary paper](https://arxiv.org/pdf/2409.17256).
 
-- *2024.08*: &nbsp;🎉🎉 3rd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/19222'>AIM 2024 Challenge on Sparse Neural Rendering for Track 1 and Track 2</a> at **ECCV 2024** and our method **ESNeRF** is selected to present in the [summary paper](https://arxiv.org/pdf/2409.15045).
+- *2024.08:* 3rd place in <a href='https://codalab.lisn.upsaclay.fr/competitions/19222'>AIM 2024 Challenge on Sparse Neural Rendering for Track 1 and Track 2</a> at **ECCV 2024** and our method **ESNeRF** is selected to present in the [summary paper](https://arxiv.org/pdf/2409.15045).
 
 <!-- - *2024.12*: &nbsp;🎉🎉 Our paper **A Multi-Perceptual Learning Network for Retina OCT Image Denoising and Classification** is presented as an oral presentation at **APSIPA 2024**. -->
 
+</section>
 
-# 📝 Publications 
+<section class="home-section section-publications" id="-publications" aria-labelledby="heading-publications" markdown="1">
 
+## Publications {#heading-publications}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ICASSP_2025.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ICASSP_2025.png' alt="Overview of See In Detail: sparse-view 3D Gaussian splatting" loading="lazy" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**
   
@@ -142,37 +155,35 @@ Michal Nazarczuk, Sibi Catley‑Chandar, Thomas Tanay, Richard Shaw, Eduardo Pé
 </div>
 </div> -->
 
+</section>
+
+<section class="home-section section-awards" id="-honors-and-awards" aria-labelledby="heading-awards" markdown="1">
+
+## Honors & awards {#heading-awards}
+
+- *2025.04:* **3<sup>rd</sup>** place in NTIRE 2025 Challenge on Restore Any Image Model (RAIM) in the Wild (Track 1) at **CVPR 2025**, project lead.
 
 
-# 🎖 Honors and Awards
-
-
-- *2025.04*: **3<sup>rd</sup>** place in NTIRE 2025 Challenge on Restore Any Image Model (RAIM) in the Wild (Track 1) at **CVPR 2025**, project lead.
-
-- *2025.01*: **Best Paper Award** at IWAIT 2025
-
-- *2024.12*: **The Hong Kong Polytechnic University Scholarship** 
+- *2024.12:* **The Hong Kong Polytechnic University Scholarship**
   *(Around 20 awardees university wise for outstanding achievements)*
   
-- *2024.08*: **2<sup>nd</sup>** place in AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content at **ECCV 2024**
+- *2024.08:* **2<sup>nd</sup>** place in AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content at **ECCV 2024**
 
-- *2024.08*: **3<sup>rd</sup>** place in AIM 2024 Challenge on Sparse Neural Rendering for Track 1 and Track 2 at **ECCV 2024**
+- *2024.08:* **3<sup>rd</sup>** place in AIM 2024 Challenge on Sparse Neural Rendering for Track 1 and Track 2 at **ECCV 2024**
 <!-- - *2024.10*: Dean’s Honours List -->
-- *2024.04*: HKSAR Government Scholarship Fund - Talent Development Scholarship
+- *2024.04:* HKSAR Government Scholarship Fund - Talent Development Scholarship
 <!-- - *2024.04*: HKSAR Government Scholarship Fund - Reaching Out Award -->
-- *2024.09*: Undergraduate Research and Innovation Scheme Scholarship
-- *2024.06*: Department of  Electrical and Electronic Engineering Scholarship for Hall Residents for achieving the highest GPA in the department in the 2023–24 academic year, PolyU.
+- *2024.09:* Undergraduate Research and Innovation Scheme Scholarship
 <!-- *(the only awardee from the department for academic performance in the academic year)* -->
-- *2023.12*: **3<sup>rd</sup>** place in Huawei ICT Competition Hong Kong 2023 final round on Computing Track
 <!-- - *2023.10*: Dean’s Honours List -->
-- *2023.10*: Best GPA Award, from the Department of Electronic and Information Engineering, PolyU.
 
+</section>
 
+<section class="home-section section-projects" id="-projects" aria-labelledby="heading-projects" markdown="1">
 
+## Projects {#heading-projects}
 
-# 🚀 Projects
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Smart Medicine Box</div><img src='images/smart_medicine_box.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Smart Medicine Box</div><img src='images/smart_medicine_box.png' alt="Smart Medicine Box prototype" loading="lazy" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Smart Medicine Box**  
 *Developed Jan. 2024 – Feb. 2024*  
@@ -184,26 +195,36 @@ Built an end-to-end digital medication management prototype integrating hardware
   </div>
 </div>
 
+</section>
 
-# 💻 Experience
-- *2025.05 - 2025.12*, Research Intern, Sony
-- *2023.02 – 2024.06*, Student Assistant, The Hong Kong Polytechnic University
+<section class="home-section section-experience" id="-experience" aria-labelledby="heading-experience" markdown="1">
 
-# 📖 Educations
-- *2021.09 - 2025.06*, B.Eng. in Electronic and Information Engineering, The Hong Kong Polytechnic University, with First Class Honours and Dean’s Honours List.
-- *2026.08 - 2028.05*, M.S. in Electrical and Computer Engineering, Carnegie Mellon University.
+## Experience {#heading-experience}
 
+- *2026.03 – 2026.08* Algorithm Intern, Wan Team, Alibaba Tongyi Lab, Hangzhou, China.
+- *2025.05 – 2025.12* Research Intern, Sony Research, Research & Development Center, Beijing, China.
+- *2025.02 – 2025.04* *Student Assistant*, The Hong Kong Polytechnic University.
 
+</section>
 
-# 📷 Portfolio
+<section class="home-section section-education" id="-educations" aria-labelledby="heading-education" markdown="1">
+
+## Education {#heading-education}
+
+- *2026.08 – 2028.05* **M.S. in Electrical and Computer Engineering**, Carnegie Mellon University.
+- *2021.09 – 2025.06* **B.Eng. in Electronic and Information Engineering**, The Hong Kong Polytechnic University, with First Class Honours and Dean’s Honours List.
+
+</section>
+
+<section class="home-section section-portfolio" id="-portfolio" aria-labelledby="heading-portfolio" markdown="1">
+
+## Photography {#heading-portfolio}
 
 <!-- [![Portfolio Entry](images/Portfolio.jpg)](https://zachary-zhexiao.github.io/_pages/photowall/photowall.html) -->
 
-<div align="center">
-<a href="{{ '/portfolio/' | relative_url }}" target="_self">
+<a href="{{ '/portfolio/' | relative_url }}" target="_self" class="portfolio-cover">
   <img src="{{ '/images/Portfolio.jpg' | relative_url }}" alt="Portfolio Entry" width="50%" loading="lazy">
 </a>
-</div>
 <!-- 🖼️ -->
 
 
@@ -221,3 +242,5 @@ Built an end-to-end digital medication management prototype integrating hardware
 <!-- 
 
 -->
+
+</section>
