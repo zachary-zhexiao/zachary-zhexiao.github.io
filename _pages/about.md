@@ -23,13 +23,13 @@ redirect_from:
 
 ## About me {#heading-about}
 
-I am an M.S. student in Electrical and Computer Engineering at <a href='https://www.cmu.edu'>Carnegie Mellon University</a>. I received my B.Eng. in Electronic and Information Engineering from <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a>. I collaborate closely with <a href="https://junxiao01.github.io/">Dr. Jun Xiao</a> and was supervised by <a href="https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ">Prof. Kenneth Kin-Man Lam</a> on 3D vision. I am also grateful for the mentorship of <a href="https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ">Prof. Wenjing Jia</a> at <a href="https://www.uts.edu.au/">University of Technology Sydney</a>, Sydney.
+I am an M.S. student in Electrical and Computer Engineering at <a href='https://www.cmu.edu'>Carnegie Mellon University</a>, supervised by [Prof. Fernando De La Torre Frade](https://scholar.google.com/citations?user=YB8_6gkAAAAJ&hl=en). 
 
-From March to August 2026, I was an algorithm intern with the Wan team at [Tongyi Lab, Alibaba Group](https://tongyi.aliyun.com/), working on multimodal generative models for image, video, and audio generation.
+I received my B.Eng. in Electronic and Information Engineering from <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a>. I collaborate closely with <a href="https://junxiao01.github.io/">Dr. Jun Xiao</a> and was supervised by <a href="https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ">Prof. Kenneth Kin-Man Lam</a> on 3D vision. I am also grateful for the mentorship of <a href="https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ">Prof. Wenjing Jia</a> at <a href="https://www.uts.edu.au/">University of Technology Sydney</a>, Sydney.
 
-From May 2025 to Dec 2025, I worked as a research intern at [Sony Research](https://research.sony/), focusing on generative 3D vision.
+From March to August 2026, I was an algorithm intern with the Wan team at [Tongyi Lab, Alibaba Group](https://tongyi.aliyun.com/), working on multimodal generative models for image, video, and audio generation. From May 2025 to Dec 2025, I worked as a research intern at [Sony Research](https://research.sony/), focusing on generative 3D vision.
 
-<p class="research-focus">My research interests focus on image and video generation and 3D computer vision.</p>
+<p class="research-focus">My research interests focus on generative modeling, including image and video generation and generative 3D vision.</p>
 
 <!-- I am also a photography lover—[check out my selected photos here](photowall/photowall.html)! -->
 I am also a photography lover — <a href="{{ '/portfolio/' | relative_url }}" target="_self">check out my portfolio here</a>!
