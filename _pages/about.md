@@ -23,7 +23,7 @@ redirect_from:
 
 ## About me {#heading-about}
 
-I am an M.S. student in Electrical and Computer Engineering at <a href='https://www.cmu.edu'>Carnegie Mellon University</a>, supervised by [Prof. Fernando De La Torre Frade](https://scholar.google.com/citations?user=YB8_6gkAAAAJ&hl=en). 
+I am an M.S. student in Electrical and Computer Engineering at <a href='https://www.cmu.edu'>Carnegie Mellon University</a>, supervised by [Prof. Fernando De La Torre](https://scholar.google.com/citations?user=YB8_6gkAAAAJ&hl=en). 
 
 I received my B.Eng. in Electronic and Information Engineering from <a href="https://www.polyu.edu.hk/">The Hong Kong Polytechnic University</a>. I collaborate closely with <a href="https://junxiao01.github.io/">Dr. Jun Xiao</a> and was supervised by <a href="https://scholar.google.com.hk/citations?user=6yK7bewAAAAJ">Prof. Kenneth Kin-Man Lam</a> on 3D vision. I am also grateful for the mentorship of <a href="https://scholar.google.com.au/citations?hl=en&user=BzXhftkAAAAJ">Prof. Wenjing Jia</a> at <a href="https://www.uts.edu.au/">University of Technology Sydney</a>, Sydney.
 
